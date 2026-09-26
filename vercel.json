@@ -1,0 +1,15 @@
+{
+  "headers": [
+    {
+      "source": "/Uebungen-Lektion-01-11/(.*)",
+      "headers": [
+        { "key": "Cache-Control", "value": "no-cache" },
+        { "key": "Content-Type", "value": "text/plain; charset=utf-8" }
+      ]
+    },
+    {
+      "source": "/(.*)\\.mov",
+      "headers": [{ "key": "Content-Type", "value": "video/mp4" }]
+    }
+  ]
+}
