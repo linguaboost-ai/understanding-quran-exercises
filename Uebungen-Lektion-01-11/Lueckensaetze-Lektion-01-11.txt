@@ -1,0 +1,735 @@
+QURAN VERSTEHEN LERNEN — LÜCKENSÄTZE FÜR DIE LEKTIONEN 1 BIS 11
+
+Aufgabe für den Schüler
+  Welches Wort passt in die Lücke?
+
+Regel
+  Es entscheidet immer die Bedeutung, nie die Grammatik. Von den vier
+  Wörtern zur Auswahl ergibt nur eines einen sinnvollen Satz.
+
+Deutsch oder Arabisch
+  Lektion 1 bis 4: der Satz ist deutsch, eingesetzt wird ein arabisches Wort.
+  Ab Lektion 5: der Satz ist arabisch.
+
+  Der Grund für den Wechsel genau dort: Bis Lektion 4 kennt der Schüler nur
+  Zeigesätze — „dies ist ein X". In so einem Satz passt inhaltlich fast jedes
+  Hauptwort, die Lücke entscheidet nichts. Erst mit den Eigenschaftswörtern
+  aus Lektion 5 steht ein zweites inhaltliches Wort im Satz, und damit wird
+  die Lücke eindeutig: Wasser kann gut sein, aber nicht wissend; ein Weg kann
+  gerade sein, aber nicht weise.
+  Ab Lektion 8 kommt mit der Verbindung ein zweites Hauptwort dazu, ab
+  Lektion 9 die Ortsangabe — dort wird es noch klarer.
+
+Aufbau der Blöcke
+  #### AUFGABE | LÜCKENSATZ | NW + QW   eine Aufgabe = eine Folie
+  FRAGE:       deutscher Satz mit Lücke oder die Situation
+  TEXT:        arabischer Satz mit Lücke, ab Lektion 5
+  OPTION:      eine Antwortmöglichkeit, Reihenfolge wird gemischt
+  RICHTIG:     die richtige Option
+  BEGRÜNDUNG:  wird nach dem Antworten gezeigt
+
+Wortauswahl
+  Sechs Aufgaben je Lektion, eine für jedes neue Wort und jedes Quizwort.
+  Die falschen Antworten kommen aus der Auswahl der Lektion.
+
+======================================================================
+
+#### AUFGABEN LEKTION 1 | Zeigesätze
+
+----------------------------------------------------------------------
+
+#### AUFGABE | LÜCKENSATZ | NW + QW
+FRAGE: Er zeigt auf sein Haus und sagt: „___ ist mein Haus."
+OPTION: هٰذَا
+OPTION: شَيۡء
+OPTION: كِتَاب
+OPTION: مَاء
+RICHTIG: هٰذَا
+BEGRÜNDUNG: Nur mit dem Zeigewort wird daraus ein Satz, mit dem man auf etwas deutet.
+
+#### AUFGABE | LÜCKENSATZ | NW + QW
+FRAGE: Im Dunkeln stößt er gegen ein hartes ___.
+OPTION: شَيۡء
+OPTION: سَبِيل
+OPTION: مَسۡجِد
+OPTION: هٰذَا
+RICHTIG: شَيۡء
+BEGRÜNDUNG: Er weiß nicht, was es ist — also braucht er das allgemeinste Wort.
+
+#### AUFGABE | LÜCKENSATZ | NW + QW
+FRAGE: Der Pilger fragt nach dem ___ nach Mekka.
+OPTION: سَبِيل
+OPTION: مَاء
+OPTION: كِتَاب
+OPTION: هٰذَا
+RICHTIG: سَبِيل
+BEGRÜNDUNG: Nach Mekka führt ein Weg, kein Buch und kein Wasser.
+
+#### AUFGABE | LÜCKENSATZ | NW + QW
+FRAGE: Zum Freitagsgebet gehen die Männer in die ___.
+OPTION: مَسۡجِد
+OPTION: كِتَاب
+OPTION: شَيۡء
+OPTION: مَاء
+RICHTIG: مَسۡجِد
+BEGRÜNDUNG: Gebetet wird an einem Ort, und dieser Ort ist die Moschee.
+
+#### AUFGABE | LÜCKENSATZ | NW + QW
+FRAGE: Der Quran ist ein ___ von Allah.
+OPTION: كِتَاب
+OPTION: مَسۡجِد
+OPTION: مَاء
+OPTION: سَبِيل
+RICHTIG: كِتَاب
+BEGRÜNDUNG: Der Quran wird gelesen und geschrieben — er ist ein Buch.
+
+#### AUFGABE | LÜCKENSATZ | NW + QW
+FRAGE: Nach dem Sport trinkt er ein Glas ___.
+OPTION: مَاء
+OPTION: كِتَاب
+OPTION: سَبِيل
+OPTION: مَسۡجِد
+RICHTIG: مَاء
+BEGRÜNDUNG: Trinken kann man nur etwas Flüssiges.
+
+======================================================================
+
+#### AUFGABEN LEKTION 2 | Wer oder was?
+
+----------------------------------------------------------------------
+
+#### AUFGABE | LÜCKENSATZ | NW + QW
+FRAGE: Das Kind zeigt auf ein Buch und fragt: „___ ist das?"
+OPTION: مَا
+OPTION: مَنۡ
+OPTION: رَجُل
+OPTION: عَبۡد
+RICHTIG: مَا
+BEGRÜNDUNG: Ein Buch ist eine Sache, und nach Sachen fragt man mit mā.
+
+#### AUFGABE | LÜCKENSATZ | NW + QW
+FRAGE: Ein Fremder kommt herein, und das Kind fragt: „___ ist das?"
+OPTION: مَنۡ
+OPTION: مَا
+OPTION: كِتَاب
+OPTION: مَاء
+RICHTIG: مَنۡ
+BEGRÜNDUNG: Ein Fremder ist eine Person, und nach Personen fragt man mit man.
+
+#### AUFGABE | LÜCKENSATZ | NW + QW
+FRAGE: Vor der Moschee wartet ein ___ mit grauem Bart.
+OPTION: رَجُل
+OPTION: كِتَاب
+OPTION: مَاء
+OPTION: سَبِيل
+RICHTIG: رَجُل
+BEGRÜNDUNG: Einen Bart hat nur ein Mensch.
+
+#### AUFGABE | LÜCKENSATZ | NW + QW
+FRAGE: Muhammad ist der ___ Allahs.
+OPTION: رَسُول
+OPTION: مَسۡجِد
+OPTION: مَاء
+OPTION: شَيۡء
+RICHTIG: رَسُول
+BEGRÜNDUNG: Er wurde mit einer Botschaft gesandt — das ist ein Gesandter.
+
+#### AUFGABE | LÜCKENSATZ | NW + QW
+FRAGE: Wer Allah dient und Ihm gehorcht, ist Sein ___.
+OPTION: عَبۡد
+OPTION: كِتَاب
+OPTION: سَبِيل
+OPTION: مَسۡجِد
+RICHTIG: عَبۡد
+BEGRÜNDUNG: Wer dient, ist ein Diener.
+
+#### AUFGABE | LÜCKENSATZ | NW + QW
+FRAGE: Musa und Isa waren jeder ein ___.
+OPTION: نَبِيّ
+OPTION: مَسۡجِد
+OPTION: كِتَاب
+OPTION: مَاء
+RICHTIG: نَبِيّ
+BEGRÜNDUNG: Beide bekamen Offenbarung von Allah — sie waren Propheten.
+
+======================================================================
+
+#### AUFGABEN LEKTION 3 | Weibliche Wörter
+
+----------------------------------------------------------------------
+
+#### AUFGABE | LÜCKENSATZ | NW + QW
+FRAGE: Er zeigt auf seine Heimatstadt und sagt: „___ ist meine Ortschaft."
+OPTION: هٰذِهِ
+OPTION: سَاعَة
+OPTION: صَلَاة
+OPTION: آيَة
+RICHTIG: هٰذِهِ
+BEGRÜNDUNG: Nur mit dem Zeigewort deutet er auf etwas, das er vor sich hat.
+
+#### AUFGABE | LÜCKENSATZ | NW + QW
+FRAGE: Der Zeiger der Uhr rückt weiter — eine ___ ist vergangen.
+OPTION: سَاعَة
+OPTION: قَرۡيَة
+OPTION: صَلَاة
+OPTION: رَحۡمَة
+RICHTIG: سَاعَة
+BEGRÜNDUNG: Was die Uhr misst, ist die Stunde.
+
+#### AUFGABE | LÜCKENSATZ | NW + QW
+FRAGE: Am Fluss liegt eine kleine ___ mit dreißig Häusern.
+OPTION: قَرۡيَة
+OPTION: سَاعَة
+OPTION: آيَة
+OPTION: رَحۡمَة
+RICHTIG: قَرۡيَة
+BEGRÜNDUNG: Wo Häuser beieinanderstehen, ist eine Ortschaft.
+
+#### AUFGABE | LÜCKENSATZ | NW + QW
+FRAGE: Fünfmal am Tag verrichtet der Muslim das ___.
+OPTION: صَلَاة
+OPTION: قَرۡيَة
+OPTION: كِتَاب
+OPTION: مَاء
+RICHTIG: صَلَاة
+BEGRÜNDUNG: Was der Muslim fünfmal täglich verrichtet, ist das Gebet.
+
+#### AUFGABE | LÜCKENSATZ | NW + QW
+FRAGE: Allah vergibt dem, der bereut — das ist Seine ___.
+OPTION: رَحۡمَة
+OPTION: سَاعَة
+OPTION: قَرۡيَة
+OPTION: مَسۡجِد
+RICHTIG: رَحۡمَة
+BEGRÜNDUNG: Vergebung kommt aus Barmherzigkeit.
+
+#### AUFGABE | LÜCKENSATZ | NW + QW
+FRAGE: Jeder Vers im Quran ist ein ___ von Allah.
+OPTION: آيَة
+OPTION: سَاعَة
+OPTION: قَرۡيَة
+OPTION: مَاء
+RICHTIG: آيَة
+BEGRÜNDUNG: Ein Vers ist ein Zeichen, das auf Allah hinweist.
+
+======================================================================
+
+#### AUFGABEN LEKTION 4 | Weiblich, ohne dass man es sieht
+
+----------------------------------------------------------------------
+
+#### AUFGABE | LÜCKENSATZ | NW + QW
+FRAGE: Am Morgen geht die ___ auf und wird warm.
+OPTION: شَمۡس
+OPTION: يَد
+OPTION: أَرۡض
+OPTION: قَرۡيَة
+RICHTIG: شَمۡس
+BEGRÜNDUNG: Was aufgeht und wärmt, ist die Sonne.
+
+#### AUFGABE | LÜCKENSATZ | NW + QW
+FRAGE: Der ___ weht die Blätter vom Baum.
+OPTION: رِيح
+OPTION: مَاء
+OPTION: يَد
+OPTION: سَمَاء
+RICHTIG: رِيح
+BEGRÜNDUNG: Wehen kann nur der Wind.
+
+#### AUFGABE | LÜCKENSATZ | NW + QW
+FRAGE: Zur Begrüßung reicht er ihm die ___.
+OPTION: يَد
+OPTION: شَمۡس
+OPTION: أَرۡض
+OPTION: سَمَاء
+RICHTIG: يَد
+BEGRÜNDUNG: Gegrüßt wird mit dem Körperteil, den man ausstreckt.
+
+#### AUFGABE | LÜCKENSATZ | NW + QW
+FRAGE: Die Ungläubigen fürchten das Feuer der ___.
+OPTION: جَهَنَّم
+OPTION: قَرۡيَة
+OPTION: سَمَاء
+OPTION: يَد
+RICHTIG: جَهَنَّم
+BEGRÜNDUNG: Der Ort der Strafe mit Feuer ist die Hölle.
+
+#### AUFGABE | LÜCKENSATZ | NW + QW
+FRAGE: Über uns spannt sich der blaue ___ mit Wolken.
+OPTION: سَمَاء
+OPTION: أَرۡض
+OPTION: يَد
+OPTION: قَرۡيَة
+RICHTIG: سَمَاء
+BEGRÜNDUNG: Wolken stehen oben — dort ist der Himmel.
+
+#### AUFGABE | LÜCKENSATZ | NW + QW
+FRAGE: Der Bauer pflügt die ___ und sät sein Korn.
+OPTION: أَرۡض
+OPTION: سَمَاء
+OPTION: شَمۡس
+OPTION: رِيح
+RICHTIG: أَرۡض
+BEGRÜNDUNG: Gepflügt und gesät wird auf dem Boden.
+
+======================================================================
+
+#### AUFGABEN LEKTION 5 | Eigenschaftswörter
+
+----------------------------------------------------------------------
+
+#### AUFGABE | LÜCKENSATZ | NW + QW
+FRAGE: Welches Wort passt in die Lücke?
+TEXT: هٰذَا رَجُلٌ ___
+OPTION: عَلِيمٌ
+OPTION: مُسۡتَقِيمٌ
+OPTION: مَاءٌ
+OPTION: مَسۡجِدٌ
+RICHTIG: عَلِيمٌ
+BEGRÜNDUNG: Wissen kann nur ein Mensch. Gerade ist ein Weg, nicht ein Mann.
+
+#### AUFGABE | LÜCKENSATZ | NW + QW
+FRAGE: Welches Wort passt in die Lücke?
+TEXT: هٰذِهِ آيَةٌ ___
+OPTION: عَظِيمَةٌ
+OPTION: عَلِيمَةٌ
+OPTION: مُسۡتَقِيمَةٌ
+OPTION: حَكِيمَةٌ
+RICHTIG: عَظِيمَةٌ
+BEGRÜNDUNG: Ein Zeichen kann gewaltig sein, aber nicht wissend, weise oder gerade.
+
+#### AUFGABE | LÜCKENSATZ | NW + QW
+FRAGE: Welches Wort passt in die Lücke?
+TEXT: هٰذَا مَاءٌ ___
+OPTION: طَيِّبٌ
+OPTION: عَلِيمٌ
+OPTION: حَكِيمٌ
+OPTION: مُسۡتَقِيمٌ
+RICHTIG: طَيِّبٌ
+BEGRÜNDUNG: Wasser kann rein und gut sein. Wissend, weise oder gerade kann es nicht sein.
+
+#### AUFGABE | LÜCKENSATZ | NW + QW
+FRAGE: Welches Wort passt in die Lücke?
+TEXT: هٰذَا سَبِيلٌ ___
+OPTION: مُسۡتَقِيمٌ
+OPTION: عَلِيمٌ
+OPTION: حَكِيمٌ
+OPTION: إِلٰهٌ
+RICHTIG: مُسۡتَقِيمٌ
+BEGRÜNDUNG: Gerade oder krumm ist ein Weg. Wissen und Weisheit gehören zu einem Wesen.
+
+#### AUFGABE | LÜCKENSATZ | NW + QW
+FRAGE: Welches Wort passt in die Lücke?
+TEXT: هٰذَا كِتَابٌ ___
+OPTION: حَكِيمٌ
+OPTION: مُسۡتَقِيمٌ
+OPTION: إِلٰهٌ
+OPTION: مَاءٌ
+RICHTIG: حَكِيمٌ
+BEGRÜNDUNG: Ein Buch kann Weisheit enthalten. Gerade ist ein Weg, nicht ein Buch.
+
+#### AUFGABE | LÜCKENSATZ | NW + QW
+FRAGE: Welches Wort passt in die Lücke?
+TEXT: هٰذَا ___ حَكِيمٌ عَلِيمٌ
+OPTION: إِلٰهٌ
+OPTION: مَاءٌ
+OPTION: مَسۡجِدٌ
+OPTION: سَبِيلٌ
+RICHTIG: إِلٰهٌ
+BEGRÜNDUNG: Weise und wissend kann nur ein Wesen sein, nicht Wasser, ein Ort oder ein Weg.
+
+======================================================================
+
+#### AUFGABEN LEKTION 6 | Der, die, das
+
+----------------------------------------------------------------------
+
+#### AUFGABE | LÜCKENSATZ | NW + QW
+FRAGE: Was beginnt mit der Geburt und endet mit dem Tod?
+TEXT: هٰذِهِ ___ ٱلدُّنۡيَا
+OPTION: ٱلۡحَيَاةُ
+OPTION: ٱلسَّاعَةُ
+OPTION: ٱلۡقَرۡيَةُ
+OPTION: ٱلرَّحۡمَةُ
+RICHTIG: ٱلۡحَيَاةُ
+BEGRÜNDUNG: Zwischen Geburt und Tod liegt das Leben.
+
+#### AUFGABE | LÜCKENSATZ | NW + QW
+FRAGE: Welches Wort passt in die Lücke?
+TEXT: ٱلۡعَذَابُ ___
+OPTION: شَدِيدٌ
+OPTION: طَيِّبٌ
+OPTION: مُسۡتَقِيمٌ
+OPTION: وَاحِدٌ
+RICHTIG: شَدِيدٌ
+BEGRÜNDUNG: Eine Strafe ist hart. Gut ist sie nicht, gerade und einzig auch nicht.
+
+#### AUFGABE | LÜCKENSATZ | NW + QW
+FRAGE: Welches Wort passt in die Lücke?
+TEXT: ٱللّٰهُ إِلٰهٌ ___
+OPTION: وَاحِدٌ
+OPTION: شَدِيدٌ
+OPTION: مُسۡتَقِيمٌ
+OPTION: عَذَابٌ
+RICHTIG: وَاحِدٌ
+BEGRÜNDUNG: Es gibt nur einen Gott — das sagt dieses Wort.
+
+#### AUFGABE | LÜCKENSATZ | NW + QW
+FRAGE: Welches Wort passt in die Lücke?
+TEXT: ٱلۡـ___ مُسۡتَقِيمٌ
+OPTION: صِرَاطُ
+OPTION: كِتَابُ
+OPTION: عَذَابُ
+OPTION: مَسۡجِدُ
+RICHTIG: صِرَاطُ
+BEGRÜNDUNG: Gerade oder krumm ist ein Weg. Ein Buch, eine Strafe oder eine Moschee sind es nicht.
+
+#### AUFGABE | LÜCKENSATZ | NW + QW
+FRAGE: Welches Wort passt in die Lücke?
+TEXT: هٰذِهِ ___ شَدِيدَةٌ وَٱلۡآخِرَةُ خَيۡرٌ
+OPTION: ٱلدُّنۡيَا
+OPTION: ٱلشَّمۡسُ
+OPTION: ٱلۡقَرۡيَةُ
+OPTION: ٱلرَّحۡمَةُ
+RICHTIG: ٱلدُّنۡيَا
+BEGRÜNDUNG: Was dem Jenseits gegenübersteht, ist das Diesseits.
+
+#### AUFGABE | LÜCKENSATZ | NW + QW
+FRAGE: Welches Wort passt in die Lücke?
+TEXT: ٱلۡـ___ شَدِيدٌ وَجَهَنَّمُ نَارٌ
+OPTION: عَذَابُ
+OPTION: صِرَاطُ
+OPTION: كِتَابُ
+OPTION: مَسۡجِدُ
+RICHTIG: عَذَابُ
+BEGRÜNDUNG: Was in der Hölle wartet, ist die Strafe.
+
+======================================================================
+
+#### AUFGABEN LEKTION 7 | Zeig da hinten
+
+----------------------------------------------------------------------
+
+#### AUFGABE | LÜCKENSATZ | NW + QW
+FRAGE: Er zeigt auf ein Buch, das weit weg auf dem anderen Tisch liegt.
+TEXT: ___ كِتَابٌ
+OPTION: ذٰلِكَ
+OPTION: هٰذَا
+OPTION: ٱلۡقَلۡبُ
+OPTION: ٱلنَّارُ
+RICHTIG: ذٰلِكَ
+BEGRÜNDUNG: Weit weg heißt: das ferne Zeigewort. Das nahe nimmt man für etwas in Reichweite.
+
+#### AUFGABE | LÜCKENSATZ | NW + QW
+FRAGE: Er zeigt auf eine Ortschaft am Horizont.
+TEXT: ___ قَرۡيَةٌ
+OPTION: تِلۡكَ
+OPTION: هٰذِهِ
+OPTION: ٱلنَّارُ
+OPTION: ٱلۡمَلَائِكَةُ
+RICHTIG: تِلۡكَ
+BEGRÜNDUNG: Am Horizont ist fern, und die Ortschaft ist weiblich.
+
+#### AUFGABE | LÜCKENSATZ | NW + QW
+FRAGE: Welches Wort passt in die Lücke?
+TEXT: ذٰلِكَ عَذَابٌ ___
+OPTION: أَلِيمٌ
+OPTION: طَيِّبٌ
+OPTION: مُسۡتَقِيمٌ
+OPTION: عَلِيمٌ
+RICHTIG: أَلِيمٌ
+BEGRÜNDUNG: Eine Strafe tut weh. Gut, gerade oder wissend ist sie nicht.
+
+#### AUFGABE | LÜCKENSATZ | NW + QW
+FRAGE: Wer sind die Geschöpfe aus Licht, die man nicht sieht?
+TEXT: هٰذِهِ ___
+OPTION: ٱلۡمَلَائِكَةُ
+OPTION: ٱلنَّارُ
+OPTION: ٱلۡقَرۡيَةُ
+OPTION: ٱلسَّاعَةُ
+RICHTIG: ٱلۡمَلَائِكَةُ
+BEGRÜNDUNG: Aus Licht erschaffen und unsichtbar sind die Engel.
+
+#### AUFGABE | LÜCKENSATZ | NW + QW
+FRAGE: Was schlägt in der Brust des Menschen?
+TEXT: هٰذَا ___
+OPTION: ٱلۡقَلۡبُ
+OPTION: ٱلنَّارُ
+OPTION: ٱلۡكِتَابُ
+OPTION: ٱلۡمَسۡجِدُ
+RICHTIG: ٱلۡقَلۡبُ
+BEGRÜNDUNG: In der Brust schlägt das Herz.
+
+#### AUFGABE | LÜCKENSATZ | NW + QW
+FRAGE: Was brennt und gibt Hitze?
+TEXT: هٰذِهِ ___ شَدِيدَةٌ
+OPTION: ٱلنَّارُ
+OPTION: ٱلۡقَرۡيَةُ
+OPTION: ٱلسَّاعَةُ
+OPTION: ٱلرَّحۡمَةُ
+RICHTIG: ٱلنَّارُ
+BEGRÜNDUNG: Brennen und Hitze geben kann nur das Feuer.
+
+======================================================================
+
+#### AUFGABEN LEKTION 8 | Zwei Wörter, ein Begriff
+
+----------------------------------------------------------------------
+
+#### AUFGABE | LÜCKENSATZ | NW + QW
+FRAGE: Welches Wort passt in die Lücke?
+TEXT: ___ ٱلنَّارِ فِيهَا
+OPTION: أَصۡحَابُ
+OPTION: وَجۡهُ
+OPTION: بَيۡتُ
+OPTION: يَوۡمُ
+RICHTIG: أَصۡحَابُ
+BEGRÜNDUNG: Im Feuer sind Menschen — seine Bewohner. Ein Gesicht oder ein Haus wohnt dort nicht.
+
+#### AUFGABE | LÜCKENSATZ | NW + QW
+FRAGE: Welches Wort passt in die Lücke?
+TEXT: هٰذَا ___ ٱلرَّجُلِ
+OPTION: وَجۡهُ
+OPTION: يَوۡمُ
+OPTION: رَبُّ
+OPTION: عَذَابُ
+RICHTIG: وَجۡهُ
+BEGRÜNDUNG: Zum Menschen gehört sein Gesicht. Ein Herr des Mannes wäre Allah, kein Teil von ihm.
+
+#### AUFGABE | LÜCKENSATZ | NW + QW
+FRAGE: Wo wohnt der Prophet mit seiner Familie?
+TEXT: هٰذَا ___ ٱلنَّبِيِّ
+OPTION: بَيۡتُ
+OPTION: يَوۡمُ
+OPTION: وَجۡهُ
+OPTION: عَذَابُ
+RICHTIG: بَيۡتُ
+BEGRÜNDUNG: Gewohnt wird in einem Haus.
+
+#### AUFGABE | LÜCKENSATZ | NW + QW
+FRAGE: Wie nennt der Diener den, der ihn erschaffen hat und versorgt?
+TEXT: ٱللّٰهُ ___ ٱلرَّجُلِ
+OPTION: رَبُّ
+OPTION: بَيۡتُ
+OPTION: وَجۡهُ
+OPTION: يَوۡمُ
+RICHTIG: رَبُّ
+BEGRÜNDUNG: Wer erschafft und versorgt, ist der Herr.
+
+#### AUFGABE | LÜCKENSATZ | NW + QW
+FRAGE: Was hat vierundzwanzig Stunden?
+TEXT: هٰذَا ___
+OPTION: ٱلۡيَوۡمُ
+OPTION: ٱلۡبَيۡتُ
+OPTION: ٱلۡوَجۡهُ
+OPTION: ٱلۡقَلۡبُ
+RICHTIG: ٱلۡيَوۡمُ
+BEGRÜNDUNG: Vierundzwanzig Stunden hat ein Tag.
+
+#### AUFGABE | LÜCKENSATZ | NW + QW
+FRAGE: Welches Wort passt in die Lücke?
+TEXT: هٰذَا كِتَابٌ ___
+OPTION: مُبِينٌ
+OPTION: أَلِيمٌ
+OPTION: شَدِيدٌ
+OPTION: وَاحِدٌ
+RICHTIG: مُبِينٌ
+BEGRÜNDUNG: Ein Buch macht etwas klar. Schmerzhaft und hart sind Strafen, nicht Bücher.
+
+======================================================================
+
+#### AUFGABEN LEKTION 9 | Kleine Wörter davor
+
+----------------------------------------------------------------------
+
+#### AUFGABE | LÜCKENSATZ | NW + QW
+FRAGE: Der Mann sitzt drinnen und betet.
+TEXT: ٱلرَّجُلُ ___ ٱلۡمَسۡجِدِ
+OPTION: فِي
+OPTION: مِنۡ
+OPTION: عَلَىٰ
+OPTION: حَقٌّ
+RICHTIG: فِي
+BEGRÜNDUNG: Drinnen heißt „in". „Von" wäre die Herkunft, „auf" wäre das Dach.
+
+#### AUFGABE | LÜCKENSATZ | NW + QW
+FRAGE: Das Buch ist herabgesandt worden — es kommt von Allah.
+TEXT: هٰذَا كِتَابٌ ___ ٱللّٰهِ
+OPTION: مِنۡ
+OPTION: فِي
+OPTION: عَلَىٰ
+OPTION: عِلۡمٌ
+RICHTIG: مِنۡ
+BEGRÜNDUNG: Herkunft sagt man mit „von".
+
+#### AUFGABE | LÜCKENSATZ | NW + QW
+FRAGE: Der Mann geht auf dem Weg und folgt ihm.
+TEXT: ٱلرَّجُلُ ___ صِرَاطٍ مُسۡتَقِيمٍ
+OPTION: عَلَىٰ
+OPTION: فِي
+OPTION: مِنۡ
+OPTION: حَمۡدٌ
+RICHTIG: عَلَىٰ
+BEGRÜNDUNG: Auf einem Weg geht man. „In einem Weg" sagt man nicht.
+
+#### AUFGABE | LÜCKENSATZ | NW + QW
+FRAGE: Was gebührt Allah für alles, was Er gibt?
+TEXT: ٱلۡـ___ لِلّٰهِ
+OPTION: حَمۡدُ
+OPTION: عِلۡمُ
+OPTION: عَذَابُ
+OPTION: بَيۡتُ
+RICHTIG: حَمۡدُ
+BEGRÜNDUNG: Für Gaben dankt und lobt man — das ist das Lob.
+
+#### AUFGABE | LÜCKENSATZ | NW + QW
+FRAGE: Was gibt der Lehrer an den Schüler weiter?
+TEXT: هٰذَا ___
+OPTION: ٱلۡعِلۡمُ
+OPTION: ٱلۡعَذَابُ
+OPTION: ٱلۡبَيۡتُ
+OPTION: ٱلۡيَوۡمُ
+RICHTIG: ٱلۡعِلۡمُ
+BEGRÜNDUNG: Weitergegeben wird Wissen.
+
+#### AUFGABE | LÜCKENSATZ | NW + QW
+FRAGE: Was ist das Gegenteil von Lüge?
+TEXT: هٰذَا ___
+OPTION: ٱلۡحَقُّ
+OPTION: ٱلۡعِلۡمُ
+OPTION: ٱلۡحَمۡدُ
+OPTION: ٱلۡعَذَابُ
+RICHTIG: ٱلۡحَقُّ
+BEGRÜNDUNG: Das Gegenteil von Lüge ist die Wahrheit. Wissen kann man haben, wahr ist etwas anderes.
+
+======================================================================
+
+#### AUFGABEN LEKTION 10 | Wörter, die am Wort kleben
+
+----------------------------------------------------------------------
+
+#### AUFGABE | LÜCKENSATZ | NW + QW
+FRAGE: Wodurch besteht das Leben? Durch Allahs Barmherzigkeit.
+TEXT: ٱلۡحَيَاةُ ___رَحۡمَةِ ٱللّٰهِ
+OPTION: بِ
+OPTION: لِ
+OPTION: إِلَىٰ
+OPTION: فِي
+RICHTIG: بِ
+BEGRÜNDUNG: Das Mittel, durch das etwas geschieht, bekommt bi-.
+
+#### AUFGABE | LÜCKENSATZ | NW + QW
+FRAGE: Wem gehört das Lob?
+TEXT: ٱلۡحَمۡدُ ___ّٰهِ
+OPTION: لِ
+OPTION: بِ
+OPTION: فِي
+OPTION: مِنۡ
+RICHTIG: لِ
+BEGRÜNDUNG: Zugehörigkeit sagt man mit li-.
+
+#### AUFGABE | LÜCKENSATZ | NW + QW
+FRAGE: Wohin führt dieser Weg?
+TEXT: هٰذَا سَبِيلٌ ___ ٱللّٰهِ
+OPTION: إِلَىٰ
+OPTION: فِي
+OPTION: مِنۡ
+OPTION: بِ
+RICHTIG: إِلَىٰ
+BEGRÜNDUNG: Ein Ziel bekommt „zu".
+
+#### AUFGABE | LÜCKENSATZ | NW + QW
+FRAGE: Wohin kommen die Gläubigen nach dem Tod?
+TEXT: هٰذِهِ ___
+OPTION: ٱلۡجَنَّةُ
+OPTION: ٱلۡقَرۡيَةُ
+OPTION: ٱلسَّاعَةُ
+OPTION: ٱلنَّارُ
+RICHTIG: ٱلۡجَنَّةُ
+BEGRÜNDUNG: Die Belohnung ist der Garten, das Feuer ist die Strafe.
+
+#### AUFGABE | LÜCKENSATZ | NW + QW
+FRAGE: Welches Wort passt in die Lücke?
+TEXT: هُوَ ٱللّٰهُ ___
+OPTION: أَحَدٌ
+OPTION: عَذَابٌ
+OPTION: مَسۡجِدٌ
+OPTION: يَوۡمٌ
+RICHTIG: أَحَدٌ
+BEGRÜNDUNG: Allah ist einer, ohne einen zweiten neben Ihm.
+
+#### AUFGABE | LÜCKENSATZ | NW + QW
+FRAGE: Allah kann alles, nichts ist Ihm unmöglich.
+TEXT: ٱللّٰهُ ___
+OPTION: قَدِيرٌ
+OPTION: أَلِيمٌ
+OPTION: مُبِينٌ
+OPTION: شَدِيدٌ
+RICHTIG: قَدِيرٌ
+BEGRÜNDUNG: Wer alles kann, ist mächtig.
+
+======================================================================
+
+#### AUFGABEN LEKTION 11 | Er, sie und sie
+
+----------------------------------------------------------------------
+
+#### AUFGABE | LÜCKENSATZ | NW + QW
+FRAGE: Es geht um einen Mann, der in der Moschee ist.
+TEXT: ___ فِي ٱلۡمَسۡجِدِ
+OPTION: هُوَ
+OPTION: هِيَ
+OPTION: هُمۡ
+OPTION: نَفۡسٌ
+RICHTIG: هُوَ
+BEGRÜNDUNG: Ein Mann ist einer und männlich.
+
+#### AUFGABE | LÜCKENSATZ | NW + QW
+FRAGE: Es geht um die Sonne.
+TEXT: ___ عَظِيمَةٌ
+OPTION: هِيَ
+OPTION: هُوَ
+OPTION: هُمۡ
+OPTION: نَاسٌ
+RICHTIG: هِيَ
+BEGRÜNDUNG: Die Sonne ist eine und weiblich.
+
+#### AUFGABE | LÜCKENSATZ | NW + QW
+FRAGE: Es geht um die Gefährten des Propheten, viele Männer.
+TEXT: ___ فِي ٱلۡجَنَّةِ
+OPTION: هُمۡ
+OPTION: هُوَ
+OPTION: هِيَ
+OPTION: مُسۡلِمٌ
+RICHTIG: هُمۡ
+BEGRÜNDUNG: Bei mehreren Personen steht das Fürwort für die Mehrzahl.
+
+#### AUFGABE | LÜCKENSATZ | NW + QW
+FRAGE: Wer sich Allah hingibt und Ihm gehorcht, ist ein …
+TEXT: هُوَ ___
+OPTION: مُسۡلِمٌ
+OPTION: يَوۡمٌ
+OPTION: بَيۡتٌ
+OPTION: عِلۡمٌ
+RICHTIG: مُسۡلِمٌ
+BEGRÜNDUNG: Wer sich hingibt, ist ein Muslim.
+
+#### AUFGABE | LÜCKENSATZ | NW + QW
+FRAGE: Wen ruft der Gesandte zum Glauben — alle Menschen.
+TEXT: هُمۡ ___
+OPTION: ٱلنَّاسُ
+OPTION: ٱلۡمَلَائِكَةُ
+OPTION: ٱلۡبَيۡتُ
+OPTION: ٱلۡيَوۡمُ
+RICHTIG: ٱلنَّاسُ
+BEGRÜNDUNG: Gerufen werden die Menschen. Die Engel brauchen keinen Ruf zum Glauben.
+
+#### AUFGABE | LÜCKENSATZ | NW + QW
+FRAGE: Was verlässt den Körper, wenn der Mensch stirbt?
+TEXT: هِيَ ___
+OPTION: ٱلنَّفۡسُ
+OPTION: ٱلۡيَدُ
+OPTION: ٱلۡقَرۡيَةُ
+OPTION: ٱلسَّاعَةُ
+RICHTIG: ٱلنَّفۡسُ
+BEGRÜNDUNG: Beim Tod verlässt die Seele den Körper. Die Hand bleibt.

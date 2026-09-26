@@ -1,0 +1,1093 @@
+QURAN VERSTEHEN LERNEN — GRAMMATIKAUFGABEN FÜR DIE LEKTIONEN 1 BIS 11
+
+Idee
+  Die Grammatik wird im Video nicht erklärt, sondern in den Übungen gelernt.
+  Der Schüler wählt aus, die Regel steht danach in der Begründung.
+
+Jede Lektion hat zwei Teile
+  TEIL 1 zeigt nur richtige Formen. Der arabische Text stimmt, gewählt wird
+  zwischen deutschen Bedeutungen. So sieht der Schüler zuerst, wie es
+  aussieht, bevor er selbst entscheiden muss.
+  TEIL 2 verlangt die Entscheidung. Hier stehen auch falsche Formen zur
+  Auswahl.
+
+Aufbau der Blöcke
+  #### AUFGABE | GRAMMATIK | NW + QW   eine Aufgabe = eine Folie
+  FRAGE:       Aufgabentext
+  TEXT:        arabischer Anfang oder ganzer Satz, wird angezeigt
+  OPTION:      eine Antwortmöglichkeit, Reihenfolge wird gemischt
+  RICHTIG:     die richtige Option
+  BEGRÜNDUNG:  wird nach dem Antworten gezeigt — hier steht die Regel
+  NEU am Ende der Begründung heißt: Das erklären die Folien nicht.
+
+Falsche Antworten
+  Die Ablenker wechseln von Aufgabe zu Aufgabe: einmal eine falsche Endung,
+  einmal ein Artikel zu viel, einmal ein fehlender Artikel, einmal ein Wort
+  mit Lücke statt angeklebt, einmal das falsche Geschlecht.
+
+Wortauswahl
+  Hängt die Regel am einzelnen Wort — welches Zeigewort, welches Fürwort,
+  Sonnenbuchstabe oder nicht —, kommen alle passenden Wörter der Auswahl
+  dran. Läuft die Regel immer gleich, stehen drei bis vier Beispiele.
+
+======================================================================
+
+
+#### AUFGABEN LEKTION 1 | Zeigesätze
+
+----------------------------------------------------------------------
+
+### TEIL 1 — nur richtige Formen: der Schüler sieht, wie es aussieht
+
+#### AUFGABE | GRAMMATIK | NW + QW
+FRAGE: Was bedeutet dieser Satz?
+TEXT: هٰذَا شَيۡءٌ
+OPTION: Das ist ein Ding.
+OPTION: Dieses Ding.
+OPTION: Das Ding ist.
+RICHTIG: Das ist ein Ding.
+BEGRÜNDUNG: Zwei Wörter reichen für einen ganzen Satz. Ein Wort für „ist" gibt es nicht, und die Endung -un heißt „ein". NEU
+
+#### AUFGABE | GRAMMATIK | NW + QW
+FRAGE: Was bedeutet dieser Satz?
+TEXT: هٰذَا سَبِيلٌ وَهٰذَا شَيۡءٌ
+OPTION: Das ist ein Weg und das ist ein Ding.
+OPTION: Dieser Weg und dieses Ding.
+OPTION: Der Weg ist ein Ding.
+RICHTIG: Das ist ein Weg und das ist ein Ding.
+BEGRÜNDUNG: Das Wort für „und" klebt vorn am nächsten Wort und verbindet zwei ganze Sätze.
+
+### TEIL 2 — auswählen: hier stehen auch falsche Formen
+
+#### AUFGABE | GRAMMATIK | NW + QW
+FRAGE: Wie geht der Satz weiter?
+TEXT: هٰذَا …
+OPTION: شَيۡءٌ
+OPTION: شَيۡءَ
+OPTION: شَيۡءٍ
+RICHTIG: شَيۡءٌ
+BEGRÜNDUNG: Nach dem Zeigewort endet das Wort auf -un. Das ist die Grundform und heißt „ein". NEU
+
+#### AUFGABE | GRAMMATIK | NW + QW
+FRAGE: Wie geht der Satz weiter?
+TEXT: هٰذَا …
+OPTION: سَبِيلٌ
+OPTION: سَبِيلٍ
+OPTION: ٱلسَّبِيلُ
+RICHTIG: سَبِيلٌ
+BEGRÜNDUNG: Nach dem Zeigewort endet das Wort auf -un. Das ist die Grundform und heißt „ein".
+
+#### AUFGABE | GRAMMATIK | NW + QW
+FRAGE: Wie geht der Satz weiter?
+TEXT: هٰذَا …
+OPTION: مَسۡجِدٌ
+OPTION: ٱلۡمَسۡجِدُ
+OPTION: مَسۡجِدُ
+RICHTIG: مَسۡجِدٌ
+BEGRÜNDUNG: Nach dem Zeigewort endet das Wort auf -un. Das ist die Grundform und heißt „ein".
+
+#### AUFGABE | GRAMMATIK | NW + QW
+FRAGE: Wie geht der Satz weiter?
+TEXT: هٰذَا …
+OPTION: كِتَابٌ
+OPTION: كِتَابُ
+OPTION: ٱلۡكِتَابٌ
+RICHTIG: كِتَابٌ
+BEGRÜNDUNG: Nach dem Zeigewort endet das Wort auf -un. Das ist die Grundform und heißt „ein".
+
+#### AUFGABE | GRAMMATIK | NW + QW
+FRAGE: Wie geht der Satz weiter?
+TEXT: هٰذَا …
+OPTION: مَاءٌ
+OPTION: ٱلۡمَاءٌ
+OPTION: مَاءَ
+RICHTIG: مَاءٌ
+BEGRÜNDUNG: Nach dem Zeigewort endet das Wort auf -un. Das ist die Grundform und heißt „ein".
+
+#### AUFGABE | GRAMMATIK | NW + QW
+FRAGE: Welcher Satz ist richtig?
+OPTION: هٰذَا شَيۡءٌ
+OPTION: شَيۡءٌ هٰذَا
+OPTION: هٰذَا شَيۡءَ
+RICHTIG: هٰذَا شَيۡءٌ
+BEGRÜNDUNG: Das Zeigewort steht vorn, das Nomen dahinter, und dieses endet auf -un.
+
+======================================================================
+
+#### AUFGABEN LEKTION 2 | Wer oder was?
+
+----------------------------------------------------------------------
+
+### TEIL 1 — nur richtige Formen: der Schüler sieht, wie es aussieht
+
+#### AUFGABE | GRAMMATIK | NW + QW
+FRAGE: Was bedeutet das?
+TEXT: مَنۡ هٰذَا — هٰذَا رَجُلٌ
+OPTION: Wer ist das? — Das ist ein Mann.
+OPTION: Was ist das? — Das ist ein Mann.
+OPTION: Wer ist der Mann?
+RICHTIG: Wer ist das? — Das ist ein Mann.
+BEGRÜNDUNG: Nach Personen fragt man mit man. Am Satz ändert sich beim Fragen nichts. NEU
+
+#### AUFGABE | GRAMMATIK | NW + QW
+FRAGE: Was bedeutet das?
+TEXT: مَا هٰذَا — هٰذَا كِتَابٌ
+OPTION: Was ist das? — Das ist ein Buch.
+OPTION: Wer ist das? — Das ist ein Buch.
+OPTION: Ist das ein Buch?
+RICHTIG: Was ist das? — Das ist ein Buch.
+BEGRÜNDUNG: Nach Sachen fragt man mit mā. Das Fragewort tritt einfach vor den Satz.
+
+### TEIL 2 — auswählen: hier stehen auch falsche Formen
+
+#### AUFGABE | GRAMMATIK | NW + QW
+FRAGE: Du siehst ein Mann. Wie fragst du?
+TEXT: رَجُلٌ
+OPTION: مَنۡ هٰذَا
+OPTION: مَا هٰذَا
+RICHTIG: مَنۡ هٰذَا
+BEGRÜNDUNG: Nach Personen fragt man mit man, nach Sachen mit mā.
+
+#### AUFGABE | GRAMMATIK | NW + QW
+FRAGE: Du siehst ein Gesandter. Wie fragst du?
+TEXT: رَسُولٌ
+OPTION: مَنۡ هٰذَا
+OPTION: مَا هٰذَا
+RICHTIG: مَنۡ هٰذَا
+BEGRÜNDUNG: Nach Personen fragt man mit man, nach Sachen mit mā.
+
+#### AUFGABE | GRAMMATIK | NW + QW
+FRAGE: Du siehst ein Diener. Wie fragst du?
+TEXT: عَبۡدٌ
+OPTION: مَنۡ هٰذَا
+OPTION: مَا هٰذَا
+RICHTIG: مَنۡ هٰذَا
+BEGRÜNDUNG: Nach Personen fragt man mit man, nach Sachen mit mā.
+
+#### AUFGABE | GRAMMATIK | NW + QW
+FRAGE: Du siehst ein Prophet. Wie fragst du?
+TEXT: نَبِيٌّ
+OPTION: مَنۡ هٰذَا
+OPTION: مَا هٰذَا
+RICHTIG: مَنۡ هٰذَا
+BEGRÜNDUNG: Nach Personen fragt man mit man, nach Sachen mit mā.
+
+#### AUFGABE | GRAMMATIK | NW + QW
+FRAGE: Du siehst ein Ding. Wie fragst du?
+TEXT: شَيۡءٌ
+OPTION: مَنۡ هٰذَا
+OPTION: مَا هٰذَا
+RICHTIG: مَا هٰذَا
+BEGRÜNDUNG: Nach Personen fragt man mit man, nach Sachen mit mā.
+
+#### AUFGABE | GRAMMATIK | NW + QW
+FRAGE: Du siehst ein Weg. Wie fragst du?
+TEXT: سَبِيلٌ
+OPTION: مَنۡ هٰذَا
+OPTION: مَا هٰذَا
+RICHTIG: مَا هٰذَا
+BEGRÜNDUNG: Nach Personen fragt man mit man, nach Sachen mit mā.
+
+#### AUFGABE | GRAMMATIK | NW + QW
+FRAGE: Du siehst eine Moschee. Wie fragst du?
+TEXT: مَسۡجِدٌ
+OPTION: مَنۡ هٰذَا
+OPTION: مَا هٰذَا
+RICHTIG: مَا هٰذَا
+BEGRÜNDUNG: Nach Personen fragt man mit man, nach Sachen mit mā.
+
+#### AUFGABE | GRAMMATIK | NW + QW
+FRAGE: Du siehst ein Buch. Wie fragst du?
+TEXT: كِتَابٌ
+OPTION: مَنۡ هٰذَا
+OPTION: مَا هٰذَا
+RICHTIG: مَا هٰذَا
+BEGRÜNDUNG: Nach Personen fragt man mit man, nach Sachen mit mā.
+
+#### AUFGABE | GRAMMATIK | NW + QW
+FRAGE: Du siehst Wasser. Wie fragst du?
+TEXT: مَاءٌ
+OPTION: مَنۡ هٰذَا
+OPTION: مَا هٰذَا
+RICHTIG: مَا هٰذَا
+BEGRÜNDUNG: Nach Personen fragt man mit man, nach Sachen mit mā.
+
+#### AUFGABE | GRAMMATIK | NW + QW
+FRAGE: Wie antwortest du?
+TEXT: مَنۡ هٰذَا
+OPTION: هٰذَا رَجُلٌ
+OPTION: هٰذَا رَجُلَ
+OPTION: هٰذَا رَجُلٍ
+RICHTIG: هٰذَا رَجُلٌ
+BEGRÜNDUNG: Die Antwort ist gebaut wie jeder Zeigesatz: Zeigewort, dann das Nomen mit -un.
+
+#### AUFGABE | GRAMMATIK | NW + QW
+FRAGE: Wie antwortest du?
+TEXT: مَا هٰذَا
+OPTION: هٰذَا مَاءٌ
+OPTION: هٰذَا مَاءٍ
+OPTION: هٰذَا ٱلۡمَاءُ
+RICHTIG: هٰذَا مَاءٌ
+BEGRÜNDUNG: Die Antwort ist gebaut wie jeder Zeigesatz: Zeigewort, dann das Nomen mit -un.
+
+#### AUFGABE | GRAMMATIK | NW + QW
+FRAGE: Wie antwortest du mit einem Namen?
+TEXT: مَنۡ هٰذَا
+OPTION: هٰذَا مُوسَىٰ
+OPTION: هٰذَا مُوسَىٌٰ
+OPTION: مُوسَىٰ هٰذَا
+RICHTIG: هٰذَا مُوسَىٰ
+BEGRÜNDUNG: Namen bekommen kein -un. Sie meinen von sich aus eine bestimmte Person. NEU
+
+======================================================================
+
+#### AUFGABEN LEKTION 3 | Weibliche Wörter
+
+----------------------------------------------------------------------
+
+### TEIL 1 — nur richtige Formen: der Schüler sieht, wie es aussieht
+
+#### AUFGABE | GRAMMATIK | NW + QW
+FRAGE: Was bedeutet das?
+TEXT: هٰذِهِ قَرۡيَةٌ
+OPTION: Dies ist eine Ortschaft.
+OPTION: Diese Ortschaft.
+OPTION: Die Ortschaft ist hier.
+RICHTIG: Dies ist eine Ortschaft.
+BEGRÜNDUNG: Vor weiblichen Wörtern steht hādhihi. Das Nomen endet wie immer auf -un. NEU
+
+#### AUFGABE | GRAMMATIK | NW + QW
+FRAGE: Welches Zeichen am Wortende macht diese drei Namen weiblich?
+TEXT: خَدِيجَة · عَائِشَة · فَاطِمَة
+OPTION: das Ta Marbuta
+OPTION: die Endung -un
+OPTION: das Alif
+RICHTIG: das Ta Marbuta
+BEGRÜNDUNG: Das Ta Marbuta ist das sichere Zeichen für ein weibliches Wort. NEU
+
+### TEIL 2 — auswählen: hier stehen auch falsche Formen
+
+#### AUFGABE | GRAMMATIK | NW + QW
+FRAGE: Welches Zeigewort passt?
+TEXT: … سَاعَةٌ
+OPTION: هٰذِهِ
+OPTION: هٰذَا
+RICHTIG: هٰذِهِ
+BEGRÜNDUNG: Endet das Wort auf Ta Marbuta, ist es weiblich — dann steht hādhihi davor.
+
+#### AUFGABE | GRAMMATIK | NW + QW
+FRAGE: Welches Zeigewort passt?
+TEXT: … قَرۡيَةٌ
+OPTION: هٰذِهِ
+OPTION: هٰذَا
+RICHTIG: هٰذِهِ
+BEGRÜNDUNG: Endet das Wort auf Ta Marbuta, ist es weiblich — dann steht hādhihi davor.
+
+#### AUFGABE | GRAMMATIK | NW + QW
+FRAGE: Welches Zeigewort passt?
+TEXT: … صَلَاةٌ
+OPTION: هٰذِهِ
+OPTION: هٰذَا
+RICHTIG: هٰذِهِ
+BEGRÜNDUNG: Endet das Wort auf Ta Marbuta, ist es weiblich — dann steht hādhihi davor.
+
+#### AUFGABE | GRAMMATIK | NW + QW
+FRAGE: Welches Zeigewort passt?
+TEXT: … رَحۡمَةٌ
+OPTION: هٰذِهِ
+OPTION: هٰذَا
+RICHTIG: هٰذِهِ
+BEGRÜNDUNG: Endet das Wort auf Ta Marbuta, ist es weiblich — dann steht hādhihi davor.
+
+#### AUFGABE | GRAMMATIK | NW + QW
+FRAGE: Welches Zeigewort passt?
+TEXT: … رَجُلٌ
+OPTION: هٰذِهِ
+OPTION: هٰذَا
+RICHTIG: هٰذَا
+BEGRÜNDUNG: Endet das Wort auf Ta Marbuta, ist es weiblich — dann steht hādhihi davor.
+
+#### AUFGABE | GRAMMATIK | NW + QW
+FRAGE: Welches Zeigewort passt?
+TEXT: … رَسُولٌ
+OPTION: هٰذِهِ
+OPTION: هٰذَا
+RICHTIG: هٰذَا
+BEGRÜNDUNG: Endet das Wort auf Ta Marbuta, ist es weiblich — dann steht hādhihi davor.
+
+#### AUFGABE | GRAMMATIK | NW + QW
+FRAGE: Welches Zeigewort passt?
+TEXT: … عَبۡدٌ
+OPTION: هٰذِهِ
+OPTION: هٰذَا
+RICHTIG: هٰذَا
+BEGRÜNDUNG: Endet das Wort auf Ta Marbuta, ist es weiblich — dann steht hādhihi davor.
+
+#### AUFGABE | GRAMMATIK | NW + QW
+FRAGE: Welches Zeigewort passt?
+TEXT: … نَبِيٌّ
+OPTION: هٰذِهِ
+OPTION: هٰذَا
+RICHTIG: هٰذَا
+BEGRÜNDUNG: Endet das Wort auf Ta Marbuta, ist es weiblich — dann steht hādhihi davor.
+
+#### AUFGABE | GRAMMATIK | NW + QW
+FRAGE: Wie geht der Satz weiter?
+TEXT: هٰذِهِ …
+OPTION: قَرۡيَةٌ
+OPTION: قَرۡيَةَ
+OPTION: قَرۡيَةٍ
+RICHTIG: قَرۡيَةٌ
+BEGRÜNDUNG: Auch bei weiblichen Wörtern endet das Nomen im Zeigesatz auf -un.
+
+======================================================================
+
+#### AUFGABEN LEKTION 4 | Weiblich, ohne dass man es sieht
+
+----------------------------------------------------------------------
+
+### TEIL 1 — nur richtige Formen: der Schüler sieht, wie es aussieht
+
+#### AUFGABE | GRAMMATIK | NW + QW
+FRAGE: Was bedeutet das?
+TEXT: هٰذِهِ شَمۡسٌ
+OPTION: Dies ist eine Sonne.
+OPTION: Das ist eine Sonne.
+OPTION: Die Sonne ist hier.
+RICHTIG: Dies ist eine Sonne.
+BEGRÜNDUNG: Vor der Sonne steht das weibliche Zeigewort — obwohl am Wort kein Ta Marbuta steht. NEU
+
+#### AUFGABE | GRAMMATIK | NW + QW
+FRAGE: Warum steht hier das weibliche Zeigewort?
+TEXT: هٰذِهِ يَدٌ
+OPTION: weil Körperteile, die man zweimal hat, weiblich sind
+OPTION: weil das Wort auf Ta Marbuta endet
+OPTION: weil es kurz ist
+RICHTIG: weil Körperteile, die man zweimal hat, weiblich sind
+BEGRÜNDUNG: Hand, Auge, Ohr und Bein sind weiblich, ohne es zu zeigen. NEU
+
+### TEIL 2 — auswählen: hier stehen auch falsche Formen
+
+#### AUFGABE | GRAMMATIK | NW + QW
+FRAGE: Welches Zeigewort passt?
+TEXT: … شَمۡسٌ
+OPTION: هٰذِهِ
+OPTION: هٰذَا
+RICHTIG: هٰذِهِ
+BEGRÜNDUNG: Dieses Wort ist weiblich, obwohl kein Ta Marbuta daran steht. Solche Wörter merkt man sich. NEU
+
+#### AUFGABE | GRAMMATIK | NW + QW
+FRAGE: Welches Zeigewort passt?
+TEXT: … رِيحٌ
+OPTION: هٰذِهِ
+OPTION: هٰذَا
+RICHTIG: هٰذِهِ
+BEGRÜNDUNG: Dieses Wort ist weiblich, obwohl kein Ta Marbuta daran steht. Solche Wörter merkt man sich. NEU
+
+#### AUFGABE | GRAMMATIK | NW + QW
+FRAGE: Welches Zeigewort passt?
+TEXT: … يَدٌ
+OPTION: هٰذِهِ
+OPTION: هٰذَا
+RICHTIG: هٰذِهِ
+BEGRÜNDUNG: Dieses Wort ist weiblich, obwohl kein Ta Marbuta daran steht. Solche Wörter merkt man sich. NEU
+
+#### AUFGABE | GRAMMATIK | NW + QW
+FRAGE: Welches Zeigewort passt?
+TEXT: … سَمَاءٌ
+OPTION: هٰذِهِ
+OPTION: هٰذَا
+RICHTIG: هٰذِهِ
+BEGRÜNDUNG: Dieses Wort ist weiblich, obwohl kein Ta Marbuta daran steht. Solche Wörter merkt man sich. NEU
+
+#### AUFGABE | GRAMMATIK | NW + QW
+FRAGE: Welches Zeigewort passt?
+TEXT: … أَرۡضٌ
+OPTION: هٰذِهِ
+OPTION: هٰذَا
+RICHTIG: هٰذِهِ
+BEGRÜNDUNG: Dieses Wort ist weiblich, obwohl kein Ta Marbuta daran steht. Solche Wörter merkt man sich. NEU
+
+#### AUFGABE | GRAMMATIK | NW + QW
+FRAGE: Welches Zeigewort passt?
+TEXT: … رَجُلٌ
+OPTION: هٰذَا
+OPTION: هٰذِهِ
+RICHTIG: هٰذَا
+BEGRÜNDUNG: Dieses Wort ist männlich — kein Ta Marbuta, kein Naturding, kein doppelter Körperteil.
+
+#### AUFGABE | GRAMMATIK | NW + QW
+FRAGE: Welches Zeigewort passt?
+TEXT: … رَسُولٌ
+OPTION: هٰذَا
+OPTION: هٰذِهِ
+RICHTIG: هٰذَا
+BEGRÜNDUNG: Dieses Wort ist männlich — kein Ta Marbuta, kein Naturding, kein doppelter Körperteil.
+
+======================================================================
+
+#### AUFGABEN LEKTION 5 | Eigenschaftswörter
+
+----------------------------------------------------------------------
+
+### TEIL 1 — nur richtige Formen: der Schüler sieht, wie es aussieht
+
+#### AUFGABE | GRAMMATIK | NW + QW
+FRAGE: Was bedeutet das?
+TEXT: هٰذَا رَجُلٌ عَلِيمٌ
+OPTION: Das ist ein wissender Mann.
+OPTION: Der Mann ist wissend.
+OPTION: Das ist der wissende Mann.
+RICHTIG: Das ist ein wissender Mann.
+BEGRÜNDUNG: Die Beschreibung steht hinten und trägt dieselbe Endung wie das Wort davor. NEU
+
+#### AUFGABE | GRAMMATIK | NW + QW
+FRAGE: Was bedeutet das?
+TEXT: هٰذِهِ آيَةٌ عَظِيمَةٌ
+OPTION: Dies ist ein gewaltiges Zeichen.
+OPTION: Das Zeichen ist gewaltig.
+OPTION: Dies ist das gewaltige Zeichen.
+RICHTIG: Dies ist ein gewaltiges Zeichen.
+BEGRÜNDUNG: Beide Wörter tragen Ta Marbuta und beide enden auf -un. Deshalb gehören sie zusammen. NEU
+
+### TEIL 2 — auswählen: hier stehen auch falsche Formen
+
+#### AUFGABE | GRAMMATIK | NW + QW
+FRAGE: Wie geht der Satz weiter?
+TEXT: هٰذِهِ آيَةٌ …
+OPTION: عَظِيمَةٌ
+OPTION: عَظِيمَةَ
+OPTION: ٱلۡعَظِيمَةُ
+RICHTIG: عَظِيمَةٌ
+BEGRÜNDUNG: Das Wort davor ist weiblich, also trägt die Beschreibung ein Ta Marbuta.
+
+#### AUFGABE | GRAMMATIK | NW + QW
+FRAGE: Wie geht der Satz weiter?
+TEXT: هٰذَا مَاءٌ …
+OPTION: طَيِّبٌ
+OPTION: ٱلطَّيِّبُ
+OPTION: طَيِّبٍ
+RICHTIG: طَيِّبٌ
+BEGRÜNDUNG: Die Beschreibung wiederholt Geschlecht und Endung des Wortes davor.
+
+#### AUFGABE | GRAMMATIK | NW + QW
+FRAGE: Wie geht der Satz weiter?
+TEXT: هٰذِهِ شَمۡسٌ …
+OPTION: عَظِيمَةٌ
+OPTION: عَظِيمَةٍ
+OPTION: عَظِيمٌ
+RICHTIG: عَظِيمَةٌ
+BEGRÜNDUNG: Das Wort davor ist weiblich, also trägt die Beschreibung ein Ta Marbuta. NEU
+
+#### AUFGABE | GRAMMATIK | NW + QW
+FRAGE: Wie geht der Satz weiter?
+TEXT: هٰذِهِ قَرۡيَةٌ …
+OPTION: طَيِّبَةٌ
+OPTION: طَيِّبٌ
+OPTION: طَيِّبَةَ
+RICHTIG: طَيِّبَةٌ
+BEGRÜNDUNG: Das Wort davor ist weiblich, also trägt die Beschreibung ein Ta Marbuta.
+
+#### AUFGABE | GRAMMATIK | NW + QW
+FRAGE: Wie geht der Satz weiter?
+TEXT: هٰذَا كِتَابٌ …
+OPTION: عَلِيمٌ
+OPTION: عَلِيمَ
+OPTION: ٱلۡعَلِيمُ
+RICHTIG: عَلِيمٌ
+BEGRÜNDUNG: Die Beschreibung wiederholt Geschlecht und Endung des Wortes davor.
+
+#### AUFGABE | GRAMMATIK | NW + QW
+FRAGE: Wie geht der Satz weiter?
+TEXT: هٰذِهِ أَرۡضٌ …
+OPTION: طَيِّبَةٌ
+OPTION: ٱلطَّيِّبَةُ
+OPTION: طَيِّبَةٍ
+RICHTIG: طَيِّبَةٌ
+BEGRÜNDUNG: Das Wort davor ist weiblich, also trägt die Beschreibung ein Ta Marbuta. NEU
+
+#### AUFGABE | GRAMMATIK | NW + QW
+FRAGE: Welcher Satz heißt „Das ist ein wissender Mann"?
+OPTION: هٰذَا رَجُلٌ عَلِيمٌ
+OPTION: هٰذَا عَلِيمٌ رَجُلٌ
+OPTION: عَلِيمٌ هٰذَا رَجُلٌ
+RICHTIG: هٰذَا رَجُلٌ عَلِيمٌ
+BEGRÜNDUNG: Im Deutschen steht die Beschreibung vor dem Wort, im Arabischen dahinter.
+
+======================================================================
+
+#### AUFGABEN LEKTION 6 | Der, die, das
+
+----------------------------------------------------------------------
+
+### TEIL 1 — nur richtige Formen: der Schüler sieht, wie es aussieht
+
+#### AUFGABE | GRAMMATIK | NW + QW
+FRAGE: Was bedeutet das?
+TEXT: ٱلۡمَسۡجِدُ عَظِيمٌ
+OPTION: Die Moschee ist gewaltig.
+OPTION: die gewaltige Moschee
+OPTION: eine gewaltige Moschee
+RICHTIG: Die Moschee ist gewaltig.
+BEGRÜNDUNG: Vorn ein Wort mit al-, hinten die Aussage ohne al-. Das ist ein ganzer Satz. NEU
+
+#### AUFGABE | GRAMMATIK | NW + QW
+FRAGE: Was bedeutet das?
+TEXT: ٱلۡمَسۡجِدُ ٱلۡعَظِيمُ
+OPTION: die gewaltige Moschee
+OPTION: Die Moschee ist gewaltig.
+OPTION: eine gewaltige Moschee
+RICHTIG: die gewaltige Moschee
+BEGRÜNDUNG: Steht al- an beiden Wörtern, ist es kein Satz, sondern eine Wortgruppe. NEU
+
+#### AUFGABE | GRAMMATIK | NW + QW
+FRAGE: Was ist hier mit dem Tanwin passiert?
+TEXT: كِتَابٌ  →  ٱلۡكِتَابُ
+OPTION: Es ist weggefallen, weil al- dazugekommen ist.
+OPTION: Es ist an das Ende gewandert.
+OPTION: Es ist zu einem -i geworden.
+RICHTIG: Es ist weggefallen, weil al- dazugekommen ist.
+BEGRÜNDUNG: Entweder vorn al- oder hinten das Tanwin. Beides zusammen gibt es nie. NEU
+
+### TEIL 2 — auswählen: hier stehen auch falsche Formen
+
+#### AUFGABE | GRAMMATIK | NW + QW
+FRAGE: Welche Form heißt „der Weg"?
+OPTION: ٱلصِّرَاطُ
+OPTION: ٱلصِّرَاطٌ
+OPTION: صِرَاطُ
+RICHTIG: ٱلصِّرَاطُ
+BEGRÜNDUNG: Mit al- fällt das Tanwin weg. Und weil das Wort mit einem Sonnenbuchstaben beginnt, hörst du das Lam nicht — geschrieben steht es trotzdem. NEU
+
+#### AUFGABE | GRAMMATIK | NW + QW
+FRAGE: Welche Form heißt „die Sonne"?
+OPTION: ٱلشَّمۡسُ
+OPTION: شَمۡسُ
+OPTION: شَمۡسٌ
+RICHTIG: ٱلشَّمۡسُ
+BEGRÜNDUNG: Mit al- fällt das Tanwin weg. Und weil das Wort mit einem Sonnenbuchstaben beginnt, hörst du das Lam nicht — geschrieben steht es trotzdem. NEU
+
+#### AUFGABE | GRAMMATIK | NW + QW
+FRAGE: Welche Form heißt „der Wind"?
+OPTION: ٱلرِّيحُ
+OPTION: رِيحٌ
+OPTION: ٱلۡرِيحُ
+RICHTIG: ٱلرِّيحُ
+BEGRÜNDUNG: Mit al- fällt das Tanwin weg. Und weil das Wort mit einem Sonnenbuchstaben beginnt, hörst du das Lam nicht — geschrieben steht es trotzdem. NEU
+
+#### AUFGABE | GRAMMATIK | NW + QW
+FRAGE: Welche Form heißt „das Leben"?
+OPTION: ٱلۡحَيَاةُ
+OPTION: ٱلۡحَيَاةِ
+OPTION: ٱلۡحَيَاةٌ
+RICHTIG: ٱلۡحَيَاةُ
+BEGRÜNDUNG: Mit al- fällt das Tanwin weg: aus -un wird ein einfaches -u. NEU
+
+#### AUFGABE | GRAMMATIK | NW + QW
+FRAGE: Welche Form heißt „die Strafe"?
+OPTION: ٱلۡعَذَابُ
+OPTION: ٱلۡعَذَابٌ
+OPTION: عَذَابُ
+RICHTIG: ٱلۡعَذَابُ
+BEGRÜNDUNG: Mit al- fällt das Tanwin weg: aus -un wird ein einfaches -u. NEU
+
+#### AUFGABE | GRAMMATIK | NW + QW
+FRAGE: Wie geht der Satz weiter?
+TEXT: ٱلۡحَيَاةُ …
+OPTION: شَدِيدَةٌ
+OPTION: ٱلشَّدِيدَةُ
+OPTION: شَدِيدَةَ
+RICHTIG: شَدِيدَةٌ
+BEGRÜNDUNG: Vorn ein Wort mit al-, hinten die Aussage ohne al-. NEU
+
+#### AUFGABE | GRAMMATIK | NW + QW
+FRAGE: Wie geht der Satz weiter?
+TEXT: ٱلۡمَاءُ …
+OPTION: طَيِّبٌ
+OPTION: طَيِّبَ
+OPTION: طَيِّبٍ
+RICHTIG: طَيِّبٌ
+BEGRÜNDUNG: Vorn ein Wort mit al-, hinten die Aussage ohne al-. NEU
+
+#### AUFGABE | GRAMMATIK | NW + QW
+FRAGE: Wie geht der Satz weiter?
+TEXT: ٱللّٰهُ …
+OPTION: وَاحِدٌ
+OPTION: ٱلۡوَاحِدُ
+OPTION: وَاحِدَ
+RICHTIG: وَاحِدٌ
+BEGRÜNDUNG: Ein Name braucht kein al-. Die Aussage dahinter steht ohne al-.
+
+======================================================================
+
+#### AUFGABEN LEKTION 7 | Zeig da hinten
+
+----------------------------------------------------------------------
+
+### TEIL 1 — nur richtige Formen: der Schüler sieht, wie es aussieht
+
+#### AUFGABE | GRAMMATIK | NW + QW
+FRAGE: Was bedeutet das?
+TEXT: ذٰلِكَ عَذَابٌ أَلِيمٌ
+OPTION: Jenes ist eine schmerzhafte Strafe.
+OPTION: Diese Strafe ist schmerzhaft.
+OPTION: Jene schmerzhafte Strafe.
+RICHTIG: Jenes ist eine schmerzhafte Strafe.
+BEGRÜNDUNG: Das ferne Zeigewort steht genau dort, wo sonst das nahe steht. NEU
+
+#### AUFGABE | GRAMMATIK | NW + QW
+FRAGE: Welcher Unterschied besteht zwischen den beiden Sätzen?
+TEXT: هٰذَا كِتَابٌ  ·  ذٰلِكَ كِتَابٌ
+OPTION: der Abstand: nah oder weiter weg
+OPTION: das Geschlecht des Wortes
+OPTION: die Endung des Nomens
+RICHTIG: der Abstand: nah oder weiter weg
+BEGRÜNDUNG: Für Nahes hādhā, für Fernes dhālika. Am Rest des Satzes ändert sich nichts. NEU
+
+### TEIL 2 — auswählen: hier stehen auch falsche Formen
+
+#### AUFGABE | GRAMMATIK | NW + QW
+FRAGE: Welches Zeigewort passt?
+TEXT: … مَلَائِكَةٌ
+OPTION: تِلۡكَ
+OPTION: ذٰلِكَ
+RICHTIG: تِلۡكَ
+BEGRÜNDUNG: Auch bei den fernen Zeigewörtern gibt es ein männliches und ein weibliches.
+
+#### AUFGABE | GRAMMATIK | NW + QW
+FRAGE: Welches Zeigewort passt?
+TEXT: … قَلۡبٌ
+OPTION: تِلۡكَ
+OPTION: ذٰلِكَ
+RICHTIG: ذٰلِكَ
+BEGRÜNDUNG: Auch bei den fernen Zeigewörtern gibt es ein männliches und ein weibliches.
+
+#### AUFGABE | GRAMMATIK | NW + QW
+FRAGE: Welches Zeigewort passt?
+TEXT: … نَارٌ
+OPTION: تِلۡكَ
+OPTION: ذٰلِكَ
+RICHTIG: تِلۡكَ
+BEGRÜNDUNG: Auch bei den fernen Zeigewörtern gibt es ein männliches und ein weibliches.
+
+#### AUFGABE | GRAMMATIK | NW + QW
+FRAGE: Welches Zeigewort passt?
+TEXT: … حَيَاةٌ
+OPTION: تِلۡكَ
+OPTION: ذٰلِكَ
+RICHTIG: تِلۡكَ
+BEGRÜNDUNG: Auch bei den fernen Zeigewörtern gibt es ein männliches und ein weibliches.
+
+#### AUFGABE | GRAMMATIK | NW + QW
+FRAGE: Welches Zeigewort passt?
+TEXT: … صِرَاطٌ
+OPTION: تِلۡكَ
+OPTION: ذٰلِكَ
+RICHTIG: ذٰلِكَ
+BEGRÜNDUNG: Auch bei den fernen Zeigewörtern gibt es ein männliches und ein weibliches.
+
+#### AUFGABE | GRAMMATIK | NW + QW
+FRAGE: Welches Zeigewort passt?
+TEXT: … عَذَابٌ
+OPTION: تِلۡكَ
+OPTION: ذٰلِكَ
+RICHTIG: ذٰلِكَ
+BEGRÜNDUNG: Auch bei den fernen Zeigewörtern gibt es ein männliches und ein weibliches.
+
+#### AUFGABE | GRAMMATIK | NW + QW
+FRAGE: Wie geht der Satz weiter?
+TEXT: تِلۡكَ سَاعَةٌ …
+OPTION: شَدِيدَةٌ
+OPTION: شَدِيدٌ
+OPTION: ٱلشَّدِيدُ
+RICHTIG: شَدِيدَةٌ
+BEGRÜNDUNG: Die Beschreibung folgt dem Wort davor — im Geschlecht und in der Endung.
+
+#### AUFGABE | GRAMMATIK | NW + QW
+FRAGE: Wie geht der Satz weiter?
+TEXT: ذٰلِكَ صِرَاطٌ …
+OPTION: مُسۡتَقِيمٌ
+OPTION: ٱلۡمُسۡتَقِيمُ
+OPTION: مُسۡتَقِيمَ
+RICHTIG: مُسۡتَقِيمٌ
+BEGRÜNDUNG: Die Beschreibung folgt dem Wort davor — im Geschlecht und in der Endung.
+
+#### AUFGABE | GRAMMATIK | NW + QW
+FRAGE: Welches Wort zeigt auf etwas, das weiter weg ist?
+OPTION: ذٰلِكَ
+OPTION: هٰذَا
+RICHTIG: ذٰلِكَ
+BEGRÜNDUNG: Für Nahes hādhā, für Fernes dhālika.
+
+======================================================================
+
+#### AUFGABEN LEKTION 8 | Zwei Wörter, ein Begriff
+
+----------------------------------------------------------------------
+
+### TEIL 1 — nur richtige Formen: der Schüler sieht, wie es aussieht
+
+#### AUFGABE | GRAMMATIK | NW + QW
+FRAGE: Was bedeutet das?
+TEXT: وَجۡهُ ٱلرَّجُلِ
+OPTION: das Gesicht des Mannes
+OPTION: ein Gesicht und ein Mann
+OPTION: Das Gesicht ist ein Mann.
+RICHTIG: das Gesicht des Mannes
+BEGRÜNDUNG: Zwei Nomen nebeneinander, das zweite mit -i: ein einziger Begriff, keine Aussage. NEU
+
+#### AUFGABE | GRAMMATIK | NW + QW
+FRAGE: Was hat sich beim letzten Schritt verändert?
+TEXT: كِتَابٌ  →  ٱلۡكِتَابُ  →  كِتَابُ ٱللّٰهِ
+OPTION: Das erste Wort steht ohne al- und ohne Tanwin.
+OPTION: Das erste Wort hat ein Tanwin bekommen.
+OPTION: Am ersten Wort hat sich nichts geändert.
+RICHTIG: Das erste Wort steht ohne al- und ohne Tanwin.
+BEGRÜNDUNG: So sieht das erste Wort einer Verbindung immer aus — obwohl wir im Deutschen „das Buch" sagen. NEU
+
+### TEIL 2 — auswählen: hier stehen auch falsche Formen
+
+#### AUFGABE | GRAMMATIK | NW + QW
+FRAGE: Wie geht es weiter?
+TEXT: كِتَابُ …
+OPTION: ٱلۡأَصۡحَابِ
+OPTION: ٱلۡأَصۡحَابُ
+OPTION: ٱلۡأَصۡحَابَ
+RICHTIG: ٱلۡأَصۡحَابِ
+BEGRÜNDUNG: Das zweite Wort der Verbindung endet auf -i. Daran erkennst du sie. NEU
+
+#### AUFGABE | GRAMMATIK | NW + QW
+FRAGE: Wie geht es weiter?
+TEXT: كِتَابُ …
+OPTION: ٱلۡوَجۡهِ
+OPTION: ٱلۡوَجۡهَ
+OPTION: وَجۡهٌ
+RICHTIG: ٱلۡوَجۡهِ
+BEGRÜNDUNG: Das zweite Wort der Verbindung endet auf -i. Daran erkennst du sie.
+
+#### AUFGABE | GRAMMATIK | NW + QW
+FRAGE: Wie geht es weiter?
+TEXT: كِتَابُ …
+OPTION: ٱلۡبَيۡتِ
+OPTION: بَيۡتٌ
+OPTION: بَيۡتٍ
+RICHTIG: ٱلۡبَيۡتِ
+BEGRÜNDUNG: Das zweite Wort der Verbindung endet auf -i. Daran erkennst du sie.
+
+#### AUFGABE | GRAMMATIK | NW + QW
+FRAGE: Wie geht es weiter?
+TEXT: كِتَابُ …
+OPTION: ٱلۡيَوۡمِ
+OPTION: يَوۡمٍ
+OPTION: ٱلۡيَوۡمُ
+RICHTIG: ٱلۡيَوۡمِ
+BEGRÜNDUNG: Das zweite Wort der Verbindung endet auf -i. Daran erkennst du sie.
+
+#### AUFGABE | GRAMMATIK | NW + QW
+FRAGE: Welcher Ausdruck heißt „das Haus des Propheten"?
+OPTION: بَيۡتُ ٱلنَّبِيِّ
+OPTION: ٱلۡبَيۡتُ ٱلنَّبِيِّ
+OPTION: بَيۡتٌ ٱلنَّبِيِّ
+RICHTIG: بَيۡتُ ٱلنَّبِيِّ
+BEGRÜNDUNG: Das erste Wort steht nackt da, nur das zweite darf al- tragen. NEU
+
+#### AUFGABE | GRAMMATIK | NW + QW
+FRAGE: Welche Form ist richtig?
+OPTION: أَصۡحَابُ ٱلنَّارِ
+OPTION: أَصۡحَابٌ ٱلنَّارِ
+OPTION: أَصۡحَابُ نَارٍ
+RICHTIG: أَصۡحَابُ ٱلنَّارِ
+BEGRÜNDUNG: Erstes Wort ohne alles, zweites Wort mit al- und mit -i.
+
+======================================================================
+
+#### AUFGABEN LEKTION 9 | Kleine Wörter davor
+
+----------------------------------------------------------------------
+
+### TEIL 1 — nur richtige Formen: der Schüler sieht, wie es aussieht
+
+#### AUFGABE | GRAMMATIK | NW + QW
+FRAGE: Was bedeutet das?
+TEXT: ٱلرَّجُلُ فِي ٱلۡمَسۡجِدِ
+OPTION: Der Mann ist in der Moschee.
+OPTION: Der Mann der Moschee.
+OPTION: Die Moschee ist beim Mann.
+RICHTIG: Der Mann ist in der Moschee.
+BEGRÜNDUNG: Erst der, über den etwas gesagt wird, dann die Ortsangabe. Deren Nomen endet auf -i. NEU
+
+#### AUFGABE | GRAMMATIK | NW + QW
+FRAGE: Was bedeutet das?
+TEXT: عَلَىٰ صِرَاطٍ مُسۡتَقِيمٍ
+OPTION: auf einem geraden Weg
+OPTION: auf dem geraden Weg
+OPTION: der gerade Weg
+RICHTIG: auf einem geraden Weg
+BEGRÜNDUNG: Das -in am Ende zeigt: Das Wort ist unbestimmt. Bei -i wäre es bestimmt. NEU
+
+#### AUFGABE | GRAMMATIK | NW + QW
+FRAGE: Warum heißt es hier mina und nicht min?
+TEXT: مِنَ ٱللّٰهِ
+OPTION: weil sonst zwei ruhende Buchstaben aufeinandertreffen
+OPTION: weil das Wort danach ein Name ist
+OPTION: weil es schöner klingt
+RICHTIG: weil sonst zwei ruhende Buchstaben aufeinandertreffen
+BEGRÜNDUNG: Das kleine Wort bekommt ein a, damit man es sprechen kann. NEU
+
+### TEIL 2 — auswählen: hier stehen auch falsche Formen
+
+#### AUFGABE | GRAMMATIK | NW + QW
+FRAGE: Wie geht es weiter?
+TEXT: فِي …
+OPTION: ٱلۡحَمۡدِ
+OPTION: ٱلۡحَمۡدُ
+OPTION: ٱلۡحَمۡدَ
+RICHTIG: ٱلۡحَمۡدِ
+BEGRÜNDUNG: Nach einem kleinen Wort davor endet das Nomen auf -i — dieselbe Endung wie beim zweiten Wort der Verbindung. NEU
+
+#### AUFGABE | GRAMMATIK | NW + QW
+FRAGE: Wie geht es weiter?
+TEXT: فِي …
+OPTION: ٱلۡعِلۡمِ
+OPTION: ٱلۡعِلۡمَ
+OPTION: عِلۡمٌ
+RICHTIG: ٱلۡعِلۡمِ
+BEGRÜNDUNG: Nach einem kleinen Wort davor endet das Nomen auf -i — dieselbe Endung wie beim zweiten Wort der Verbindung.
+
+#### AUFGABE | GRAMMATIK | NW + QW
+FRAGE: Wie geht es weiter?
+TEXT: فِي …
+OPTION: ٱلۡحَقِّ
+OPTION: حَقٌّ
+OPTION: حَقٍّ
+RICHTIG: ٱلۡحَقِّ
+BEGRÜNDUNG: Nach einem kleinen Wort davor endet das Nomen auf -i — dieselbe Endung wie beim zweiten Wort der Verbindung.
+
+#### AUFGABE | GRAMMATIK | NW + QW
+FRAGE: Wie geht es weiter?
+TEXT: فِي …
+OPTION: ٱلۡأَصۡحَابِ
+OPTION: أَصۡحَابٍ
+OPTION: ٱلۡأَصۡحَابُ
+RICHTIG: ٱلۡأَصۡحَابِ
+BEGRÜNDUNG: Nach einem kleinen Wort davor endet das Nomen auf -i — dieselbe Endung wie beim zweiten Wort der Verbindung.
+
+#### AUFGABE | GRAMMATIK | NW + QW
+FRAGE: Wie geht es weiter?
+TEXT: عَلَىٰ …
+OPTION: رَبٍّ
+OPTION: رَبٌّ
+OPTION: رَبَّ
+RICHTIG: رَبٍّ
+BEGRÜNDUNG: Ist das Wort unbestimmt, hörst du statt -i ein -in. NEU
+
+#### AUFGABE | GRAMMATIK | NW + QW
+FRAGE: Welcher Satz ist richtig?
+OPTION: ٱلرَّجُلُ فِي ٱلۡمَسۡجِدِ
+OPTION: فِي ٱلۡمَسۡجِدِ ٱلرَّجُلُ
+OPTION: ٱلرَّجُلُ فِي ٱلۡمَسۡجِدُ
+RICHTIG: ٱلرَّجُلُ فِي ٱلۡمَسۡجِدِ
+BEGRÜNDUNG: Erst der, über den etwas gesagt wird, dann die Ortsangabe mit -i.
+
+======================================================================
+
+#### AUFGABEN LEKTION 10 | Wörter, die am Wort kleben
+
+----------------------------------------------------------------------
+
+### TEIL 1 — nur richtige Formen: der Schüler sieht, wie es aussieht
+
+#### AUFGABE | GRAMMATIK | NW + QW
+FRAGE: Was bedeutet das?
+TEXT: ٱلۡحَمۡدُ لِلّٰهِ
+OPTION: Das Lob gehört Allah.
+OPTION: Das Lob ist für Allah gut.
+OPTION: Allah lobt.
+RICHTIG: Das Lob gehört Allah.
+BEGRÜNDUNG: Dasselbe kleine Wort heißt „für" und „gehört". NEU
+
+#### AUFGABE | GRAMMATIK | NW + QW
+FRAGE: Was ist hier zusammengezogen?
+TEXT: لِ + ٱلصَّلَاةِ  →  لِلصَّلَاةِ
+OPTION: das Alif von al-
+OPTION: das Lam des kleinen Wortes
+OPTION: die Endung -i
+RICHTIG: das Alif von al-
+BEGRÜNDUNG: Treffen das kleine Wort und al- aufeinander, fällt das Alif weg. Übrig bleibt lil-. NEU
+
+#### AUFGABE | GRAMMATIK | NW + QW
+FRAGE: Was heißt das kleine Wort hier?
+TEXT: ٱللّٰهُ عَلِيمٌ بِٱلۡقَلۡبِ
+OPTION: hier nichts — es gehört zum Wort davor
+OPTION: mit
+OPTION: durch
+RICHTIG: hier nichts — es gehört zum Wort davor
+BEGRÜNDUNG: Wie im Deutschen bei „wissen um": Das kleine Wort gehört zum Wort davor. NEU
+
+### TEIL 2 — auswählen: hier stehen auch falsche Formen
+
+#### AUFGABE | GRAMMATIK | NW + QW
+FRAGE: Wie heißt „durch das Paradies"?
+OPTION: بِٱلۡجَنَّةِ
+OPTION: بِ ٱلۡجَنَّةِ
+OPTION: ٱلۡجَنَّةِ بِـ
+RICHTIG: بِٱلۡجَنَّةِ
+BEGRÜNDUNG: Dieses kleine Wort ist nur ein Buchstabe und klebt ohne Lücke am nächsten Wort. NEU
+
+#### AUFGABE | GRAMMATIK | NW + QW
+FRAGE: Wie heißt „durch einer"?
+OPTION: بِٱلۡأَحَدِ
+OPTION: ٱلۡأَحَدِ بِـ
+OPTION: بِٱلۡأَحَدُ
+RICHTIG: بِٱلۡأَحَدِ
+BEGRÜNDUNG: Dieses kleine Wort ist nur ein Buchstabe und klebt ohne Lücke am nächsten Wort.
+
+#### AUFGABE | GRAMMATIK | NW + QW
+FRAGE: Wie heißt „durch das Lob"?
+OPTION: بِٱلۡحَمۡدِ
+OPTION: بِٱلۡحَمۡدُ
+OPTION: بِحَمۡدٌ
+RICHTIG: بِٱلۡحَمۡدِ
+BEGRÜNDUNG: Dieses kleine Wort ist nur ein Buchstabe und klebt ohne Lücke am nächsten Wort.
+
+#### AUFGABE | GRAMMATIK | NW + QW
+FRAGE: Wie heißt „für das Paradies"?
+OPTION: لِلۡجَنَّةِ
+OPTION: لِٱلۡجَنَّةِ
+OPTION: لِجَنَّةِ
+RICHTIG: لِلۡجَنَّةِ
+BEGRÜNDUNG: Das Alif von al- fällt weg, übrig bleibt lil-. NEU
+
+#### AUFGABE | GRAMMATIK | NW + QW
+FRAGE: Wie heißt „für einer"?
+OPTION: لِلۡأَحَدِ
+OPTION: لِأَحَدِ
+OPTION: لِلأَحَدِ
+RICHTIG: لِلۡأَحَدِ
+BEGRÜNDUNG: Das Alif von al- fällt weg, übrig bleibt lil-.
+
+#### AUFGABE | GRAMMATIK | NW + QW
+FRAGE: Wie heißt „für das Lob"?
+OPTION: لِلۡحَمۡدِ
+OPTION: لِلحَمۡدِ
+OPTION: لِ ٱلۡحَمۡدِ
+RICHTIG: لِلۡحَمۡدِ
+BEGRÜNDUNG: Das Alif von al- fällt weg, übrig bleibt lil-.
+
+#### AUFGABE | GRAMMATIK | NW + QW
+FRAGE: Welches der drei Wörter klebt nicht am nächsten Wort?
+OPTION: إِلَىٰ
+OPTION: بِـ
+OPTION: لِـ
+RICHTIG: إِلَىٰ
+BEGRÜNDUNG: Die ersten beiden sind einzelne Buchstaben und kleben. Das dritte steht mit Lücke davor — wirkt aber genauso.
+
+======================================================================
+
+#### AUFGABEN LEKTION 11 | Er, sie und sie
+
+----------------------------------------------------------------------
+
+### TEIL 1 — nur richtige Formen: der Schüler sieht, wie es aussieht
+
+#### AUFGABE | GRAMMATIK | NW + QW
+FRAGE: Was bedeutet das?
+TEXT: هُوَ ٱلۡحَقُّ
+OPTION: Er ist die Wahrheit.
+OPTION: die Wahrheit
+OPTION: Die Wahrheit ist er selbst.
+RICHTIG: Er ist die Wahrheit.
+BEGRÜNDUNG: Hinter einem Fürwort darf ein Wort mit al- stehen, und der Satz bleibt eine Aussage. Anders als in Lektion 6. NEU
+
+#### AUFGABE | GRAMMATIK | NW + QW
+FRAGE: Was bedeutet das?
+TEXT: هُمۡ فِي ٱلۡجَنَّةِ
+OPTION: Sie sind im Paradies.
+OPTION: Er ist im Paradies.
+OPTION: Sie ist im Paradies.
+RICHTIG: Sie sind im Paradies.
+BEGRÜNDUNG: Das Fürwort hum meint mehrere. Am Satz dahinter ändert sich nichts. NEU
+
+### TEIL 2 — auswählen: hier stehen auch falsche Formen
+
+#### AUFGABE | GRAMMATIK | NW + QW
+FRAGE: Welches Fürwort passt?
+TEXT: … ٱلۡمُسۡلِمُ
+OPTION: هُوَ
+OPTION: هِيَ
+OPTION: هُمۡ
+RICHTIG: هُوَ
+BEGRÜNDUNG: Das Wort dahinter ist männlich, also steht davor das männliche Fürwort.
+
+#### AUFGABE | GRAMMATIK | NW + QW
+FRAGE: Welches Fürwort passt?
+TEXT: … ٱلنَّاسُ
+OPTION: هُوَ
+OPTION: هِيَ
+OPTION: هُمۡ
+RICHTIG: هُمۡ
+BEGRÜNDUNG: Sind mehrere gemeint, steht hum.
+
+#### AUFGABE | GRAMMATIK | NW + QW
+FRAGE: Welches Fürwort passt?
+TEXT: … ٱلنَّفۡسُ
+OPTION: هُوَ
+OPTION: هِيَ
+OPTION: هُمۡ
+RICHTIG: هِيَ
+BEGRÜNDUNG: Das Wort dahinter ist weiblich, also steht davor das weibliche Fürwort. NEU
+
+#### AUFGABE | GRAMMATIK | NW + QW
+FRAGE: Welches Fürwort passt?
+TEXT: … ٱلۡجَنَّةُ
+OPTION: هُوَ
+OPTION: هِيَ
+OPTION: هُمۡ
+RICHTIG: هِيَ
+BEGRÜNDUNG: Das Wort dahinter ist weiblich, also steht davor das weibliche Fürwort.
+
+#### AUFGABE | GRAMMATIK | NW + QW
+FRAGE: Welches Fürwort passt?
+TEXT: … ٱلۡأَحَدُ
+OPTION: هُوَ
+OPTION: هِيَ
+OPTION: هُمۡ
+RICHTIG: هُوَ
+BEGRÜNDUNG: Das Wort dahinter ist männlich, also steht davor das männliche Fürwort.
+
+#### AUFGABE | GRAMMATIK | NW + QW
+FRAGE: Welches Fürwort passt?
+TEXT: … ٱلۡأَصۡحَابُ
+OPTION: هُوَ
+OPTION: هِيَ
+OPTION: هُمۡ
+RICHTIG: هُمۡ
+BEGRÜNDUNG: Sind mehrere gemeint, steht hum.
+
+#### AUFGABE | GRAMMATIK | NW + QW
+FRAGE: Welches Fürwort passt?
+TEXT: … ٱلۡوَجۡهُ
+OPTION: هُوَ
+OPTION: هِيَ
+OPTION: هُمۡ
+RICHTIG: هُوَ
+BEGRÜNDUNG: Das Wort dahinter ist männlich, also steht davor das männliche Fürwort.
+
+#### AUFGABE | GRAMMATIK | NW + QW
+FRAGE: Welcher Satz ist richtig?
+OPTION: هُوَ فِي ٱلۡبَيۡتِ
+OPTION: هُوَ فِي ٱلۡبَيۡتُ
+OPTION: فِي ٱلۡبَيۡتِ هُوَ
+RICHTIG: هُوَ فِي ٱلۡبَيۡتِ
+BEGRÜNDUNG: Erst das Fürwort, dann die Ortsangabe, und deren Nomen endet auf -i.
+
+#### AUFGABE | GRAMMATIK | NW + QW
+FRAGE: Wie geht der Satz weiter?
+TEXT: هُوَ …
+OPTION: رَسُولُ ٱللّٰهِ
+OPTION: رَسُولٌ ٱللّٰهِ
+OPTION: ٱلرَّسُولُ ٱللّٰهِ
+RICHTIG: رَسُولُ ٱللّٰهِ
+BEGRÜNDUNG: Hinter dem Fürwort steht die Verbindung aus Lektion 8, unverändert.
+
+======================================================================

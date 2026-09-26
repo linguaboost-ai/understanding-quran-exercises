@@ -1,0 +1,3267 @@
+QURAN VERSTEHEN LERNEN — QURANFRAGMENTE FÜR DIE LEKTIONEN 1 BIS 11
+
+Vier Aufgabenarten je Lektion
+  TEIL 1  Welche Wörter kommen vor?   Fragment steht da, Mehrfachauswahl
+  TEIL 2  dasselbe, aber als Audio — das Fragment wird nicht angezeigt
+  TEIL 3  Welche Übersetzung passt?   Fragment steht da, drei Übersetzungen
+  TEIL 4  dasselbe, aber als Audio
+
+Aufbau der Blöcke
+  STELLE:          Sure:Vers
+  WÖRTER IM VERS:  erstes und letztes Wort des Fragments, gezählt ab 1
+  TEXT:            das Fragment, bei AUDIO nicht anzeigen, sondern abspielen
+  BEKANNT:         die Wörter der Auswahl, die im Fragment vorkommen
+  OPTION/RICHTIG:  mehrere RICHTIG-Zeilen heißen Mehrfachauswahl
+
+Auswahl der Fragmente
+  Vier bis zehn Wörter, getrennt an den Pausenzeichen Jim, Salla, Qalla
+  und Mim. Wörter, die der Schüler erkennen soll, stehen ohne Endungen,
+  die er noch nicht kennt. Steht ein bekanntes Wort mit einer solchen
+  Endung im Vers, ist das Fragment trotzdem erlaubt — das Wort wird dann
+  aber weder als richtige noch als falsche Antwort angeboten. Die Zeile
+  NICHT ANBIETEN nennt solche Wörter. Fragmente mit mehreren Treffern haben Vorrang vor solchen
+  mit einem. Jedes Wort der Auswahl kommt in mindestens einem Fragment vor,
+  die Wörter der laufenden Lektion nach Möglichkeit zweimal.
+
+  Das Fragewort steht im Quran meist als Verneinung oder als Bezugswort.
+  Fragmente damit sind deshalb nur zugelassen, wenn es dort wirklich fragt —
+  erkennbar an festen Formen wie „was lässt dich wissen", „was hindert dich",
+  „was ist mit euch, dass ihr nicht …" oder „was hat dich getäuscht".
+
+Die falschen Übersetzungen
+  enthalten Wörter, die der Schüler kennt, die aber im Fragment nicht
+  vorkommen. Sie sind ähnlich lang gebaut wie die richtige und enthalten
+  nie alle Wörter, die der Schüler im Fragment wiedererkennen kann.
+
+======================================================================
+
+#### AUFGABEN LEKTION 1 | Zeigesätze
+
+WIEDERHOLUNG: keine — erste Lektion
+AW: هٰذَا · شَيۡء · سَبِيل · مَسۡجِد · كِتَاب · مَاء
+
+----------------------------------------------------------------------
+
+### TEIL 1 — Welche Wörter kommen vor? (gelesen)
+
+#### AUFGABE | QURAN FRAGMENTE 1 | AW
+STELLE: 6:155
+WÖRTER IM VERS: 1–8
+TEXT: وَهَٰذَا كِتَابٌ أَنۡزَلۡنَاهُ مُبَارَكٌ فَاتَّبِعُوهُ وَاتَّقُوا لَعَلَّكُمۡ تُرۡحَمُونَ
+BEKANNT: كِتَاب · هٰذَا
+FRAGE: Welche Wörter kommen vor?
+HINWEIS: Mehrere Antworten sind möglich.
+OPTION: Buch
+OPTION: dies
+OPTION: Wasser
+OPTION: Weg
+RICHTIG: Buch
+RICHTIG: dies
+
+#### AUFGABE | QURAN FRAGMENTE 1 | AW
+STELLE: 21:30
+WÖRTER IM VERS: 11–16
+TEXT: وَجَعَلۡنَا مِنَ الۡمَاءِ كُلَّ شَيۡءٍ حَيٍّ
+BEKANNT: شَيۡء · مَاء
+FRAGE: Welche Wörter kommen vor?
+HINWEIS: Mehrere Antworten sind möglich.
+OPTION: Ding
+OPTION: Wasser
+OPTION: Weg
+OPTION: Moschee
+RICHTIG: Ding
+RICHTIG: Wasser
+
+#### AUFGABE | QURAN FRAGMENTE 1 | AW
+STELLE: 4:88
+WÖRTER IM VERS: 16–22
+TEXT: وَمَنۡ يُضۡلِلِ اللَّهُ فَلَنۡ تَجِدَ لَهُ سَبِيلًا
+BEKANNT: سَبِيل
+FRAGE: Welche Wörter kommen vor?
+HINWEIS: Mehrere Antworten sind möglich.
+OPTION: Weg
+OPTION: Ding
+OPTION: Buch
+OPTION: Wasser
+RICHTIG: Weg
+
+#### AUFGABE | QURAN FRAGMENTE 1 | AW
+STELLE: 2:144
+WÖRTER IM VERS: 7–14
+TEXT: فَلَنُوَلِّيَنَّكَ قِبۡلَةً تَرۡضَاهَا فَوَلِّ وَجۡهَكَ شَطۡرَ الۡمَسۡجِدِ الۡحَرَامِ
+BEKANNT: مَسۡجِد
+FRAGE: Welche Wörter kommen vor?
+HINWEIS: Mehrere Antworten sind möglich.
+OPTION: Moschee
+OPTION: Buch
+OPTION: Weg
+OPTION: Ding
+RICHTIG: Moschee
+
+#### AUFGABE | QURAN FRAGMENTE 1 | AW
+STELLE: 16:89
+WÖRTER IM VERS: 15–24
+TEXT: وَنَزَّلۡنَا عَلَيۡكَ الۡكِتَابَ تِبۡيَانًا لِكُلِّ شَيۡءٍ وَهُدًى وَرَحۡمَةً وَبُشۡرَىٰ لِلۡمُسۡلِمِينَ
+BEKANNT: شَيۡء · كِتَاب
+FRAGE: Welche Wörter kommen vor?
+HINWEIS: Mehrere Antworten sind möglich.
+OPTION: Ding
+OPTION: Buch
+OPTION: Weg
+OPTION: Moschee
+RICHTIG: Ding
+RICHTIG: Buch
+
+#### AUFGABE | QURAN FRAGMENTE 1 | AW
+STELLE: 21:30
+WÖRTER IM VERS: 11–18
+TEXT: وَجَعَلۡنَا مِنَ الۡمَاءِ كُلَّ شَيۡءٍ حَيٍّ أَفَلَا يُؤۡمِنُونَ
+BEKANNT: شَيۡء · مَاء
+FRAGE: Welche Wörter kommen vor?
+HINWEIS: Mehrere Antworten sind möglich.
+OPTION: Ding
+OPTION: Wasser
+OPTION: Weg
+OPTION: Moschee
+RICHTIG: Ding
+RICHTIG: Wasser
+
+### TEIL 2 — Welche Wörter hörst du? (Audio)
+
+#### AUFGABE | QURAN FRAGMENTE 2 | AW
+AUDIO: ja
+STELLE: 2:149
+WÖRTER IM VERS: 1–8
+TEXT: وَمِنۡ حَيۡثُ خَرَجۡتَ فَوَلِّ وَجۡهَكَ شَطۡرَ الۡمَسۡجِدِ الۡحَرَامِ
+BEKANNT: مَسۡجِد
+FRAGE: Welche Wörter hörst du?
+HINWEIS: Mehrere Antworten sind möglich.
+OPTION: Moschee
+OPTION: Buch
+OPTION: Wasser
+OPTION: Weg
+RICHTIG: Moschee
+
+#### AUFGABE | QURAN FRAGMENTE 2 | AW
+AUDIO: ja
+STELLE: 78:29
+WÖRTER IM VERS: 1–4
+TEXT: وَكُلَّ شَيۡءٍ أَحۡصَيۡنَاهُ كِتَابًا
+BEKANNT: شَيۡء · كِتَاب
+FRAGE: Welche Wörter hörst du?
+HINWEIS: Mehrere Antworten sind möglich.
+OPTION: Ding
+OPTION: Buch
+OPTION: Weg
+OPTION: Moschee
+RICHTIG: Ding
+RICHTIG: Buch
+
+#### AUFGABE | QURAN FRAGMENTE 2 | AW
+AUDIO: ja
+STELLE: 46:12
+WÖRTER IM VERS: 7–16
+TEXT: وَهَٰذَا كِتَابٌ مُصَدِّقٌ لِسَانًا عَرَبِيًّا لِيُنۡذِرَ الَّذِينَ ظَلَمُوا وَبُشۡرَىٰ لِلۡمُحۡسِنِينَ
+BEKANNT: كِتَاب · هٰذَا
+FRAGE: Welche Wörter hörst du?
+HINWEIS: Mehrere Antworten sind möglich.
+OPTION: Buch
+OPTION: dies
+OPTION: Ding
+OPTION: Moschee
+RICHTIG: Buch
+RICHTIG: dies
+
+#### AUFGABE | QURAN FRAGMENTE 2 | AW
+AUDIO: ja
+STELLE: 4:141
+WÖRTER IM VERS: 30–36
+TEXT: وَلَنۡ يَجۡعَلَ اللَّهُ لِلۡكَافِرِينَ عَلَى الۡمُؤۡمِنِينَ سَبِيلًا
+BEKANNT: سَبِيل
+FRAGE: Welche Wörter hörst du?
+HINWEIS: Mehrere Antworten sind möglich.
+OPTION: Weg
+OPTION: Buch
+OPTION: Wasser
+OPTION: Moschee
+RICHTIG: Weg
+
+### TEIL 3 — Welche Übersetzung passt? (gelesen)
+
+#### AUFGABE | QURAN FRAGMENTE 3 | AW
+STELLE: 78:29
+WÖRTER IM VERS: 1–4
+TEXT: وَكُلَّ شَيۡءٍ أَحۡصَيۡنَاهُ كِتَابًا
+BEKANNT: شَيۡء · كِتَاب
+FRAGE: Welche Übersetzung passt?
+OPTION: Und alles haben Wir in einem Buch erfasst.
+OPTION: Und jeden Weg haben Wir ihnen leicht gemacht.
+OPTION: Und das Wasser haben Wir aus der Erde geholt.
+RICHTIG: Und alles haben Wir in einem Buch erfasst.
+
+### TEIL 4 — Welche Übersetzung passt? (Audio)
+
+#### AUFGABE | QURAN FRAGMENTE 4 | AW
+AUDIO: ja
+STELLE: 21:30
+WÖRTER IM VERS: 11–16
+TEXT: وَجَعَلۡنَا مِنَ الۡمَاءِ كُلَّ شَيۡءٍ حَيٍّ
+BEKANNT: شَيۡء · مَاء
+FRAGE: Welche Übersetzung passt?
+OPTION: Und Wir haben aus dem Wasser alles Lebendige gemacht.
+OPTION: Und Wir haben aus dem Buch einen Weg gemacht.
+OPTION: Und Wir haben die Moschee zu einem Ort des Gebets gemacht.
+RICHTIG: Und Wir haben aus dem Wasser alles Lebendige gemacht.
+
+======================================================================
+
+#### AUFGABEN LEKTION 2 | Wer oder was?
+
+WIEDERHOLUNG: Lektion 1
+AW: مَا · مَنۡ · رَجُل · رَسُول · عَبۡد · نَبِيّ · هٰذَا · شَيۡء · سَبِيل · مَسۡجِد · كِتَاب · مَاء
+
+----------------------------------------------------------------------
+
+### TEIL 1 — Welche Wörter kommen vor? (gelesen)
+
+#### AUFGABE | QURAN FRAGMENTE 1 | AW
+STELLE: 19:30
+WÖRTER IM VERS: 1–8
+TEXT: قَالَ إِنِّي عَبۡدُ اللَّهِ آتَانِيَ الۡكِتَابَ وَجَعَلَنِي نَبِيًّا
+BEKANNT: عَبۡد · كِتَاب · نَبِيّ
+FRAGE: Welche Wörter kommen vor?
+HINWEIS: Mehrere Antworten sind möglich.
+OPTION: Diener
+OPTION: Buch
+OPTION: Prophet
+OPTION: Ding
+OPTION: was
+RICHTIG: Diener
+RICHTIG: Buch
+RICHTIG: Prophet
+
+#### AUFGABE | QURAN FRAGMENTE 1 | AW
+STELLE: 4:80
+WÖRTER IM VERS: 1–6
+TEXT: مَنۡ يُطِعِ الرَّسُولَ فَقَدۡ أَطَاعَ اللَّهَ
+BEKANNT: رَسُول · مَنۡ
+FRAGE: Welche Wörter kommen vor?
+HINWEIS: Mehrere Antworten sind möglich.
+OPTION: Gesandter
+OPTION: wer
+OPTION: was
+OPTION: Wasser
+RICHTIG: Gesandter
+RICHTIG: wer
+
+#### AUFGABE | QURAN FRAGMENTE 1 | AW
+STELLE: 43:31
+WÖRTER IM VERS: 1–10
+TEXT: وَقَالُوا لَوۡلَا نُزِّلَ هَٰذَا الۡقُرۡآنُ عَلَىٰ رَجُلٍ مِنَ الۡقَرۡيَتَيۡنِ عَظِيمٍ
+BEKANNT: رَجُل · هٰذَا
+FRAGE: Welche Wörter kommen vor?
+HINWEIS: Mehrere Antworten sind möglich.
+OPTION: Mann
+OPTION: dies
+OPTION: Weg
+OPTION: Buch
+RICHTIG: Mann
+RICHTIG: dies
+
+#### AUFGABE | QURAN FRAGMENTE 1 | AW
+STELLE: 21:30
+WÖRTER IM VERS: 11–16
+TEXT: وَجَعَلۡنَا مِنَ الۡمَاءِ كُلَّ شَيۡءٍ حَيٍّ
+BEKANNT: شَيۡء · مَاء
+FRAGE: Welche Wörter kommen vor?
+HINWEIS: Mehrere Antworten sind möglich.
+OPTION: Ding
+OPTION: Wasser
+OPTION: dies
+OPTION: Moschee
+RICHTIG: Ding
+RICHTIG: Wasser
+
+#### AUFGABE | QURAN FRAGMENTE 1 | AW
+STELLE: 4:88
+WÖRTER IM VERS: 16–22
+TEXT: وَمَنۡ يُضۡلِلِ اللَّهُ فَلَنۡ تَجِدَ لَهُ سَبِيلًا
+BEKANNT: سَبِيل · مَنۡ
+FRAGE: Welche Wörter kommen vor?
+HINWEIS: Mehrere Antworten sind möglich.
+OPTION: Weg
+OPTION: wer
+OPTION: Diener
+OPTION: Ding
+RICHTIG: Weg
+RICHTIG: wer
+
+#### AUFGABE | QURAN FRAGMENTE 1 | AW
+STELLE: 7:12
+WÖRTER IM VERS: 1–7
+TEXT: قَالَ مَا مَنَعَكَ أَلَّا تَسۡجُدَ إِذۡ أَمَرۡتُكَ
+BEKANNT: مَا
+NICHT ANBIETEN: مَنۡ  (steht mit Endung im Vers)
+FRAGE: Welche Wörter kommen vor?
+HINWEIS: Mehrere Antworten sind möglich.
+OPTION: was
+OPTION: Buch
+OPTION: Ding
+OPTION: Diener
+RICHTIG: was
+
+#### AUFGABE | QURAN FRAGMENTE 1 | AW
+STELLE: 2:144
+WÖRTER IM VERS: 7–14
+TEXT: فَلَنُوَلِّيَنَّكَ قِبۡلَةً تَرۡضَاهَا فَوَلِّ وَجۡهَكَ شَطۡرَ الۡمَسۡجِدِ الۡحَرَامِ
+BEKANNT: مَسۡجِد
+FRAGE: Welche Wörter kommen vor?
+HINWEIS: Mehrere Antworten sind möglich.
+OPTION: Moschee
+OPTION: wer
+OPTION: Ding
+OPTION: was
+RICHTIG: Moschee
+
+### TEIL 2 — Welche Wörter hörst du? (Audio)
+
+#### AUFGABE | QURAN FRAGMENTE 2 | AW
+AUDIO: ja
+STELLE: 19:51
+WÖRTER IM VERS: 1–10
+TEXT: وَاذۡكُرۡ فِي الۡكِتَابِ مُوسَىٰ إِنَّهُ كَانَ مُخۡلَصًا وَكَانَ رَسُولًا نَبِيًّا
+BEKANNT: رَسُول · كِتَاب · نَبِيّ
+FRAGE: Welche Wörter hörst du?
+HINWEIS: Mehrere Antworten sind möglich.
+OPTION: Gesandter
+OPTION: Buch
+OPTION: Prophet
+OPTION: Moschee
+OPTION: Diener
+RICHTIG: Gesandter
+RICHTIG: Buch
+RICHTIG: Prophet
+
+#### AUFGABE | QURAN FRAGMENTE 2 | AW
+AUDIO: ja
+STELLE: 82:6
+WÖRTER IM VERS: 1–7
+TEXT: يَا أَيُّهَا الۡإِنۡسَانُ مَا غَرَّكَ بِرَبِّكَ الۡكَرِيمِ
+BEKANNT: مَا
+FRAGE: Welche Wörter hörst du?
+HINWEIS: Mehrere Antworten sind möglich.
+OPTION: was
+OPTION: Mann
+OPTION: Ding
+OPTION: Moschee
+RICHTIG: was
+
+#### AUFGABE | QURAN FRAGMENTE 2 | AW
+AUDIO: ja
+STELLE: 25:8
+WÖRTER IM VERS: 11–17
+TEXT: وَقَالَ الظَّالِمُونَ إِنۡ تَتَّبِعُونَ إِلَّا رَجُلًا مَسۡحُورًا
+BEKANNT: رَجُل
+FRAGE: Welche Wörter hörst du?
+HINWEIS: Mehrere Antworten sind möglich.
+OPTION: Mann
+OPTION: Prophet
+OPTION: wer
+OPTION: Gesandter
+RICHTIG: Mann
+
+#### AUFGABE | QURAN FRAGMENTE 2 | AW
+AUDIO: ja
+STELLE: 17:3
+WÖRTER IM VERS: 1–9
+TEXT: ذُرِّيَّةَ مَنۡ حَمَلۡنَا مَعَ نُوحٍ إِنَّهُ كَانَ عَبۡدًا شَكُورًا
+BEKANNT: عَبۡد · مَنۡ
+FRAGE: Welche Wörter hörst du?
+HINWEIS: Mehrere Antworten sind möglich.
+OPTION: Diener
+OPTION: wer
+OPTION: Gesandter
+OPTION: Ding
+RICHTIG: Diener
+RICHTIG: wer
+
+#### AUFGABE | QURAN FRAGMENTE 2 | AW
+AUDIO: ja
+STELLE: 19:54
+WÖRTER IM VERS: 5–11
+TEXT: إِنَّهُ كَانَ صَادِقَ الۡوَعۡدِ وَكَانَ رَسُولًا نَبِيًّا
+BEKANNT: رَسُول · نَبِيّ
+FRAGE: Welche Wörter hörst du?
+HINWEIS: Mehrere Antworten sind möglich.
+OPTION: Gesandter
+OPTION: Prophet
+OPTION: Wasser
+OPTION: Weg
+RICHTIG: Gesandter
+RICHTIG: Prophet
+
+### TEIL 3 — Welche Übersetzung passt? (gelesen)
+
+#### AUFGABE | QURAN FRAGMENTE 3 | AW
+STELLE: 31:15
+WÖRTER IM VERS: 18–22
+TEXT: وَاتَّبِعۡ سَبِيلَ مَنۡ أَنَابَ إِلَيَّ
+BEKANNT: سَبِيل · مَنۡ
+FRAGE: Welche Übersetzung passt?
+OPTION: Und folge dem Weg dessen, der sich Mir reuig zuwendet.
+OPTION: Und folge dem Buch dessen, der zu Mir gehört.
+OPTION: Und folge dem Gesandten, der zu Mir ruft.
+RICHTIG: Und folge dem Weg dessen, der sich Mir reuig zuwendet.
+
+### TEIL 4 — Welche Übersetzung passt? (Audio)
+
+#### AUFGABE | QURAN FRAGMENTE 4 | AW
+AUDIO: ja
+STELLE: 19:51
+WÖRTER IM VERS: 5–10
+TEXT: إِنَّهُ كَانَ مُخۡلَصًا وَكَانَ رَسُولًا نَبِيًّا
+BEKANNT: رَسُول · نَبِيّ
+FRAGE: Welche Übersetzung passt?
+OPTION: Er war auserwählt, und er war ein Gesandter und Prophet.
+OPTION: Er war ein Diener, und er war ein Mann des Buches.
+OPTION: Er war auf dem Weg, und er war ein Diener in der Moschee.
+RICHTIG: Er war auserwählt, und er war ein Gesandter und Prophet.
+
+======================================================================
+
+#### AUFGABEN LEKTION 3 | Weibliche Wörter
+
+WIEDERHOLUNG: Lektion 2, 1
+AW: هٰذِهِ · سَاعَة · قَرۡيَة · صَلَاة · رَحۡمَة · آيَة · مَا · مَنۡ · رَجُل · رَسُول · عَبۡد · نَبِيّ · هٰذَا · شَيۡء · سَبِيل · مَسۡجِد · كِتَاب · مَاء
+
+----------------------------------------------------------------------
+
+### TEIL 1 — Welche Wörter kommen vor? (gelesen)
+
+#### AUFGABE | QURAN FRAGMENTE 1 | AW
+STELLE: 19:21
+WÖRTER IM VERS: 8–15
+TEXT: وَلِنَجۡعَلَهُ آيَةً لِلنَّاسِ وَرَحۡمَةً مِنَّا وَكَانَ أَمۡرًا مَقۡضِيًّا
+BEKANNT: آيَة · رَحۡمَة · مَنۡ
+FRAGE: Welche Wörter kommen vor?
+HINWEIS: Mehrere Antworten sind möglich.
+OPTION: Zeichen
+OPTION: Barmherzigkeit
+OPTION: wer
+OPTION: Moschee
+OPTION: Ding
+RICHTIG: Zeichen
+RICHTIG: Barmherzigkeit
+RICHTIG: wer
+
+#### AUFGABE | QURAN FRAGMENTE 1 | AW
+STELLE: 19:30
+WÖRTER IM VERS: 1–8
+TEXT: قَالَ إِنِّي عَبۡدُ اللَّهِ آتَانِيَ الۡكِتَابَ وَجَعَلَنِي نَبِيًّا
+BEKANNT: عَبۡد · كِتَاب · نَبِيّ
+FRAGE: Welche Wörter kommen vor?
+HINWEIS: Mehrere Antworten sind möglich.
+OPTION: Diener
+OPTION: Buch
+OPTION: Prophet
+OPTION: Barmherzigkeit
+OPTION: Stunde
+RICHTIG: Diener
+RICHTIG: Buch
+RICHTIG: Prophet
+
+#### AUFGABE | QURAN FRAGMENTE 1 | AW
+STELLE: 24:56
+WÖRTER IM VERS: 1–8
+TEXT: وَأَقِيمُوا الصَّلَاةَ وَآتُوا الزَّكَاةَ وَأَطِيعُوا الرَّسُولَ لَعَلَّكُمۡ تُرۡحَمُونَ
+BEKANNT: رَسُول · صَلَاة
+FRAGE: Welche Wörter kommen vor?
+HINWEIS: Mehrere Antworten sind möglich.
+OPTION: Gesandter
+OPTION: Gebet
+OPTION: Zeichen
+OPTION: diese
+RICHTIG: Gesandter
+RICHTIG: Gebet
+
+#### AUFGABE | QURAN FRAGMENTE 1 | AW
+STELLE: 33:63
+WÖRTER IM VERS: 10–15
+TEXT: وَمَا يُدۡرِيكَ لَعَلَّ السَّاعَةَ تَكُونُ قَرِيبًا
+BEKANNT: سَاعَة · مَا
+FRAGE: Welche Wörter kommen vor?
+HINWEIS: Mehrere Antworten sind möglich.
+OPTION: Stunde
+OPTION: was
+OPTION: Zeichen
+OPTION: Weg
+RICHTIG: Stunde
+RICHTIG: was
+
+#### AUFGABE | QURAN FRAGMENTE 1 | AW
+STELLE: 73:19
+WÖRTER IM VERS: 1–9
+TEXT: إِنَّ هَٰذِهِ تَذۡكِرَةٌ فَمَنۡ شَاءَ اتَّخَذَ إِلَىٰ رَبِّهِ سَبِيلًا
+BEKANNT: سَبِيل · هٰذِهِ
+NICHT ANBIETEN: مَنۡ  (steht mit Endung im Vers)
+FRAGE: Welche Wörter kommen vor?
+HINWEIS: Mehrere Antworten sind möglich.
+OPTION: Weg
+OPTION: diese
+OPTION: Wasser
+OPTION: was
+RICHTIG: Weg
+RICHTIG: diese
+
+#### AUFGABE | QURAN FRAGMENTE 1 | AW
+STELLE: 21:30
+WÖRTER IM VERS: 11–16
+TEXT: وَجَعَلۡنَا مِنَ الۡمَاءِ كُلَّ شَيۡءٍ حَيٍّ
+BEKANNT: شَيۡء · مَاء
+FRAGE: Welche Wörter kommen vor?
+HINWEIS: Mehrere Antworten sind möglich.
+OPTION: Ding
+OPTION: Wasser
+OPTION: wer
+OPTION: was
+RICHTIG: Ding
+RICHTIG: Wasser
+
+#### AUFGABE | QURAN FRAGMENTE 1 | AW
+STELLE: 43:31
+WÖRTER IM VERS: 1–10
+TEXT: وَقَالُوا لَوۡلَا نُزِّلَ هَٰذَا الۡقُرۡآنُ عَلَىٰ رَجُلٍ مِنَ الۡقَرۡيَتَيۡنِ عَظِيمٍ
+BEKANNT: رَجُل · هٰذَا
+FRAGE: Welche Wörter kommen vor?
+HINWEIS: Mehrere Antworten sind möglich.
+OPTION: Mann
+OPTION: dies
+OPTION: Ding
+OPTION: Moschee
+RICHTIG: Mann
+RICHTIG: dies
+
+#### AUFGABE | QURAN FRAGMENTE 1 | AW
+STELLE: 21:95
+WÖRTER IM VERS: 1–7
+TEXT: وَحَرَامٌ عَلَىٰ قَرۡيَةٍ أَهۡلَكۡنَاهَا أَنَّهُمۡ لَا يَرۡجِعُونَ
+BEKANNT: قَرۡيَة
+FRAGE: Welche Wörter kommen vor?
+HINWEIS: Mehrere Antworten sind möglich.
+OPTION: Ortschaft
+OPTION: dies
+OPTION: Diener
+OPTION: Barmherzigkeit
+RICHTIG: Ortschaft
+
+#### AUFGABE | QURAN FRAGMENTE 1 | AW
+STELLE: 2:144
+WÖRTER IM VERS: 7–14
+TEXT: فَلَنُوَلِّيَنَّكَ قِبۡلَةً تَرۡضَاهَا فَوَلِّ وَجۡهَكَ شَطۡرَ الۡمَسۡجِدِ الۡحَرَامِ
+BEKANNT: مَسۡجِد
+FRAGE: Welche Wörter kommen vor?
+HINWEIS: Mehrere Antworten sind möglich.
+OPTION: Moschee
+OPTION: Barmherzigkeit
+OPTION: Zeichen
+OPTION: Gebet
+RICHTIG: Moschee
+
+### TEIL 2 — Welche Wörter hörst du? (Audio)
+
+#### AUFGABE | QURAN FRAGMENTE 2 | AW
+AUDIO: ja
+STELLE: 19:21
+WÖRTER IM VERS: 8–12
+TEXT: وَلِنَجۡعَلَهُ آيَةً لِلنَّاسِ وَرَحۡمَةً مِنَّا
+BEKANNT: آيَة · رَحۡمَة · مَنۡ
+FRAGE: Welche Wörter hörst du?
+HINWEIS: Mehrere Antworten sind möglich.
+OPTION: Zeichen
+OPTION: Barmherzigkeit
+OPTION: wer
+OPTION: Weg
+OPTION: Buch
+RICHTIG: Zeichen
+RICHTIG: Barmherzigkeit
+RICHTIG: wer
+
+#### AUFGABE | QURAN FRAGMENTE 2 | AW
+AUDIO: ja
+STELLE: 25:51
+WÖRTER IM VERS: 1–7
+TEXT: وَلَوۡ شِئۡنَا لَبَعَثۡنَا فِي كُلِّ قَرۡيَةٍ نَذِيرًا
+BEKANNT: قَرۡيَة
+FRAGE: Welche Wörter hörst du?
+HINWEIS: Mehrere Antworten sind möglich.
+OPTION: Ortschaft
+OPTION: was
+OPTION: Zeichen
+OPTION: dies
+RICHTIG: Ortschaft
+
+#### AUFGABE | QURAN FRAGMENTE 2 | AW
+AUDIO: ja
+STELLE: 4:103
+WÖRTER IM VERS: 14–20
+TEXT: إِنَّ الصَّلَاةَ كَانَتۡ عَلَى الۡمُؤۡمِنِينَ كِتَابًا مَوۡقُوتًا
+BEKANNT: صَلَاة · كِتَاب
+NICHT ANBIETEN: مَنۡ  (steht mit Endung im Vers)
+FRAGE: Welche Wörter hörst du?
+HINWEIS: Mehrere Antworten sind möglich.
+OPTION: Gebet
+OPTION: Buch
+OPTION: Prophet
+OPTION: Diener
+RICHTIG: Gebet
+RICHTIG: Buch
+
+#### AUFGABE | QURAN FRAGMENTE 2 | AW
+AUDIO: ja
+STELLE: 7:73
+WÖRTER IM VERS: 20–24
+TEXT: هَٰذِهِ نَاقَةُ اللَّهِ لَكُمۡ آيَةً
+BEKANNT: آيَة · هٰذِهِ
+FRAGE: Welche Wörter hörst du?
+HINWEIS: Mehrere Antworten sind möglich.
+OPTION: Zeichen
+OPTION: diese
+OPTION: Prophet
+OPTION: Gesandter
+RICHTIG: Zeichen
+RICHTIG: diese
+
+#### AUFGABE | QURAN FRAGMENTE 2 | AW
+AUDIO: ja
+STELLE: 42:17
+WÖRTER IM VERS: 7–11
+TEXT: وَمَا يُدۡرِيكَ لَعَلَّ السَّاعَةَ قَرِيبٌ
+BEKANNT: سَاعَة · مَا
+FRAGE: Welche Wörter hörst du?
+HINWEIS: Mehrere Antworten sind möglich.
+OPTION: Stunde
+OPTION: was
+OPTION: Barmherzigkeit
+OPTION: Gebet
+RICHTIG: Stunde
+RICHTIG: was
+
+#### AUFGABE | QURAN FRAGMENTE 2 | AW
+AUDIO: ja
+STELLE: 16:89
+WÖRTER IM VERS: 15–24
+TEXT: وَنَزَّلۡنَا عَلَيۡكَ الۡكِتَابَ تِبۡيَانًا لِكُلِّ شَيۡءٍ وَهُدًى وَرَحۡمَةً وَبُشۡرَىٰ لِلۡمُسۡلِمِينَ
+BEKANNT: رَحۡمَة · شَيۡء · كِتَاب
+FRAGE: Welche Wörter hörst du?
+HINWEIS: Mehrere Antworten sind möglich.
+OPTION: Barmherzigkeit
+OPTION: Ding
+OPTION: Buch
+OPTION: Weg
+OPTION: was
+RICHTIG: Barmherzigkeit
+RICHTIG: Ding
+RICHTIG: Buch
+
+### TEIL 3 — Welche Übersetzung passt? (gelesen)
+
+#### AUFGABE | QURAN FRAGMENTE 3 | AW
+STELLE: 18:98
+WÖRTER IM VERS: 1–5
+TEXT: قَالَ هَٰذَا رَحۡمَةٌ مِنۡ رَبِّي
+BEKANNT: رَحۡمَة · هٰذَا
+FRAGE: Welche Übersetzung passt?
+OPTION: Er sagte: Das ist eine Barmherzigkeit von meinem Herrn.
+OPTION: Er sagte: Ein Zeichen von meinem Herrn ist gekommen.
+OPTION: Er sagte: Mein Herr hat eine Ortschaft zerstört.
+RICHTIG: Er sagte: Das ist eine Barmherzigkeit von meinem Herrn.
+
+### TEIL 4 — Welche Übersetzung passt? (Audio)
+
+#### AUFGABE | QURAN FRAGMENTE 4 | AW
+AUDIO: ja
+STELLE: 4:80
+WÖRTER IM VERS: 1–6
+TEXT: مَنۡ يُطِعِ الرَّسُولَ فَقَدۡ أَطَاعَ اللَّهَ
+BEKANNT: رَسُول · مَنۡ
+FRAGE: Welche Übersetzung passt?
+OPTION: Wer dem Gesandten gehorcht, der hat Allah gehorcht.
+OPTION: Wer das Gebet verrichtet, der hat seinen Herrn geehrt.
+OPTION: Wer die Ortschaft betritt, der hat die Stunde erlebt.
+RICHTIG: Wer dem Gesandten gehorcht, der hat Allah gehorcht.
+
+======================================================================
+
+#### AUFGABEN LEKTION 4 | Weiblich, ohne dass man es sieht
+
+WIEDERHOLUNG: Lektion 3, 2, 1
+AW: شَمۡس · رِيح · يَد · جَهَنَّم · سَمَاء · أَرۡض · هٰذِهِ · سَاعَة · قَرۡيَة · صَلَاة · رَحۡمَة · آيَة · مَا · مَنۡ · رَجُل · رَسُول · عَبۡد · نَبِيّ · هٰذَا · شَيۡء · سَبِيل · مَسۡجِد · كِتَاب · مَاء
+
+----------------------------------------------------------------------
+
+### TEIL 1 — Welche Wörter kommen vor? (gelesen)
+
+#### AUFGABE | QURAN FRAGMENTE 1 | AW
+STELLE: 23:18
+WÖRTER IM VERS: 1–8
+TEXT: وَأَنۡزَلۡنَا مِنَ السَّمَاءِ مَاءً بِقَدَرٍ فَأَسۡكَنَّاهُ فِي الۡأَرۡضِ
+BEKANNT: أَرۡض · سَمَاء · مَاء
+FRAGE: Welche Wörter kommen vor?
+HINWEIS: Mehrere Antworten sind möglich.
+OPTION: Erde
+OPTION: Himmel
+OPTION: Wasser
+OPTION: diese
+OPTION: Ortschaft
+RICHTIG: Erde
+RICHTIG: Himmel
+RICHTIG: Wasser
+
+#### AUFGABE | QURAN FRAGMENTE 1 | AW
+STELLE: 19:21
+WÖRTER IM VERS: 8–15
+TEXT: وَلِنَجۡعَلَهُ آيَةً لِلنَّاسِ وَرَحۡمَةً مِنَّا وَكَانَ أَمۡرًا مَقۡضِيًّا
+BEKANNT: آيَة · رَحۡمَة · مَنۡ
+FRAGE: Welche Wörter kommen vor?
+HINWEIS: Mehrere Antworten sind möglich.
+OPTION: Zeichen
+OPTION: Barmherzigkeit
+OPTION: wer
+OPTION: Diener
+OPTION: dies
+RICHTIG: Zeichen
+RICHTIG: Barmherzigkeit
+RICHTIG: wer
+
+#### AUFGABE | QURAN FRAGMENTE 1 | AW
+STELLE: 19:30
+WÖRTER IM VERS: 1–8
+TEXT: قَالَ إِنِّي عَبۡدُ اللَّهِ آتَانِيَ الۡكِتَابَ وَجَعَلَنِي نَبِيًّا
+BEKANNT: عَبۡد · كِتَاب · نَبِيّ
+FRAGE: Welche Wörter kommen vor?
+HINWEIS: Mehrere Antworten sind möglich.
+OPTION: Diener
+OPTION: Buch
+OPTION: Prophet
+OPTION: dies
+OPTION: Moschee
+RICHTIG: Diener
+RICHTIG: Buch
+RICHTIG: Prophet
+
+#### AUFGABE | QURAN FRAGMENTE 1 | AW
+STELLE: 55:43
+WÖRTER IM VERS: 1–6
+TEXT: هَٰذِهِ جَهَنَّمُ الَّتِي يُكَذِّبُ بِهَا الۡمُجۡرِمُونَ
+BEKANNT: جَهَنَّم · هٰذِهِ
+FRAGE: Welche Wörter kommen vor?
+HINWEIS: Mehrere Antworten sind möglich.
+OPTION: Hölle
+OPTION: diese
+OPTION: Diener
+OPTION: Wasser
+RICHTIG: Hölle
+RICHTIG: diese
+
+#### AUFGABE | QURAN FRAGMENTE 1 | AW
+STELLE: 17:78
+WÖRTER IM VERS: 1–9
+TEXT: أَقِمِ الصَّلَاةَ لِدُلُوكِ الشَّمۡسِ إِلَىٰ غَسَقِ اللَّيۡلِ وَقُرۡآنَ الۡفَجۡرِ
+BEKANNT: شَمۡس · صَلَاة
+FRAGE: Welche Wörter kommen vor?
+HINWEIS: Mehrere Antworten sind möglich.
+OPTION: Sonne
+OPTION: Gebet
+OPTION: diese
+OPTION: dies
+RICHTIG: Sonne
+RICHTIG: Gebet
+
+#### AUFGABE | QURAN FRAGMENTE 1 | AW
+STELLE: 21:81
+WÖRTER IM VERS: 1–10
+TEXT: وَلِسُلَيۡمَانَ الرِّيحَ عَاصِفَةً تَجۡرِي بِأَمۡرِهِ إِلَى الۡأَرۡضِ الَّتِي بَارَكۡنَا فِيهَا
+BEKANNT: أَرۡض · رِيح
+NICHT ANBIETEN: مَا  (steht mit Endung im Vers)
+FRAGE: Welche Wörter kommen vor?
+HINWEIS: Mehrere Antworten sind möglich.
+OPTION: Erde
+OPTION: Wind
+OPTION: Gesandter
+OPTION: Weg
+RICHTIG: Erde
+RICHTIG: Wind
+
+#### AUFGABE | QURAN FRAGMENTE 1 | AW
+STELLE: 33:63
+WÖRTER IM VERS: 10–15
+TEXT: وَمَا يُدۡرِيكَ لَعَلَّ السَّاعَةَ تَكُونُ قَرِيبًا
+BEKANNT: سَاعَة · مَا
+NICHT ANBIETEN: يَد  (steht mit Endung im Vers)
+FRAGE: Welche Wörter kommen vor?
+HINWEIS: Mehrere Antworten sind möglich.
+OPTION: Stunde
+OPTION: was
+OPTION: Prophet
+OPTION: Gesandter
+RICHTIG: Stunde
+RICHTIG: was
+
+#### AUFGABE | QURAN FRAGMENTE 1 | AW
+STELLE: 6:116
+WÖRTER IM VERS: 1–10
+TEXT: وَإِنۡ تُطِعۡ أَكۡثَرَ مَنۡ فِي الۡأَرۡضِ يُضِلُّوكَ عَنۡ سَبِيلِ اللَّهِ
+BEKANNT: أَرۡض · سَبِيل · مَنۡ
+FRAGE: Welche Wörter kommen vor?
+HINWEIS: Mehrere Antworten sind möglich.
+OPTION: Erde
+OPTION: Weg
+OPTION: wer
+OPTION: dies
+OPTION: diese
+RICHTIG: Erde
+RICHTIG: Weg
+RICHTIG: wer
+
+#### AUFGABE | QURAN FRAGMENTE 1 | AW
+STELLE: 25:30
+WÖRTER IM VERS: 1–10
+TEXT: وَقَالَ الرَّسُولُ يَا رَبِّ إِنَّ قَوۡمِي اتَّخَذُوا هَٰذَا الۡقُرۡآنَ مَهۡجُورًا
+BEKANNT: رَسُول · هٰذَا
+FRAGE: Welche Wörter kommen vor?
+HINWEIS: Mehrere Antworten sind möglich.
+OPTION: Gesandter
+OPTION: dies
+OPTION: was
+OPTION: Gebet
+RICHTIG: Gesandter
+RICHTIG: dies
+
+#### AUFGABE | QURAN FRAGMENTE 1 | AW
+STELLE: 3:189
+WÖRTER IM VERS: 1–9
+TEXT: وَلِلَّهِ مُلۡكُ السَّمَاوَاتِ وَالۡأَرۡضِ وَاللَّهُ عَلَىٰ كُلِّ شَيۡءٍ قَدِيرٌ
+BEKANNT: أَرۡض · شَيۡء
+NICHT ANBIETEN: مَا  (steht mit Endung im Vers)
+FRAGE: Welche Wörter kommen vor?
+HINWEIS: Mehrere Antworten sind möglich.
+OPTION: Erde
+OPTION: Ding
+OPTION: diese
+OPTION: wer
+RICHTIG: Erde
+RICHTIG: Ding
+
+### TEIL 2 — Welche Wörter hörst du? (Audio)
+
+#### AUFGABE | QURAN FRAGMENTE 2 | AW
+AUDIO: ja
+STELLE: 5:64
+WÖRTER IM VERS: 1–5
+TEXT: وَقَالَتِ الۡيَهُودُ يَدُ اللَّهِ مَغۡلُولَةٌ
+BEKANNT: يَد
+FRAGE: Welche Wörter hörst du?
+HINWEIS: Mehrere Antworten sind möglich.
+OPTION: Hand
+OPTION: Barmherzigkeit
+OPTION: diese
+OPTION: Buch
+RICHTIG: Hand
+
+#### AUFGABE | QURAN FRAGMENTE 2 | AW
+AUDIO: ja
+STELLE: 43:31
+WÖRTER IM VERS: 1–10
+TEXT: وَقَالُوا لَوۡلَا نُزِّلَ هَٰذَا الۡقُرۡآنُ عَلَىٰ رَجُلٍ مِنَ الۡقَرۡيَتَيۡنِ عَظِيمٍ
+BEKANNT: رَجُل · هٰذَا
+FRAGE: Welche Wörter hörst du?
+HINWEIS: Mehrere Antworten sind möglich.
+OPTION: Mann
+OPTION: dies
+OPTION: Ortschaft
+OPTION: Hand
+RICHTIG: Mann
+RICHTIG: dies
+
+#### AUFGABE | QURAN FRAGMENTE 2 | AW
+AUDIO: ja
+STELLE: 21:95
+WÖRTER IM VERS: 1–7
+TEXT: وَحَرَامٌ عَلَىٰ قَرۡيَةٍ أَهۡلَكۡنَاهَا أَنَّهُمۡ لَا يَرۡجِعُونَ
+BEKANNT: قَرۡيَة
+FRAGE: Welche Wörter hörst du?
+HINWEIS: Mehrere Antworten sind möglich.
+OPTION: Ortschaft
+OPTION: Gesandter
+OPTION: Diener
+OPTION: Hand
+RICHTIG: Ortschaft
+
+#### AUFGABE | QURAN FRAGMENTE 2 | AW
+AUDIO: ja
+STELLE: 2:144
+WÖRTER IM VERS: 7–14
+TEXT: فَلَنُوَلِّيَنَّكَ قِبۡلَةً تَرۡضَاهَا فَوَلِّ وَجۡهَكَ شَطۡرَ الۡمَسۡجِدِ الۡحَرَامِ
+BEKANNT: مَسۡجِد
+FRAGE: Welche Wörter hörst du?
+HINWEIS: Mehrere Antworten sind möglich.
+OPTION: Moschee
+OPTION: Diener
+OPTION: Sonne
+OPTION: Barmherzigkeit
+RICHTIG: Moschee
+
+#### AUFGABE | QURAN FRAGMENTE 2 | AW
+AUDIO: ja
+STELLE: 14:16
+WÖRTER IM VERS: 1–7
+TEXT: مِنۡ وَرَائِهِ جَهَنَّمُ وَيُسۡقَىٰ مِنۡ مَاءٍ صَدِيدٍ
+BEKANNT: جَهَنَّم · مَاء
+NICHT ANBIETEN: يَد  (steht mit Endung im Vers)
+FRAGE: Welche Wörter hörst du?
+HINWEIS: Mehrere Antworten sind möglich.
+OPTION: Hölle
+OPTION: Wasser
+OPTION: Weg
+OPTION: Moschee
+RICHTIG: Hölle
+RICHTIG: Wasser
+
+#### AUFGABE | QURAN FRAGMENTE 2 | AW
+AUDIO: ja
+STELLE: 51:41
+WÖRTER IM VERS: 1–7
+TEXT: وَفِي عَادٍ إِذۡ أَرۡسَلۡنَا عَلَيۡهِمُ الرِّيحَ الۡعَقِيمَ
+BEKANNT: رِيح
+FRAGE: Welche Wörter hörst du?
+HINWEIS: Mehrere Antworten sind möglich.
+OPTION: Wind
+OPTION: was
+OPTION: Ding
+OPTION: Diener
+RICHTIG: Wind
+
+#### AUFGABE | QURAN FRAGMENTE 2 | AW
+AUDIO: ja
+STELLE: 16:65
+WÖRTER IM VERS: 1–10
+TEXT: وَاللَّهُ أَنۡزَلَ مِنَ السَّمَاءِ مَاءً فَأَحۡيَا بِهِ الۡأَرۡضَ بَعۡدَ مَوۡتِهَا
+BEKANNT: أَرۡض · سَمَاء · مَاء
+FRAGE: Welche Wörter hörst du?
+HINWEIS: Mehrere Antworten sind möglich.
+OPTION: Erde
+OPTION: Himmel
+OPTION: Wasser
+OPTION: Hand
+OPTION: Sonne
+RICHTIG: Erde
+RICHTIG: Himmel
+RICHTIG: Wasser
+
+#### AUFGABE | QURAN FRAGMENTE 2 | AW
+AUDIO: ja
+STELLE: 13:2
+WÖRTER IM VERS: 8–14
+TEXT: ثُمَّ اسۡتَوَىٰ عَلَى الۡعَرۡشِ وَسَخَّرَ الشَّمۡسَ وَالۡقَمَرَ
+BEKANNT: شَمۡس
+FRAGE: Welche Wörter hörst du?
+HINWEIS: Mehrere Antworten sind möglich.
+OPTION: Sonne
+OPTION: Zeichen
+OPTION: diese
+OPTION: dies
+RICHTIG: Sonne
+
+### TEIL 3 — Welche Übersetzung passt? (gelesen)
+
+#### AUFGABE | QURAN FRAGMENTE 3 | AW
+STELLE: 25:48
+WÖRTER IM VERS: 9–13
+TEXT: وَأَنۡزَلۡنَا مِنَ السَّمَاءِ مَاءً طَهُورًا
+BEKANNT: سَمَاء · مَاء
+FRAGE: Welche Übersetzung passt?
+OPTION: Und Wir haben vom Himmel reines Wasser herabkommen lassen.
+OPTION: Und Wir haben über die Erde einen Wind geschickt.
+OPTION: Und Wir haben die Sonne zu einem Zeichen gemacht.
+RICHTIG: Und Wir haben vom Himmel reines Wasser herabkommen lassen.
+
+### TEIL 4 — Welche Übersetzung passt? (Audio)
+
+#### AUFGABE | QURAN FRAGMENTE 4 | AW
+AUDIO: ja
+STELLE: 7:73
+WÖRTER IM VERS: 20–24
+TEXT: هَٰذِهِ نَاقَةُ اللَّهِ لَكُمۡ آيَةً
+BEKANNT: آيَة · هٰذِهِ
+FRAGE: Welche Übersetzung passt?
+OPTION: Dies ist die Kamelstute Allahs, für euch ein Zeichen.
+OPTION: Der Himmel Allahs ist für euch eine Barmherzigkeit.
+OPTION: Die Erde Allahs ist für euch eine Ortschaft.
+RICHTIG: Dies ist die Kamelstute Allahs, für euch ein Zeichen.
+
+======================================================================
+
+#### AUFGABEN LEKTION 5 | Eigenschaftswörter
+
+WIEDERHOLUNG: Lektion 4, 3, 1
+AW: عَلِيم · عَظِيم · طَيِّب · إِلٰه · مُسۡتَقِيم · حَكِيم · شَمۡس · رِيح · يَد · جَهَنَّم · سَمَاء · أَرۡض · هٰذِهِ · سَاعَة · قَرۡيَة · صَلَاة · رَحۡمَة · آيَة · هٰذَا · شَيۡء · سَبِيل · مَسۡجِد · كِتَاب · مَاء
+
+----------------------------------------------------------------------
+
+### TEIL 1 — Welche Wörter kommen vor? (gelesen)
+
+#### AUFGABE | QURAN FRAGMENTE 1 | AW
+STELLE: 48:4
+WÖRTER IM VERS: 12–19
+TEXT: وَلِلَّهِ جُنُودُ السَّمَاوَاتِ وَالۡأَرۡضِ وَكَانَ اللَّهُ عَلِيمًا حَكِيمًا
+BEKANNT: أَرۡض · حَكِيم · عَلِيم
+FRAGE: Welche Wörter kommen vor?
+HINWEIS: Mehrere Antworten sind möglich.
+OPTION: Erde
+OPTION: weise
+OPTION: wissend
+OPTION: Gebet
+OPTION: Ding
+RICHTIG: Erde
+RICHTIG: weise
+RICHTIG: wissend
+
+#### AUFGABE | QURAN FRAGMENTE 1 | AW
+STELLE: 27:26
+WÖRTER IM VERS: 1–8
+TEXT: اللَّهُ لَا إِلَٰهَ إِلَّا هُوَ رَبُّ الۡعَرۡشِ الۡعَظِيمِ
+BEKANNT: إِلٰه · عَظِيم
+FRAGE: Welche Wörter kommen vor?
+HINWEIS: Mehrere Antworten sind möglich.
+OPTION: Gott
+OPTION: gewaltig
+OPTION: dies
+OPTION: Moschee
+RICHTIG: Gott
+RICHTIG: gewaltig
+
+#### AUFGABE | QURAN FRAGMENTE 1 | AW
+STELLE: 16:89
+WÖRTER IM VERS: 15–24
+TEXT: وَنَزَّلۡنَا عَلَيۡكَ الۡكِتَابَ تِبۡيَانًا لِكُلِّ شَيۡءٍ وَهُدًى وَرَحۡمَةً وَبُشۡرَىٰ لِلۡمُسۡلِمِينَ
+BEKANNT: رَحۡمَة · شَيۡء · كِتَاب
+FRAGE: Welche Wörter kommen vor?
+HINWEIS: Mehrere Antworten sind möglich.
+OPTION: Barmherzigkeit
+OPTION: Ding
+OPTION: Buch
+OPTION: dies
+OPTION: Stunde
+RICHTIG: Barmherzigkeit
+RICHTIG: Ding
+RICHTIG: Buch
+
+#### AUFGABE | QURAN FRAGMENTE 1 | AW
+STELLE: 3:51
+WÖRTER IM VERS: 1–8
+TEXT: إِنَّ اللَّهَ رَبِّي وَرَبُّكُمۡ فَاعۡبُدُوهُ هَٰذَا صِرَاطٌ مُسۡتَقِيمٌ
+BEKANNT: مُسۡتَقِيم · هٰذَا
+FRAGE: Welche Wörter kommen vor?
+HINWEIS: Mehrere Antworten sind möglich.
+OPTION: gerade
+OPTION: dies
+OPTION: diese
+OPTION: Himmel
+RICHTIG: gerade
+RICHTIG: dies
+
+#### AUFGABE | QURAN FRAGMENTE 1 | AW
+STELLE: 23:18
+WÖRTER IM VERS: 1–8
+TEXT: وَأَنۡزَلۡنَا مِنَ السَّمَاءِ مَاءً بِقَدَرٍ فَأَسۡكَنَّاهُ فِي الۡأَرۡضِ
+BEKANNT: أَرۡض · سَمَاء · مَاء
+FRAGE: Welche Wörter kommen vor?
+HINWEIS: Mehrere Antworten sind möglich.
+OPTION: Erde
+OPTION: Himmel
+OPTION: Wasser
+OPTION: Stunde
+OPTION: Ortschaft
+RICHTIG: Erde
+RICHTIG: Himmel
+RICHTIG: Wasser
+
+#### AUFGABE | QURAN FRAGMENTE 1 | AW
+STELLE: 7:73
+WÖRTER IM VERS: 20–29
+TEXT: هَٰذِهِ نَاقَةُ اللَّهِ لَكُمۡ آيَةً فَذَرُوهَا تَأۡكُلۡ فِي أَرۡضِ اللَّهِ
+BEKANNT: آيَة · أَرۡض · هٰذِهِ
+FRAGE: Welche Wörter kommen vor?
+HINWEIS: Mehrere Antworten sind möglich.
+OPTION: Zeichen
+OPTION: Erde
+OPTION: diese
+OPTION: gewaltig
+OPTION: gut
+RICHTIG: Zeichen
+RICHTIG: Erde
+RICHTIG: diese
+
+#### AUFGABE | QURAN FRAGMENTE 1 | AW
+STELLE: 17:78
+WÖRTER IM VERS: 1–9
+TEXT: أَقِمِ الصَّلَاةَ لِدُلُوكِ الشَّمۡسِ إِلَىٰ غَسَقِ اللَّيۡلِ وَقُرۡآنَ الۡفَجۡرِ
+BEKANNT: شَمۡس · صَلَاة
+FRAGE: Welche Wörter kommen vor?
+HINWEIS: Mehrere Antworten sind möglich.
+OPTION: Sonne
+OPTION: Gebet
+OPTION: gewaltig
+OPTION: Moschee
+RICHTIG: Sonne
+RICHTIG: Gebet
+
+#### AUFGABE | QURAN FRAGMENTE 1 | AW
+STELLE: 2:244
+WÖRTER IM VERS: 1–9
+TEXT: وَقَاتِلُوا فِي سَبِيلِ اللَّهِ وَاعۡلَمُوا أَنَّ اللَّهَ سَمِيعٌ عَلِيمٌ
+BEKANNT: سَبِيل · عَلِيم
+FRAGE: Welche Wörter kommen vor?
+HINWEIS: Mehrere Antworten sind möglich.
+OPTION: Weg
+OPTION: wissend
+OPTION: gut
+OPTION: diese
+RICHTIG: Weg
+RICHTIG: wissend
+
+#### AUFGABE | QURAN FRAGMENTE 1 | AW
+STELLE: 21:29
+WÖRTER IM VERS: 1–10
+TEXT: وَمَنۡ يَقُلۡ مِنۡهُمۡ إِنِّي إِلَٰهٌ مِنۡ دُونِهِ فَذَٰلِكَ نَجۡزِيهِ جَهَنَّمَ
+BEKANNT: إِلٰه · جَهَنَّم
+FRAGE: Welche Wörter kommen vor?
+HINWEIS: Mehrere Antworten sind möglich.
+OPTION: Gott
+OPTION: Hölle
+OPTION: gewaltig
+OPTION: weise
+RICHTIG: Gott
+RICHTIG: Hölle
+
+#### AUFGABE | QURAN FRAGMENTE 1 | AW
+STELLE: 35:10
+WÖRTER IM VERS: 8–14
+TEXT: إِلَيۡهِ يَصۡعَدُ الۡكَلِمُ الطَّيِّبُ وَالۡعَمَلُ الصَّالِحُ يَرۡفَعُهُ
+BEKANNT: طَيِّب
+FRAGE: Welche Wörter kommen vor?
+HINWEIS: Mehrere Antworten sind möglich.
+OPTION: gut
+OPTION: wissend
+OPTION: Stunde
+OPTION: Buch
+RICHTIG: gut
+
+#### AUFGABE | QURAN FRAGMENTE 1 | AW
+STELLE: 21:81
+WÖRTER IM VERS: 1–10
+TEXT: وَلِسُلَيۡمَانَ الرِّيحَ عَاصِفَةً تَجۡرِي بِأَمۡرِهِ إِلَى الۡأَرۡضِ الَّتِي بَارَكۡنَا فِيهَا
+BEKANNT: أَرۡض · رِيح
+FRAGE: Welche Wörter kommen vor?
+HINWEIS: Mehrere Antworten sind möglich.
+OPTION: Erde
+OPTION: Wind
+OPTION: dies
+OPTION: Stunde
+RICHTIG: Erde
+RICHTIG: Wind
+
+### TEIL 2 — Welche Wörter hörst du? (Audio)
+
+#### AUFGABE | QURAN FRAGMENTE 2 | AW
+AUDIO: ja
+STELLE: 45:27
+WÖRTER IM VERS: 1–10
+TEXT: وَلِلَّهِ مُلۡكُ السَّمَاوَاتِ وَالۡأَرۡضِ وَيَوۡمَ تَقُومُ السَّاعَةُ يَوۡمَئِذٍ يَخۡسَرُ الۡمُبۡطِلُونَ
+BEKANNT: أَرۡض · سَاعَة
+FRAGE: Welche Wörter hörst du?
+HINWEIS: Mehrere Antworten sind möglich.
+OPTION: Erde
+OPTION: Stunde
+OPTION: Himmel
+OPTION: weise
+RICHTIG: Erde
+RICHTIG: Stunde
+
+#### AUFGABE | QURAN FRAGMENTE 2 | AW
+AUDIO: ja
+STELLE: 21:95
+WÖRTER IM VERS: 1–7
+TEXT: وَحَرَامٌ عَلَىٰ قَرۡيَةٍ أَهۡلَكۡنَاهَا أَنَّهُمۡ لَا يَرۡجِعُونَ
+BEKANNT: قَرۡيَة
+FRAGE: Welche Wörter hörst du?
+HINWEIS: Mehrere Antworten sind möglich.
+OPTION: Ortschaft
+OPTION: Himmel
+OPTION: Zeichen
+OPTION: Wind
+RICHTIG: Ortschaft
+
+#### AUFGABE | QURAN FRAGMENTE 2 | AW
+AUDIO: ja
+STELLE: 2:144
+WÖRTER IM VERS: 7–14
+TEXT: فَلَنُوَلِّيَنَّكَ قِبۡلَةً تَرۡضَاهَا فَوَلِّ وَجۡهَكَ شَطۡرَ الۡمَسۡجِدِ الۡحَرَامِ
+BEKANNT: مَسۡجِد
+FRAGE: Welche Wörter hörst du?
+HINWEIS: Mehrere Antworten sind möglich.
+OPTION: Moschee
+OPTION: wissend
+OPTION: gerade
+OPTION: dies
+RICHTIG: Moschee
+
+#### AUFGABE | QURAN FRAGMENTE 2 | AW
+AUDIO: ja
+STELLE: 5:64
+WÖRTER IM VERS: 1–5
+TEXT: وَقَالَتِ الۡيَهُودُ يَدُ اللَّهِ مَغۡلُولَةٌ
+BEKANNT: يَد
+FRAGE: Welche Wörter hörst du?
+HINWEIS: Mehrere Antworten sind möglich.
+OPTION: Hand
+OPTION: gut
+OPTION: dies
+OPTION: gerade
+RICHTIG: Hand
+
+#### AUFGABE | QURAN FRAGMENTE 2 | AW
+AUDIO: ja
+STELLE: 19:36
+WÖRTER IM VERS: 1–8
+TEXT: وَإِنَّ اللَّهَ رَبِّي وَرَبُّكُمۡ فَاعۡبُدُوهُ هَٰذَا صِرَاطٌ مُسۡتَقِيمٌ
+BEKANNT: مُسۡتَقِيم · هٰذَا
+FRAGE: Welche Wörter hörst du?
+HINWEIS: Mehrere Antworten sind möglich.
+OPTION: gerade
+OPTION: dies
+OPTION: Ortschaft
+OPTION: Moschee
+RICHTIG: gerade
+RICHTIG: dies
+
+#### AUFGABE | QURAN FRAGMENTE 2 | AW
+AUDIO: ja
+STELLE: 3:38
+WÖRTER IM VERS: 5–12
+TEXT: قَالَ رَبِّ هَبۡ لِي مِنۡ لَدُنۡكَ ذُرِّيَّةً طَيِّبَةً
+BEKANNT: طَيِّب
+FRAGE: Welche Wörter hörst du?
+HINWEIS: Mehrere Antworten sind möglich.
+OPTION: gut
+OPTION: Himmel
+OPTION: Ding
+OPTION: Ortschaft
+RICHTIG: gut
+
+#### AUFGABE | QURAN FRAGMENTE 2 | AW
+AUDIO: ja
+STELLE: 4:54
+WÖRTER IM VERS: 10–18
+TEXT: فَقَدۡ آتَيۡنَا آلَ إِبۡرَاهِيمَ الۡكِتَابَ وَالۡحِكۡمَةَ وَآتَيۡنَاهُمۡ مُلۡكًا عَظِيمًا
+BEKANNT: عَظِيم · كِتَاب
+FRAGE: Welche Wörter hörst du?
+HINWEIS: Mehrere Antworten sind möglich.
+OPTION: gewaltig
+OPTION: Buch
+OPTION: Hand
+OPTION: Erde
+RICHTIG: gewaltig
+RICHTIG: Buch
+
+#### AUFGABE | QURAN FRAGMENTE 2 | AW
+AUDIO: ja
+STELLE: 15:25
+WÖRTER IM VERS: 1–7
+TEXT: وَإِنَّ رَبَّكَ هُوَ يَحۡشُرُهُمۡ إِنَّهُ حَكِيمٌ عَلِيمٌ
+BEKANNT: حَكِيم · عَلِيم
+FRAGE: Welche Wörter hörst du?
+HINWEIS: Mehrere Antworten sind möglich.
+OPTION: weise
+OPTION: wissend
+OPTION: dies
+OPTION: Stunde
+RICHTIG: weise
+RICHTIG: wissend
+
+### TEIL 3 — Welche Übersetzung passt? (gelesen)
+
+#### AUFGABE | QURAN FRAGMENTE 3 | AW
+STELLE: 2:29
+WÖRTER IM VERS: 16–19
+TEXT: وَهُوَ بِكُلِّ شَيۡءٍ عَلِيمٌ
+BEKANNT: شَيۡء · عَلِيم
+FRAGE: Welche Übersetzung passt?
+OPTION: Und Er weiß über alles Bescheid.
+OPTION: Und Er ist gewaltig über der Erde.
+OPTION: Und Er ist weise in Seinem Urteil.
+RICHTIG: Und Er weiß über alles Bescheid.
+
+### TEIL 4 — Welche Übersetzung passt? (Audio)
+
+#### AUFGABE | QURAN FRAGMENTE 4 | AW
+AUDIO: ja
+STELLE: 6:83
+WÖRTER IM VERS: 11–14
+TEXT: إِنَّ رَبَّكَ حَكِيمٌ عَلِيمٌ
+BEKANNT: حَكِيم · عَلِيم
+FRAGE: Welche Übersetzung passt?
+OPTION: Gewiss, dein Herr ist weise und wissend.
+OPTION: Gewiss, dein Herr ist gewaltig und gut.
+OPTION: Gewiss, dein Gott ist ein einziger Herr.
+RICHTIG: Gewiss, dein Herr ist weise und wissend.
+
+======================================================================
+
+#### AUFGABEN LEKTION 6 | Der, die, das
+
+WIEDERHOLUNG: Lektion 5, 4, 2
+AW: حَيَاة · شَدِيد · وَاحِد · دُنۡيَا · صِرَاط · عَذَاب · عَلِيم · عَظِيم · طَيِّب · إِلٰه · مُسۡتَقِيم · حَكِيم · شَمۡس · رِيح · يَد · جَهَنَّم · سَمَاء · أَرۡض · مَا · مَنۡ · رَجُل · رَسُول · عَبۡد · نَبِيّ
+
+----------------------------------------------------------------------
+
+### TEIL 1 — Welche Wörter kommen vor? (gelesen)
+
+#### AUFGABE | QURAN FRAGMENTE 1 | AW
+STELLE: 13:34
+WÖRTER IM VERS: 1–5
+TEXT: لَهُمۡ عَذَابٌ فِي الۡحَيَاةِ الدُّنۡيَا
+BEKANNT: حَيَاة · دُنۡيَا · عَذَاب
+FRAGE: Welche Wörter kommen vor?
+HINWEIS: Mehrere Antworten sind möglich.
+OPTION: Leben
+OPTION: Diesseits
+OPTION: Strafe
+OPTION: hart
+OPTION: Mann
+RICHTIG: Leben
+RICHTIG: Diesseits
+RICHTIG: Strafe
+
+#### AUFGABE | QURAN FRAGMENTE 1 | AW
+STELLE: 2:213
+WÖRTER IM VERS: 43–49
+TEXT: وَاللَّهُ يَهۡدِي مَنۡ يَشَاءُ إِلَىٰ صِرَاطٍ مُسۡتَقِيمٍ
+BEKANNT: صِرَاط · مَنۡ · مُسۡتَقِيم
+FRAGE: Welche Wörter kommen vor?
+HINWEIS: Mehrere Antworten sind möglich.
+OPTION: Pfad
+OPTION: wer
+OPTION: gerade
+OPTION: Himmel
+OPTION: Mann
+RICHTIG: Pfad
+RICHTIG: wer
+RICHTIG: gerade
+
+#### AUFGABE | QURAN FRAGMENTE 1 | AW
+STELLE: 50:26
+WÖRTER IM VERS: 1–10
+TEXT: الَّذِي جَعَلَ مَعَ اللَّهِ إِلَٰهًا آخَرَ فَأَلۡقِيَاهُ فِي الۡعَذَابِ الشَّدِيدِ
+BEKANNT: إِلٰه · شَدِيد · عَذَاب
+FRAGE: Welche Wörter kommen vor?
+HINWEIS: Mehrere Antworten sind möglich.
+OPTION: Gott
+OPTION: hart
+OPTION: Strafe
+OPTION: Diener
+OPTION: Himmel
+RICHTIG: Gott
+RICHTIG: hart
+RICHTIG: Strafe
+
+#### AUFGABE | QURAN FRAGMENTE 1 | AW
+STELLE: 48:4
+WÖRTER IM VERS: 12–19
+TEXT: وَلِلَّهِ جُنُودُ السَّمَاوَاتِ وَالۡأَرۡضِ وَكَانَ اللَّهُ عَلِيمًا حَكِيمًا
+BEKANNT: أَرۡض · حَكِيم · عَلِيم
+NICHT ANBIETEN: مَا  (steht mit Endung im Vers)
+FRAGE: Welche Wörter kommen vor?
+HINWEIS: Mehrere Antworten sind möglich.
+OPTION: Erde
+OPTION: weise
+OPTION: wissend
+OPTION: Himmel
+OPTION: Gesandter
+RICHTIG: Erde
+RICHTIG: weise
+RICHTIG: wissend
+
+#### AUFGABE | QURAN FRAGMENTE 1 | AW
+STELLE: 2:114
+WÖRTER IM VERS: 22–30
+TEXT: لَهُمۡ فِي الدُّنۡيَا خِزۡيٌ وَلَهُمۡ فِي الۡآخِرَةِ عَذَابٌ عَظِيمٌ
+BEKANNT: دُنۡيَا · عَذَاب · عَظِيم
+FRAGE: Welche Wörter kommen vor?
+HINWEIS: Mehrere Antworten sind möglich.
+OPTION: Diesseits
+OPTION: Strafe
+OPTION: gewaltig
+OPTION: gut
+OPTION: Hölle
+RICHTIG: Diesseits
+RICHTIG: Strafe
+RICHTIG: gewaltig
+
+#### AUFGABE | QURAN FRAGMENTE 1 | AW
+STELLE: 19:54
+WÖRTER IM VERS: 5–11
+TEXT: إِنَّهُ كَانَ صَادِقَ الۡوَعۡدِ وَكَانَ رَسُولًا نَبِيًّا
+BEKANNT: رَسُول · نَبِيّ
+FRAGE: Welche Wörter kommen vor?
+HINWEIS: Mehrere Antworten sind möglich.
+OPTION: Gesandter
+OPTION: Prophet
+OPTION: Gott
+OPTION: Erde
+RICHTIG: Gesandter
+RICHTIG: Prophet
+
+#### AUFGABE | QURAN FRAGMENTE 1 | AW
+STELLE: 41:12
+WÖRTER IM VERS: 11–19
+TEXT: وَزَيَّنَّا السَّمَاءَ الدُّنۡيَا بِمَصَابِيحَ وَحِفۡظًا ذَٰلِكَ تَقۡدِيرُ الۡعَزِيزِ الۡعَلِيمِ
+BEKANNT: دُنۡيَا · سَمَاء · عَلِيم
+FRAGE: Welche Wörter kommen vor?
+HINWEIS: Mehrere Antworten sind möglich.
+OPTION: Diesseits
+OPTION: Himmel
+OPTION: wissend
+OPTION: Strafe
+OPTION: Sonne
+RICHTIG: Diesseits
+RICHTIG: Himmel
+RICHTIG: wissend
+
+#### AUFGABE | QURAN FRAGMENTE 1 | AW
+STELLE: 25:65
+WÖRTER IM VERS: 1–7
+TEXT: وَالَّذِينَ يَقُولُونَ رَبَّنَا اصۡرِفۡ عَنَّا عَذَابَ جَهَنَّمَ
+BEKANNT: جَهَنَّم · عَذَاب
+FRAGE: Welche Wörter kommen vor?
+HINWEIS: Mehrere Antworten sind möglich.
+OPTION: Hölle
+OPTION: Strafe
+OPTION: Diesseits
+OPTION: wissend
+RICHTIG: Hölle
+RICHTIG: Strafe
+
+#### AUFGABE | QURAN FRAGMENTE 1 | AW
+STELLE: 38:5
+WÖRTER IM VERS: 1–8
+TEXT: أَجَعَلَ الۡآلِهَةَ إِلَٰهًا وَاحِدًا إِنَّ هَٰذَا لَشَيۡءٌ عُجَابٌ
+BEKANNT: إِلٰه · وَاحِد
+FRAGE: Welche Wörter kommen vor?
+HINWEIS: Mehrere Antworten sind möglich.
+OPTION: Gott
+OPTION: einzig
+OPTION: weise
+OPTION: Hand
+RICHTIG: Gott
+RICHTIG: einzig
+
+#### AUFGABE | QURAN FRAGMENTE 1 | AW
+STELLE: 22:24
+WÖRTER IM VERS: 1–9
+TEXT: وَهُدُوا إِلَى الطَّيِّبِ مِنَ الۡقَوۡلِ وَهُدُوا إِلَىٰ صِرَاطِ الۡحَمِيدِ
+BEKANNT: صِرَاط · طَيِّب
+NICHT ANBIETEN: يَد  (steht mit Endung im Vers)
+FRAGE: Welche Wörter kommen vor?
+HINWEIS: Mehrere Antworten sind möglich.
+OPTION: Pfad
+OPTION: gut
+OPTION: wer
+OPTION: weise
+RICHTIG: Pfad
+RICHTIG: gut
+
+#### AUFGABE | QURAN FRAGMENTE 1 | AW
+STELLE: 46:24
+WÖRTER IM VERS: 15–18
+TEXT: رِيحٌ فِيهَا عَذَابٌ أَلِيمٌ
+BEKANNT: رِيح · عَذَاب
+FRAGE: Welche Wörter kommen vor?
+HINWEIS: Mehrere Antworten sind möglich.
+OPTION: Wind
+OPTION: Strafe
+OPTION: Prophet
+OPTION: Erde
+RICHTIG: Wind
+RICHTIG: Strafe
+
+### TEIL 2 — Welche Wörter hörst du? (Audio)
+
+#### AUFGABE | QURAN FRAGMENTE 2 | AW
+AUDIO: ja
+STELLE: 19:30
+WÖRTER IM VERS: 1–8
+TEXT: قَالَ إِنِّي عَبۡدُ اللَّهِ آتَانِيَ الۡكِتَابَ وَجَعَلَنِي نَبِيًّا
+BEKANNT: عَبۡد · نَبِيّ
+FRAGE: Welche Wörter hörst du?
+HINWEIS: Mehrere Antworten sind möglich.
+OPTION: Diener
+OPTION: Prophet
+OPTION: gewaltig
+OPTION: Pfad
+RICHTIG: Diener
+RICHTIG: Prophet
+
+#### AUFGABE | QURAN FRAGMENTE 2 | AW
+AUDIO: ja
+STELLE: 36:38
+WÖRTER IM VERS: 1–8
+TEXT: وَالشَّمۡسُ تَجۡرِي لِمُسۡتَقَرٍّ لَهَا ذَٰلِكَ تَقۡدِيرُ الۡعَزِيزِ الۡعَلِيمِ
+BEKANNT: شَمۡس · عَلِيم
+FRAGE: Welche Wörter hörst du?
+HINWEIS: Mehrere Antworten sind möglich.
+OPTION: Sonne
+OPTION: wissend
+OPTION: einzig
+OPTION: Mann
+RICHTIG: Sonne
+RICHTIG: wissend
+
+#### AUFGABE | QURAN FRAGMENTE 2 | AW
+AUDIO: ja
+STELLE: 43:31
+WÖRTER IM VERS: 1–10
+TEXT: وَقَالُوا لَوۡلَا نُزِّلَ هَٰذَا الۡقُرۡآنُ عَلَىٰ رَجُلٍ مِنَ الۡقَرۡيَتَيۡنِ عَظِيمٍ
+BEKANNT: رَجُل · عَظِيم
+FRAGE: Welche Wörter hörst du?
+HINWEIS: Mehrere Antworten sind möglich.
+OPTION: Mann
+OPTION: gewaltig
+OPTION: gut
+OPTION: Strafe
+RICHTIG: Mann
+RICHTIG: gewaltig
+
+#### AUFGABE | QURAN FRAGMENTE 2 | AW
+AUDIO: ja
+STELLE: 7:12
+WÖRTER IM VERS: 1–7
+TEXT: قَالَ مَا مَنَعَكَ أَلَّا تَسۡجُدَ إِذۡ أَمَرۡتُكَ
+BEKANNT: مَا
+NICHT ANBIETEN: مَنۡ  (steht mit Endung im Vers)
+FRAGE: Welche Wörter hörst du?
+HINWEIS: Mehrere Antworten sind möglich.
+OPTION: was
+OPTION: Sonne
+OPTION: gerade
+OPTION: Prophet
+RICHTIG: was
+
+#### AUFGABE | QURAN FRAGMENTE 2 | AW
+AUDIO: ja
+STELLE: 5:64
+WÖRTER IM VERS: 1–5
+TEXT: وَقَالَتِ الۡيَهُودُ يَدُ اللَّهِ مَغۡلُولَةٌ
+BEKANNT: يَد
+FRAGE: Welche Wörter hörst du?
+HINWEIS: Mehrere Antworten sind möglich.
+OPTION: Hand
+OPTION: gut
+OPTION: Gott
+OPTION: Pfad
+RICHTIG: Hand
+
+#### AUFGABE | QURAN FRAGMENTE 2 | AW
+AUDIO: ja
+STELLE: 59:4
+WÖRTER IM VERS: 6–12
+TEXT: وَمَنۡ يُشَاقِّ اللَّهَ فَإِنَّ اللَّهَ شَدِيدُ الۡعِقَابِ
+BEKANNT: شَدِيد · مَنۡ
+FRAGE: Welche Wörter hörst du?
+HINWEIS: Mehrere Antworten sind möglich.
+OPTION: hart
+OPTION: wer
+OPTION: Himmel
+OPTION: gewaltig
+RICHTIG: hart
+RICHTIG: wer
+
+#### AUFGABE | QURAN FRAGMENTE 2 | AW
+AUDIO: ja
+STELLE: 69:14
+WÖRTER IM VERS: 1–6
+TEXT: وَحُمِلَتِ الۡأَرۡضُ وَالۡجِبَالُ فَدُكَّتَا دَكَّةً وَاحِدَةً
+BEKANNT: أَرۡض · وَاحِد
+FRAGE: Welche Wörter hörst du?
+HINWEIS: Mehrere Antworten sind möglich.
+OPTION: Erde
+OPTION: einzig
+OPTION: Strafe
+OPTION: Leben
+RICHTIG: Erde
+RICHTIG: einzig
+
+#### AUFGABE | QURAN FRAGMENTE 2 | AW
+AUDIO: ja
+STELLE: 10:64
+WÖRTER IM VERS: 1–7
+TEXT: لَهُمُ الۡبُشۡرَىٰ فِي الۡحَيَاةِ الدُّنۡيَا وَفِي الۡآخِرَةِ
+BEKANNT: حَيَاة · دُنۡيَا
+FRAGE: Welche Wörter hörst du?
+HINWEIS: Mehrere Antworten sind möglich.
+OPTION: Leben
+OPTION: Diesseits
+OPTION: Pfad
+OPTION: Mann
+RICHTIG: Leben
+RICHTIG: Diesseits
+
+### TEIL 3 — Welche Übersetzung passt? (gelesen)
+
+#### AUFGABE | QURAN FRAGMENTE 3 | AW
+STELLE: 3:14
+WÖRTER IM VERS: 17–20
+TEXT: ذَٰلِكَ مَتَاعُ الۡحَيَاةِ الدُّنۡيَا
+BEKANNT: حَيَاة · دُنۡيَا
+FRAGE: Welche Übersetzung passt?
+OPTION: Das ist der Genuss des diesseitigen Lebens.
+OPTION: Das ist die harte Strafe des Feuers.
+OPTION: Das ist der gerade Weg zu Allah.
+RICHTIG: Das ist der Genuss des diesseitigen Lebens.
+
+### TEIL 4 — Welche Übersetzung passt? (Audio)
+
+#### AUFGABE | QURAN FRAGMENTE 4 | AW
+AUDIO: ja
+STELLE: 3:105
+WÖRTER IM VERS: 11–14
+TEXT: وَأُولَٰئِكَ لَهُمۡ عَذَابٌ عَظِيمٌ
+BEKANNT: عَذَاب · عَظِيم
+FRAGE: Welche Übersetzung passt?
+OPTION: Und für jene wird es gewaltige Strafe geben.
+OPTION: Und für jene wird es ein hartes Leben geben.
+OPTION: Und für jene wird es einen geraden Weg geben.
+RICHTIG: Und für jene wird es gewaltige Strafe geben.
+
+======================================================================
+
+#### AUFGABEN LEKTION 7 | Zeig da hinten
+
+WIEDERHOLUNG: Lektion 6, 5, 3
+AW: ذٰلِكَ · تِلۡكَ · أَلِيم · مَلَائِكَة · قَلۡب · نَار · حَيَاة · شَدِيد · وَاحِد · دُنۡيَا · صِرَاط · عَذَاب · عَلِيم · عَظِيم · طَيِّب · إِلٰه · مُسۡتَقِيم · حَكِيم · هٰذِهِ · سَاعَة · قَرۡيَة · صَلَاة · رَحۡمَة · آيَة
+
+----------------------------------------------------------------------
+
+### TEIL 1 — Welche Wörter kommen vor? (gelesen)
+
+#### AUFGABE | QURAN FRAGMENTE 1 | AW
+STELLE: 5:33
+WÖRTER IM VERS: 25–34
+TEXT: ذَٰلِكَ لَهُمۡ خِزۡيٌ فِي الدُّنۡيَا وَلَهُمۡ فِي الۡآخِرَةِ عَذَابٌ عَظِيمٌ
+BEKANNT: دُنۡيَا · ذٰلِكَ · عَذَاب · عَظِيم
+FRAGE: Welche Wörter kommen vor?
+HINWEIS: Mehrere Antworten sind möglich.
+OPTION: Diesseits
+OPTION: jenes
+OPTION: Strafe
+OPTION: gewaltig
+OPTION: Herz
+OPTION: wissend
+RICHTIG: Diesseits
+RICHTIG: jenes
+RICHTIG: Strafe
+RICHTIG: gewaltig
+
+#### AUFGABE | QURAN FRAGMENTE 1 | AW
+STELLE: 58:4
+WÖRTER IM VERS: 21–26
+TEXT: وَتِلۡكَ حُدُودُ اللَّهِ وَلِلۡكَافِرِينَ عَذَابٌ أَلِيمٌ
+BEKANNT: أَلِيم · تِلۡكَ · عَذَاب
+FRAGE: Welche Wörter kommen vor?
+HINWEIS: Mehrere Antworten sind möglich.
+OPTION: schmerzhaft
+OPTION: jene
+OPTION: Strafe
+OPTION: Leben
+OPTION: gerade
+RICHTIG: schmerzhaft
+RICHTIG: jene
+RICHTIG: Strafe
+
+#### AUFGABE | QURAN FRAGMENTE 1 | AW
+STELLE: 52:14
+WÖRTER IM VERS: 1–6
+TEXT: هَٰذِهِ النَّارُ الَّتِي كُنۡتُمۡ بِهَا تُكَذِّبُونَ
+BEKANNT: نَار · هٰذِهِ
+FRAGE: Welche Wörter kommen vor?
+HINWEIS: Mehrere Antworten sind möglich.
+OPTION: Feuer
+OPTION: diese
+OPTION: gut
+OPTION: Pfad
+RICHTIG: Feuer
+RICHTIG: diese
+
+#### AUFGABE | QURAN FRAGMENTE 1 | AW
+STELLE: 50:26
+WÖRTER IM VERS: 1–10
+TEXT: الَّذِي جَعَلَ مَعَ اللَّهِ إِلَٰهًا آخَرَ فَأَلۡقِيَاهُ فِي الۡعَذَابِ الشَّدِيدِ
+BEKANNT: إِلٰه · شَدِيد · عَذَاب
+FRAGE: Welche Wörter kommen vor?
+HINWEIS: Mehrere Antworten sind möglich.
+OPTION: Gott
+OPTION: hart
+OPTION: Strafe
+OPTION: gerade
+OPTION: jenes
+RICHTIG: Gott
+RICHTIG: hart
+RICHTIG: Strafe
+
+#### AUFGABE | QURAN FRAGMENTE 1 | AW
+STELLE: 66:4
+WÖRTER IM VERS: 18–21
+TEXT: وَالۡمَلَائِكَةُ بَعۡدَ ذَٰلِكَ ظَهِيرٌ
+BEKANNT: ذٰلِكَ · مَلَائِكَة
+FRAGE: Welche Wörter kommen vor?
+HINWEIS: Mehrere Antworten sind möglich.
+OPTION: jenes
+OPTION: Engel
+OPTION: Gebet
+OPTION: schmerzhaft
+RICHTIG: jenes
+RICHTIG: Engel
+
+#### AUFGABE | QURAN FRAGMENTE 1 | AW
+STELLE: 2:213
+WÖRTER IM VERS: 43–49
+TEXT: وَاللَّهُ يَهۡدِي مَنۡ يَشَاءُ إِلَىٰ صِرَاطٍ مُسۡتَقِيمٍ
+BEKANNT: صِرَاط · مُسۡتَقِيم
+FRAGE: Welche Wörter kommen vor?
+HINWEIS: Mehrere Antworten sind möglich.
+OPTION: Pfad
+OPTION: gerade
+OPTION: Ortschaft
+OPTION: Leben
+RICHTIG: Pfad
+RICHTIG: gerade
+
+#### AUFGABE | QURAN FRAGMENTE 1 | AW
+STELLE: 15:25
+WÖRTER IM VERS: 1–7
+TEXT: وَإِنَّ رَبَّكَ هُوَ يَحۡشُرُهُمۡ إِنَّهُ حَكِيمٌ عَلِيمٌ
+BEKANNT: حَكِيم · عَلِيم
+FRAGE: Welche Wörter kommen vor?
+HINWEIS: Mehrere Antworten sind möglich.
+OPTION: weise
+OPTION: wissend
+OPTION: Zeichen
+OPTION: Gebet
+RICHTIG: weise
+RICHTIG: wissend
+
+#### AUFGABE | QURAN FRAGMENTE 1 | AW
+STELLE: 51:37
+WÖRTER IM VERS: 1–7
+TEXT: وَتَرَكۡنَا فِيهَا آيَةً لِلَّذِينَ يَخَافُونَ الۡعَذَابَ الۡأَلِيمَ
+BEKANNT: آيَة · أَلِيم · عَذَاب
+FRAGE: Welche Wörter kommen vor?
+HINWEIS: Mehrere Antworten sind möglich.
+OPTION: Zeichen
+OPTION: schmerzhaft
+OPTION: Strafe
+OPTION: gerade
+OPTION: Pfad
+RICHTIG: Zeichen
+RICHTIG: schmerzhaft
+RICHTIG: Strafe
+
+#### AUFGABE | QURAN FRAGMENTE 1 | AW
+STELLE: 3:14
+WÖRTER IM VERS: 17–24
+TEXT: ذَٰلِكَ مَتَاعُ الۡحَيَاةِ الدُّنۡيَا وَاللَّهُ عِنۡدَهُ حُسۡنُ الۡمَآبِ
+BEKANNT: حَيَاة · دُنۡيَا · ذٰلِكَ
+FRAGE: Welche Wörter kommen vor?
+HINWEIS: Mehrere Antworten sind möglich.
+OPTION: Leben
+OPTION: Diesseits
+OPTION: jenes
+OPTION: diese
+OPTION: gerade
+RICHTIG: Leben
+RICHTIG: Diesseits
+RICHTIG: jenes
+
+#### AUFGABE | QURAN FRAGMENTE 1 | AW
+STELLE: 2:178
+WÖRTER IM VERS: 27–31
+TEXT: ذَٰلِكَ تَخۡفِيفٌ مِنۡ رَبِّكُمۡ وَرَحۡمَةٌ
+BEKANNT: ذٰلِكَ · رَحۡمَة
+FRAGE: Welche Wörter kommen vor?
+HINWEIS: Mehrere Antworten sind möglich.
+OPTION: jenes
+OPTION: Barmherzigkeit
+OPTION: Pfad
+OPTION: Leben
+RICHTIG: jenes
+RICHTIG: Barmherzigkeit
+
+#### AUFGABE | QURAN FRAGMENTE 1 | AW
+STELLE: 3:159
+WÖRTER IM VERS: 7–14
+TEXT: وَلَوۡ كُنۡتَ فَظًّا غَلِيظَ الۡقَلۡبِ لَانۡفَضُّوا مِنۡ حَوۡلِكَ
+BEKANNT: قَلۡب
+FRAGE: Welche Wörter kommen vor?
+HINWEIS: Mehrere Antworten sind möglich.
+OPTION: Herz
+OPTION: schmerzhaft
+OPTION: gerade
+OPTION: wissend
+RICHTIG: Herz
+
+#### AUFGABE | QURAN FRAGMENTE 1 | AW
+STELLE: 21:92
+WÖRTER IM VERS: 1–8
+TEXT: إِنَّ هَٰذِهِ أُمَّتُكُمۡ أُمَّةً وَاحِدَةً وَأَنَا رَبُّكُمۡ فَاعۡبُدُونِ
+BEKANNT: هٰذِهِ · وَاحِد
+FRAGE: Welche Wörter kommen vor?
+HINWEIS: Mehrere Antworten sind möglich.
+OPTION: diese
+OPTION: einzig
+OPTION: Stunde
+OPTION: hart
+RICHTIG: diese
+RICHTIG: einzig
+
+### TEIL 2 — Welche Wörter hörst du? (Audio)
+
+#### AUFGABE | QURAN FRAGMENTE 2 | AW
+AUDIO: ja
+STELLE: 40:46
+WÖRTER IM VERS: 6–13
+TEXT: وَيَوۡمَ تَقُومُ السَّاعَةُ أَدۡخِلُوا آلَ فِرۡعَوۡنَ أَشَدَّ الۡعَذَابِ
+BEKANNT: سَاعَة · عَذَاب
+FRAGE: Welche Wörter hörst du?
+HINWEIS: Mehrere Antworten sind möglich.
+OPTION: Stunde
+OPTION: Strafe
+OPTION: einzig
+OPTION: Barmherzigkeit
+RICHTIG: Stunde
+RICHTIG: Strafe
+
+#### AUFGABE | QURAN FRAGMENTE 2 | AW
+AUDIO: ja
+STELLE: 22:24
+WÖRTER IM VERS: 1–9
+TEXT: وَهُدُوا إِلَى الطَّيِّبِ مِنَ الۡقَوۡلِ وَهُدُوا إِلَىٰ صِرَاطِ الۡحَمِيدِ
+BEKANNT: صِرَاط · طَيِّب
+FRAGE: Welche Wörter hörst du?
+HINWEIS: Mehrere Antworten sind möglich.
+OPTION: Pfad
+OPTION: gut
+OPTION: Engel
+OPTION: schmerzhaft
+RICHTIG: Pfad
+RICHTIG: gut
+
+#### AUFGABE | QURAN FRAGMENTE 2 | AW
+AUDIO: ja
+STELLE: 2:43
+WÖRTER IM VERS: 1–7
+TEXT: وَأَقِيمُوا الصَّلَاةَ وَآتُوا الزَّكَاةَ وَارۡكَعُوا مَعَ الرَّاكِعِينَ
+BEKANNT: صَلَاة
+FRAGE: Welche Wörter hörst du?
+HINWEIS: Mehrere Antworten sind möglich.
+OPTION: Gebet
+OPTION: Stunde
+OPTION: Zeichen
+OPTION: Leben
+RICHTIG: Gebet
+
+#### AUFGABE | QURAN FRAGMENTE 2 | AW
+AUDIO: ja
+STELLE: 21:95
+WÖRTER IM VERS: 1–7
+TEXT: وَحَرَامٌ عَلَىٰ قَرۡيَةٍ أَهۡلَكۡنَاهَا أَنَّهُمۡ لَا يَرۡجِعُونَ
+BEKANNT: قَرۡيَة
+FRAGE: Welche Wörter hörst du?
+HINWEIS: Mehrere Antworten sind möglich.
+OPTION: Ortschaft
+OPTION: Diesseits
+OPTION: Leben
+OPTION: diese
+RICHTIG: Ortschaft
+
+#### AUFGABE | QURAN FRAGMENTE 2 | AW
+AUDIO: ja
+STELLE: 13:35
+WÖRTER IM VERS: 13–19
+TEXT: تِلۡكَ عُقۡبَى الَّذِينَ اتَّقَوۡا وَعُقۡبَى الۡكَافِرِينَ النَّارُ
+BEKANNT: تِلۡكَ · نَار
+FRAGE: Welche Wörter hörst du?
+HINWEIS: Mehrere Antworten sind möglich.
+OPTION: jene
+OPTION: Feuer
+OPTION: Barmherzigkeit
+OPTION: wissend
+RICHTIG: jene
+RICHTIG: Feuer
+
+#### AUFGABE | QURAN FRAGMENTE 2 | AW
+AUDIO: ja
+STELLE: 58:4
+WÖRTER IM VERS: 17–23
+TEXT: ذَٰلِكَ لِتُؤۡمِنُوا بِاللَّهِ وَرَسُولِهِ وَتِلۡكَ حُدُودُ اللَّهِ
+BEKANNT: تِلۡكَ · ذٰلِكَ
+FRAGE: Welche Wörter hörst du?
+HINWEIS: Mehrere Antworten sind möglich.
+OPTION: jene
+OPTION: jenes
+OPTION: Engel
+OPTION: einzig
+RICHTIG: jene
+RICHTIG: jenes
+
+#### AUFGABE | QURAN FRAGMENTE 2 | AW
+AUDIO: ja
+STELLE: 3:80
+WÖRTER IM VERS: 1–7
+TEXT: وَلَا يَأۡمُرَكُمۡ أَنۡ تَتَّخِذُوا الۡمَلَائِكَةَ وَالنَّبِيِّينَ أَرۡبَابًا
+BEKANNT: مَلَائِكَة
+FRAGE: Welche Wörter hörst du?
+HINWEIS: Mehrere Antworten sind möglich.
+OPTION: Engel
+OPTION: gerade
+OPTION: Diesseits
+OPTION: Gott
+RICHTIG: Engel
+
+#### AUFGABE | QURAN FRAGMENTE 2 | AW
+AUDIO: ja
+STELLE: 40:35
+WÖRTER IM VERS: 16–23
+TEXT: كَذَٰلِكَ يَطۡبَعُ اللَّهُ عَلَىٰ كُلِّ قَلۡبِ مُتَكَبِّرٍ جَبَّارٍ
+BEKANNT: قَلۡب
+NICHT ANBIETEN: ذٰلِكَ  (steht mit Endung im Vers)
+FRAGE: Welche Wörter hörst du?
+HINWEIS: Mehrere Antworten sind möglich.
+OPTION: Herz
+OPTION: Zeichen
+OPTION: hart
+OPTION: Gott
+RICHTIG: Herz
+
+### TEIL 3 — Welche Übersetzung passt? (gelesen)
+
+#### AUFGABE | QURAN FRAGMENTE 3 | AW
+STELLE: 13:34
+WÖRTER IM VERS: 1–5
+TEXT: لَهُمۡ عَذَابٌ فِي الۡحَيَاةِ الدُّنۡيَا
+BEKANNT: حَيَاة · دُنۡيَا · عَذَاب
+FRAGE: Welche Übersetzung passt?
+OPTION: Für sie gibt es Strafe im diesseitigen Leben.
+OPTION: Für sie gibt es ein Zeichen in jener Ortschaft.
+OPTION: Für sie gibt es ein Feuer, schmerzhaft und heiß.
+RICHTIG: Für sie gibt es Strafe im diesseitigen Leben.
+
+### TEIL 4 — Welche Übersetzung passt? (Audio)
+
+#### AUFGABE | QURAN FRAGMENTE 4 | AW
+AUDIO: ja
+STELLE: 2:32
+WÖRTER IM VERS: 9–12
+TEXT: إِنَّكَ أَنۡتَ الۡعَلِيمُ الۡحَكِيمُ
+BEKANNT: حَكِيم · عَلِيم
+FRAGE: Welche Übersetzung passt?
+OPTION: Gewiss, Du bist der Allwissende und Allweise.
+OPTION: Gewiss, Du bist der Herr jener Engel.
+OPTION: Gewiss, Du bist gewaltig und barmherzig.
+RICHTIG: Gewiss, Du bist der Allwissende und Allweise.
+
+======================================================================
+
+#### AUFGABEN LEKTION 8 | Zwei Wörter, ein Begriff
+
+WIEDERHOLUNG: Lektion 7, 5, 1
+AW: أَصۡحَاب · وَجۡه · بَيۡت · رَبّ · يَوۡم · مُبِين · ذٰلِكَ · تِلۡكَ · أَلِيم · مَلَائِكَة · قَلۡب · نَار · عَلِيم · عَظِيم · طَيِّب · إِلٰه · مُسۡتَقِيم · حَكِيم · هٰذَا · شَيۡء · سَبِيل · مَسۡجِد · كِتَاب · مَاء
+
+----------------------------------------------------------------------
+
+### TEIL 1 — Welche Wörter kommen vor? (gelesen)
+
+#### AUFGABE | QURAN FRAGMENTE 1 | AW
+STELLE: 106:3
+WÖRTER IM VERS: 1–4
+TEXT: فَلۡيَعۡبُدُوا رَبَّ هَٰذَا الۡبَيۡتِ
+BEKANNT: بَيۡت · رَبّ · هٰذَا
+FRAGE: Welche Wörter kommen vor?
+HINWEIS: Mehrere Antworten sind möglich.
+OPTION: Haus
+OPTION: Herr
+OPTION: dies
+OPTION: gut
+OPTION: Moschee
+RICHTIG: Haus
+RICHTIG: Herr
+RICHTIG: dies
+
+#### AUFGABE | QURAN FRAGMENTE 1 | AW
+STELLE: 26:2
+WÖRTER IM VERS: 1–4
+TEXT: تِلۡكَ آيَاتُ الۡكِتَابِ الۡمُبِينِ
+BEKANNT: تِلۡكَ · كِتَاب · مُبِين
+FRAGE: Welche Wörter kommen vor?
+HINWEIS: Mehrere Antworten sind möglich.
+OPTION: jene
+OPTION: Buch
+OPTION: deutlich
+OPTION: Weg
+OPTION: wissend
+RICHTIG: jene
+RICHTIG: Buch
+RICHTIG: deutlich
+
+#### AUFGABE | QURAN FRAGMENTE 1 | AW
+STELLE: 36:55
+WÖRTER IM VERS: 1–7
+TEXT: إِنَّ أَصۡحَابَ الۡجَنَّةِ الۡيَوۡمَ فِي شُغُلٍ فَاكِهُونَ
+BEKANNT: أَصۡحَاب · يَوۡم
+FRAGE: Welche Wörter kommen vor?
+HINWEIS: Mehrere Antworten sind möglich.
+OPTION: Gefährten
+OPTION: Tag
+OPTION: gewaltig
+OPTION: Haus
+RICHTIG: Gefährten
+RICHTIG: Tag
+
+#### AUFGABE | QURAN FRAGMENTE 1 | AW
+STELLE: 27:26
+WÖRTER IM VERS: 1–8
+TEXT: اللَّهُ لَا إِلَٰهَ إِلَّا هُوَ رَبُّ الۡعَرۡشِ الۡعَظِيمِ
+BEKANNT: إِلٰه · رَبّ · عَظِيم
+FRAGE: Welche Wörter kommen vor?
+HINWEIS: Mehrere Antworten sind möglich.
+OPTION: Gott
+OPTION: Herr
+OPTION: gewaltig
+OPTION: jene
+OPTION: gerade
+RICHTIG: Gott
+RICHTIG: Herr
+RICHTIG: gewaltig
+
+#### AUFGABE | QURAN FRAGMENTE 1 | AW
+STELLE: 30:38
+WÖRTER IM VERS: 8–13
+TEXT: ذَٰلِكَ خَيۡرٌ لِلَّذِينَ يُرِيدُونَ وَجۡهَ اللَّهِ
+BEKANNT: ذٰلِكَ · وَجۡه
+FRAGE: Welche Wörter kommen vor?
+HINWEIS: Mehrere Antworten sind möglich.
+OPTION: jenes
+OPTION: Gesicht
+OPTION: Weg
+OPTION: schmerzhaft
+RICHTIG: jenes
+RICHTIG: Gesicht
+
+#### AUFGABE | QURAN FRAGMENTE 1 | AW
+STELLE: 6:101
+WÖRTER IM VERS: 12–18
+TEXT: وَخَلَقَ كُلَّ شَيۡءٍ وَهُوَ بِكُلِّ شَيۡءٍ عَلِيمٌ
+BEKANNT: شَيۡء · عَلِيم
+FRAGE: Welche Wörter kommen vor?
+HINWEIS: Mehrere Antworten sind möglich.
+OPTION: Ding
+OPTION: wissend
+OPTION: Wasser
+OPTION: Weg
+RICHTIG: Ding
+RICHTIG: wissend
+
+#### AUFGABE | QURAN FRAGMENTE 1 | AW
+STELLE: 46:34
+WÖRTER IM VERS: 1–9
+TEXT: وَيَوۡمَ يُعۡرَضُ الَّذِينَ كَفَرُوا عَلَى النَّارِ أَلَيۡسَ هَٰذَا بِالۡحَقِّ
+BEKANNT: نَار · هٰذَا · يَوۡم
+FRAGE: Welche Wörter kommen vor?
+HINWEIS: Mehrere Antworten sind möglich.
+OPTION: Feuer
+OPTION: dies
+OPTION: Tag
+OPTION: Wasser
+OPTION: jene
+RICHTIG: Feuer
+RICHTIG: dies
+RICHTIG: Tag
+
+#### AUFGABE | QURAN FRAGMENTE 1 | AW
+STELLE: 25:25
+WÖRTER IM VERS: 1–7
+TEXT: وَيَوۡمَ تَشَقَّقُ السَّمَاءُ بِالۡغَمَامِ وَنُزِّلَ الۡمَلَائِكَةُ تَنۡزِيلًا
+BEKANNT: مَلَائِكَة · يَوۡم
+FRAGE: Welche Wörter kommen vor?
+HINWEIS: Mehrere Antworten sind möglich.
+OPTION: Engel
+OPTION: Tag
+OPTION: gerade
+OPTION: wissend
+RICHTIG: Engel
+RICHTIG: Tag
+
+#### AUFGABE | QURAN FRAGMENTE 1 | AW
+STELLE: 43:65
+WÖRTER IM VERS: 5–11
+TEXT: فَوَيۡلٌ لِلَّذِينَ ظَلَمُوا مِنۡ عَذَابِ يَوۡمٍ أَلِيمٍ
+BEKANNT: أَلِيم · يَوۡم
+FRAGE: Welche Wörter kommen vor?
+HINWEIS: Mehrere Antworten sind möglich.
+OPTION: schmerzhaft
+OPTION: Tag
+OPTION: Ding
+OPTION: Weg
+RICHTIG: schmerzhaft
+RICHTIG: Tag
+
+#### AUFGABE | QURAN FRAGMENTE 1 | AW
+STELLE: 3:38
+WÖRTER IM VERS: 5–12
+TEXT: قَالَ رَبِّ هَبۡ لِي مِنۡ لَدُنۡكَ ذُرِّيَّةً طَيِّبَةً
+BEKANNT: رَبّ · طَيِّب
+FRAGE: Welche Wörter kommen vor?
+HINWEIS: Mehrere Antworten sind möglich.
+OPTION: Herr
+OPTION: gut
+OPTION: Ding
+OPTION: Feuer
+RICHTIG: Herr
+RICHTIG: gut
+
+#### AUFGABE | QURAN FRAGMENTE 1 | AW
+STELLE: 3:97
+WÖRTER IM VERS: 10–18
+TEXT: وَلِلَّهِ عَلَى النَّاسِ حِجُّ الۡبَيۡتِ مَنِ اسۡتَطَاعَ إِلَيۡهِ سَبِيلًا
+BEKANNT: بَيۡت · سَبِيل
+FRAGE: Welche Wörter kommen vor?
+HINWEIS: Mehrere Antworten sind möglich.
+OPTION: Haus
+OPTION: Weg
+OPTION: Gott
+OPTION: Tag
+RICHTIG: Haus
+RICHTIG: Weg
+
+### TEIL 2 — Welche Wörter hörst du? (Audio)
+
+#### AUFGABE | QURAN FRAGMENTE 2 | AW
+AUDIO: ja
+STELLE: 31:2
+WÖRTER IM VERS: 1–4
+TEXT: تِلۡكَ آيَاتُ الۡكِتَابِ الۡحَكِيمِ
+BEKANNT: تِلۡكَ · حَكِيم · كِتَاب
+FRAGE: Welche Wörter hörst du?
+HINWEIS: Mehrere Antworten sind möglich.
+OPTION: jene
+OPTION: weise
+OPTION: Buch
+OPTION: gewaltig
+OPTION: Herz
+RICHTIG: jene
+RICHTIG: weise
+RICHTIG: Buch
+
+#### AUFGABE | QURAN FRAGMENTE 2 | AW
+AUDIO: ja
+STELLE: 2:196
+WÖRTER IM VERS: 59–66
+TEXT: ذَٰلِكَ لِمَنۡ لَمۡ يَكُنۡ أَهۡلُهُ حَاضِرِي الۡمَسۡجِدِ الۡحَرَامِ
+BEKANNT: ذٰلِكَ · مَسۡجِد
+FRAGE: Welche Wörter hörst du?
+HINWEIS: Mehrere Antworten sind möglich.
+OPTION: jenes
+OPTION: Moschee
+OPTION: Herr
+OPTION: Gott
+RICHTIG: jenes
+RICHTIG: Moschee
+
+#### AUFGABE | QURAN FRAGMENTE 2 | AW
+AUDIO: ja
+STELLE: 3:51
+WÖRTER IM VERS: 1–8
+TEXT: إِنَّ اللَّهَ رَبِّي وَرَبُّكُمۡ فَاعۡبُدُوهُ هَٰذَا صِرَاطٌ مُسۡتَقِيمٌ
+BEKANNT: مُسۡتَقِيم · هٰذَا
+NICHT ANBIETEN: رَبّ  (steht mit Endung im Vers)
+FRAGE: Welche Wörter hörst du?
+HINWEIS: Mehrere Antworten sind möglich.
+OPTION: gerade
+OPTION: dies
+OPTION: Feuer
+OPTION: gut
+RICHTIG: gerade
+RICHTIG: dies
+
+#### AUFGABE | QURAN FRAGMENTE 2 | AW
+AUDIO: ja
+STELLE: 21:30
+WÖRTER IM VERS: 11–16
+TEXT: وَجَعَلۡنَا مِنَ الۡمَاءِ كُلَّ شَيۡءٍ حَيٍّ
+BEKANNT: شَيۡء · مَاء
+FRAGE: Welche Wörter hörst du?
+HINWEIS: Mehrere Antworten sind möglich.
+OPTION: Ding
+OPTION: Wasser
+OPTION: weise
+OPTION: gerade
+RICHTIG: Ding
+RICHTIG: Wasser
+
+#### AUFGABE | QURAN FRAGMENTE 2 | AW
+AUDIO: ja
+STELLE: 3:159
+WÖRTER IM VERS: 7–14
+TEXT: وَلَوۡ كُنۡتَ فَظًّا غَلِيظَ الۡقَلۡبِ لَانۡفَضُّوا مِنۡ حَوۡلِكَ
+BEKANNT: قَلۡب
+FRAGE: Welche Wörter hörst du?
+HINWEIS: Mehrere Antworten sind möglich.
+OPTION: Herz
+OPTION: Moschee
+OPTION: Buch
+OPTION: jene
+RICHTIG: Herz
+
+#### AUFGABE | QURAN FRAGMENTE 2 | AW
+AUDIO: ja
+STELLE: 2:39
+WÖRTER IM VERS: 1–7
+TEXT: وَالَّذِينَ كَفَرُوا وَكَذَّبُوا بِآيَاتِنَا أُولَٰئِكَ أَصۡحَابُ النَّارِ
+BEKANNT: أَصۡحَاب · نَار
+FRAGE: Welche Wörter hörst du?
+HINWEIS: Mehrere Antworten sind möglich.
+OPTION: Gefährten
+OPTION: Feuer
+OPTION: Herr
+OPTION: Tag
+RICHTIG: Gefährten
+RICHTIG: Feuer
+
+#### AUFGABE | QURAN FRAGMENTE 2 | AW
+AUDIO: ja
+STELLE: 2:115
+WÖRTER IM VERS: 4–12
+TEXT: فَأَيۡنَمَا تُوَلُّوا فَثَمَّ وَجۡهُ اللَّهِ إِنَّ اللَّهَ وَاسِعٌ عَلِيمٌ
+BEKANNT: عَلِيم · وَجۡه
+FRAGE: Welche Wörter hörst du?
+HINWEIS: Mehrere Antworten sind möglich.
+OPTION: wissend
+OPTION: Gesicht
+OPTION: gewaltig
+OPTION: jene
+RICHTIG: wissend
+RICHTIG: Gesicht
+
+#### AUFGABE | QURAN FRAGMENTE 2 | AW
+AUDIO: ja
+STELLE: 28:2
+WÖRTER IM VERS: 1–4
+TEXT: تِلۡكَ آيَاتُ الۡكِتَابِ الۡمُبِينِ
+BEKANNT: تِلۡكَ · كِتَاب · مُبِين
+FRAGE: Welche Wörter hörst du?
+HINWEIS: Mehrere Antworten sind möglich.
+OPTION: jene
+OPTION: Buch
+OPTION: deutlich
+OPTION: Gefährten
+OPTION: schmerzhaft
+RICHTIG: jene
+RICHTIG: Buch
+RICHTIG: deutlich
+
+### TEIL 3 — Welche Übersetzung passt? (gelesen)
+
+#### AUFGABE | QURAN FRAGMENTE 3 | AW
+STELLE: 6:96
+WÖRTER IM VERS: 9–12
+TEXT: ذَٰلِكَ تَقۡدِيرُ الۡعَزِيزِ الۡعَلِيمِ
+BEKANNT: ذٰلِكَ · عَلِيم
+FRAGE: Welche Übersetzung passt?
+OPTION: Das ist die Anordnung des Allmächtigen und Allwissenden.
+OPTION: Das ist das Haus des Gesandten am Tag der Auferstehung.
+OPTION: Das ist das Gesicht des Herrn der Gefährten.
+RICHTIG: Das ist die Anordnung des Allmächtigen und Allwissenden.
+
+### TEIL 4 — Welche Übersetzung passt? (Audio)
+
+#### AUFGABE | QURAN FRAGMENTE 4 | AW
+AUDIO: ja
+STELLE: 2:29
+WÖRTER IM VERS: 16–19
+TEXT: وَهُوَ بِكُلِّ شَيۡءٍ عَلِيمٌ
+BEKANNT: شَيۡء · عَلِيم
+FRAGE: Welche Übersetzung passt?
+OPTION: Und Er weiß über alles Bescheid.
+OPTION: Und Er ist der Herr des Hauses.
+OPTION: Und Er ist deutlich in Seinem Zeichen.
+RICHTIG: Und Er weiß über alles Bescheid.
+
+======================================================================
+
+#### AUFGABEN LEKTION 9 | Kleine Wörter davor
+
+WIEDERHOLUNG: Lektion 8, 6, 2
+AW: فِي · مِنۡ · عَلَىٰ · حَمۡد · عِلۡم · حَقّ · أَصۡحَاب · وَجۡه · بَيۡت · رَبّ · يَوۡم · مُبِين · حَيَاة · شَدِيد · وَاحِد · دُنۡيَا · صِرَاط · عَذَاب · مَا · مَنۡ · رَجُل · رَسُول · عَبۡد · نَبِيّ
+
+----------------------------------------------------------------------
+
+### TEIL 1 — Welche Wörter kommen vor? (gelesen)
+
+#### AUFGABE | QURAN FRAGMENTE 1 | AW
+STELLE: 57:20
+WÖRTER IM VERS: 26–33
+TEXT: وَفِي الۡآخِرَةِ عَذَابٌ شَدِيدٌ وَمَغۡفِرَةٌ مِنَ اللَّهِ وَرِضۡوَانٌ
+BEKANNT: شَدِيد · عَذَاب · فِي · مِنۡ
+FRAGE: Welche Wörter kommen vor?
+HINWEIS: Mehrere Antworten sind möglich.
+OPTION: hart
+OPTION: Strafe
+OPTION: in
+OPTION: von
+OPTION: Gesandter
+OPTION: auf
+RICHTIG: hart
+RICHTIG: Strafe
+RICHTIG: in
+RICHTIG: von
+
+#### AUFGABE | QURAN FRAGMENTE 1 | AW
+STELLE: 27:79
+WÖRTER IM VERS: 1–7
+TEXT: فَتَوَكَّلۡ عَلَى اللَّهِ إِنَّكَ عَلَى الۡحَقِّ الۡمُبِينِ
+BEKANNT: حَقّ · عَلَىٰ · مُبِين
+FRAGE: Welche Wörter kommen vor?
+HINWEIS: Mehrere Antworten sind möglich.
+OPTION: Wahrheit
+OPTION: auf
+OPTION: deutlich
+OPTION: Gesandter
+OPTION: Tag
+RICHTIG: Wahrheit
+RICHTIG: auf
+RICHTIG: deutlich
+
+#### AUFGABE | QURAN FRAGMENTE 1 | AW
+STELLE: 7:32
+WÖRTER IM VERS: 12–21
+TEXT: قُلۡ هِيَ لِلَّذِينَ آمَنُوا فِي الۡحَيَاةِ الدُّنۡيَا خَالِصَةً يَوۡمَ الۡقِيَامَةِ
+BEKANNT: حَيَاة · دُنۡيَا · فِي · يَوۡم
+NICHT ANBIETEN: مَنۡ  (steht mit Endung im Vers)
+FRAGE: Welche Wörter kommen vor?
+HINWEIS: Mehrere Antworten sind möglich.
+OPTION: Leben
+OPTION: Diesseits
+OPTION: in
+OPTION: Tag
+OPTION: Mann
+OPTION: Strafe
+RICHTIG: Leben
+RICHTIG: Diesseits
+RICHTIG: in
+RICHTIG: Tag
+
+#### AUFGABE | QURAN FRAGMENTE 1 | AW
+STELLE: 20:135
+WÖRTER IM VERS: 5–11
+TEXT: فَسَتَعۡلَمُونَ مَنۡ أَصۡحَابُ الصِّرَاطِ السَّوِيِّ وَمَنِ اهۡتَدَىٰ
+BEKANNT: أَصۡحَاب · صِرَاط · مَنۡ
+NICHT ANBIETEN: عِلۡم  (steht mit Endung im Vers)
+FRAGE: Welche Wörter kommen vor?
+HINWEIS: Mehrere Antworten sind möglich.
+OPTION: Gefährten
+OPTION: Pfad
+OPTION: wer
+OPTION: Strafe
+OPTION: hart
+RICHTIG: Gefährten
+RICHTIG: Pfad
+RICHTIG: wer
+
+#### AUFGABE | QURAN FRAGMENTE 1 | AW
+STELLE: 3:7
+WÖRTER IM VERS: 32–41
+TEXT: وَالرَّاسِخُونَ فِي الۡعِلۡمِ يَقُولُونَ آمَنَّا بِهِ كُلٌّ مِنۡ عِنۡدِ رَبِّنَا
+BEKANNT: عِلۡم · فِي · مِنۡ
+NICHT ANBIETEN: رَبّ · مَنۡ  (steht mit Endung im Vers)
+FRAGE: Welche Wörter kommen vor?
+HINWEIS: Mehrere Antworten sind möglich.
+OPTION: Wissen
+OPTION: in
+OPTION: von
+OPTION: Wahrheit
+OPTION: Gefährten
+RICHTIG: Wissen
+RICHTIG: in
+RICHTIG: von
+
+#### AUFGABE | QURAN FRAGMENTE 1 | AW
+STELLE: 27:15
+WÖRTER IM VERS: 6–15
+TEXT: وَقَالَا الۡحَمۡدُ لِلَّهِ الَّذِي فَضَّلَنَا عَلَىٰ كَثِيرٍ مِنۡ عِبَادِهِ الۡمُؤۡمِنِينَ
+BEKANNT: حَمۡد · عَلَىٰ · مِنۡ
+NICHT ANBIETEN: مَنۡ  (steht mit Endung im Vers)
+FRAGE: Welche Wörter kommen vor?
+HINWEIS: Mehrere Antworten sind möglich.
+OPTION: Lob
+OPTION: auf
+OPTION: von
+OPTION: Gefährten
+OPTION: Gesandter
+RICHTIG: Lob
+RICHTIG: auf
+RICHTIG: von
+
+#### AUFGABE | QURAN FRAGMENTE 1 | AW
+STELLE: 7:104
+WÖRTER IM VERS: 1–9
+TEXT: وَقَالَ مُوسَىٰ يَا فِرۡعَوۡنُ إِنِّي رَسُولٌ مِنۡ رَبِّ الۡعَالَمِينَ
+BEKANNT: رَبّ · رَسُول · مِنۡ
+FRAGE: Welche Wörter kommen vor?
+HINWEIS: Mehrere Antworten sind möglich.
+OPTION: Herr
+OPTION: Gesandter
+OPTION: von
+OPTION: Strafe
+OPTION: Gesicht
+RICHTIG: Herr
+RICHTIG: Gesandter
+RICHTIG: von
+
+#### AUFGABE | QURAN FRAGMENTE 1 | AW
+STELLE: 43:6
+WÖRTER IM VERS: 1–6
+TEXT: وَكَمۡ أَرۡسَلۡنَا مِنۡ نَبِيٍّ فِي الۡأَوَّلِينَ
+BEKANNT: فِي · مِنۡ · نَبِيّ
+FRAGE: Welche Wörter kommen vor?
+HINWEIS: Mehrere Antworten sind möglich.
+OPTION: in
+OPTION: von
+OPTION: Prophet
+OPTION: einzig
+OPTION: hart
+RICHTIG: in
+RICHTIG: von
+RICHTIG: Prophet
+
+#### AUFGABE | QURAN FRAGMENTE 1 | AW
+STELLE: 7:69
+WÖRTER IM VERS: 1–10
+TEXT: أَوَعَجِبۡتُمۡ أَنۡ جَاءَكُمۡ ذِكۡرٌ مِنۡ رَبِّكُمۡ عَلَىٰ رَجُلٍ مِنۡكُمۡ لِيُنۡذِرَكُمۡ
+BEKANNT: رَجُل · عَلَىٰ · مِنۡ
+NICHT ANBIETEN: رَبّ · مَنۡ  (steht mit Endung im Vers)
+FRAGE: Welche Wörter kommen vor?
+HINWEIS: Mehrere Antworten sind möglich.
+OPTION: Mann
+OPTION: auf
+OPTION: von
+OPTION: Leben
+OPTION: Diener
+RICHTIG: Mann
+RICHTIG: auf
+RICHTIG: von
+
+#### AUFGABE | QURAN FRAGMENTE 1 | AW
+STELLE: 3:97
+WÖRTER IM VERS: 10–18
+TEXT: وَلِلَّهِ عَلَى النَّاسِ حِجُّ الۡبَيۡتِ مَنِ اسۡتَطَاعَ إِلَيۡهِ سَبِيلًا
+BEKANNT: بَيۡت · عَلَىٰ · مَنۡ
+FRAGE: Welche Wörter kommen vor?
+HINWEIS: Mehrere Antworten sind möglich.
+OPTION: Haus
+OPTION: auf
+OPTION: wer
+OPTION: Gesicht
+OPTION: einzig
+RICHTIG: Haus
+RICHTIG: auf
+RICHTIG: wer
+
+### TEIL 2 — Welche Wörter hörst du? (Audio)
+
+#### AUFGABE | QURAN FRAGMENTE 2 | AW
+AUDIO: ja
+STELLE: 34:9
+WÖRTER IM VERS: 23–29
+TEXT: إِنَّ فِي ذَٰلِكَ لَآيَةً لِكُلِّ عَبۡدٍ مُنِيبٍ
+BEKANNT: عَبۡد · فِي
+NICHT ANBIETEN: مَنۡ  (steht mit Endung im Vers)
+FRAGE: Welche Wörter hörst du?
+HINWEIS: Mehrere Antworten sind möglich.
+OPTION: Diener
+OPTION: in
+OPTION: Gesicht
+OPTION: Pfad
+RICHTIG: Diener
+RICHTIG: in
+
+#### AUFGABE | QURAN FRAGMENTE 2 | AW
+AUDIO: ja
+STELLE: 6:98
+WÖRTER IM VERS: 1–8
+TEXT: وَهُوَ الَّذِي أَنۡشَأَكُمۡ مِنۡ نَفۡسٍ وَاحِدَةٍ فَمُسۡتَقَرٌّ وَمُسۡتَوۡدَعٌ
+BEKANNT: مِنۡ · وَاحِد
+FRAGE: Welche Wörter hörst du?
+HINWEIS: Mehrere Antworten sind möglich.
+OPTION: von
+OPTION: einzig
+OPTION: Gefährten
+OPTION: Pfad
+RICHTIG: von
+RICHTIG: einzig
+
+#### AUFGABE | QURAN FRAGMENTE 2 | AW
+AUDIO: ja
+STELLE: 38:62
+WÖRTER IM VERS: 1–10
+TEXT: وَقَالُوا مَا لَنَا لَا نَرَىٰ رِجَالًا كُنَّا نَعُدُّهُمۡ مِنَ الۡأَشۡرَارِ
+BEKANNT: مَا · مِنۡ
+FRAGE: Welche Wörter hörst du?
+HINWEIS: Mehrere Antworten sind möglich.
+OPTION: was
+OPTION: von
+OPTION: Wahrheit
+OPTION: in
+RICHTIG: was
+RICHTIG: von
+
+#### AUFGABE | QURAN FRAGMENTE 2 | AW
+AUDIO: ja
+STELLE: 2:115
+WÖRTER IM VERS: 1–8
+TEXT: وَلِلَّهِ الۡمَشۡرِقُ وَالۡمَغۡرِبُ فَأَيۡنَمَا تُوَلُّوا فَثَمَّ وَجۡهُ اللَّهِ
+BEKANNT: وَجۡه
+NICHT ANBIETEN: رَبّ · مَا  (steht mit Endung im Vers)
+FRAGE: Welche Wörter hörst du?
+HINWEIS: Mehrere Antworten sind möglich.
+OPTION: Gesicht
+OPTION: Haus
+OPTION: Gefährten
+OPTION: Mann
+RICHTIG: Gesicht
+
+#### AUFGABE | QURAN FRAGMENTE 2 | AW
+AUDIO: ja
+STELLE: 4:122
+WÖRTER IM VERS: 14–21
+TEXT: وَعۡدَ اللَّهِ حَقًّا وَمَنۡ أَصۡدَقُ مِنَ اللَّهِ قِيلًا
+BEKANNT: حَقّ · مَنۡ · مِنۡ
+FRAGE: Welche Wörter hörst du?
+HINWEIS: Mehrere Antworten sind möglich.
+OPTION: Wahrheit
+OPTION: wer
+OPTION: von
+OPTION: Gesicht
+OPTION: in
+RICHTIG: Wahrheit
+RICHTIG: wer
+RICHTIG: von
+
+#### AUFGABE | QURAN FRAGMENTE 2 | AW
+AUDIO: ja
+STELLE: 16:27
+WÖRTER IM VERS: 12–21
+TEXT: قَالَ الَّذِينَ أُوتُوا الۡعِلۡمَ إِنَّ الۡخِزۡيَ الۡيَوۡمَ وَالسُّوءَ عَلَى الۡكَافِرِينَ
+BEKANNT: عَلَىٰ · عِلۡم · يَوۡم
+FRAGE: Welche Wörter hörst du?
+HINWEIS: Mehrere Antworten sind möglich.
+OPTION: auf
+OPTION: Wissen
+OPTION: Tag
+OPTION: Pfad
+OPTION: Herr
+RICHTIG: auf
+RICHTIG: Wissen
+RICHTIG: Tag
+
+#### AUFGABE | QURAN FRAGMENTE 2 | AW
+AUDIO: ja
+STELLE: 10:10
+WÖRTER IM VERS: 8–14
+TEXT: وَآخِرُ دَعۡوَاهُمۡ أَنِ الۡحَمۡدُ لِلَّهِ رَبِّ الۡعَالَمِينَ
+BEKANNT: حَمۡد · رَبّ
+FRAGE: Welche Wörter hörst du?
+HINWEIS: Mehrere Antworten sind möglich.
+OPTION: Lob
+OPTION: Herr
+OPTION: in
+OPTION: Tag
+RICHTIG: Lob
+RICHTIG: Herr
+
+### TEIL 3 — Welche Übersetzung passt? (gelesen)
+
+#### AUFGABE | QURAN FRAGMENTE 3 | AW
+STELLE: 27:79
+WÖRTER IM VERS: 4–7
+TEXT: إِنَّكَ عَلَى الۡحَقِّ الۡمُبِينِ
+BEKANNT: حَقّ · عَلَىٰ · مُبِين
+FRAGE: Welche Übersetzung passt?
+OPTION: Gewiss, du bist auf der deutlichen Wahrheit.
+OPTION: Gewiss, du bist von dem Wissen abgewichen.
+OPTION: Gewiss, du bist in der Strafe des Feuers.
+RICHTIG: Gewiss, du bist auf der deutlichen Wahrheit.
+
+### TEIL 4 — Welche Übersetzung passt? (Audio)
+
+#### AUFGABE | QURAN FRAGMENTE 4 | AW
+AUDIO: ja
+STELLE: 14:2
+WÖRTER IM VERS: 10–14
+TEXT: وَوَيۡلٌ لِلۡكَافِرِينَ مِنۡ عَذَابٍ شَدِيدٍ
+BEKANNT: شَدِيد · عَذَاب · مِنۡ
+FRAGE: Welche Übersetzung passt?
+OPTION: Und wehe den Ungläubigen vor einer harten Strafe!
+OPTION: Und wehe den Ungläubigen an jenem Tag im Feuer!
+OPTION: Und wehe den Ungläubigen auf dem Weg des Gesandten!
+RICHTIG: Und wehe den Ungläubigen vor einer harten Strafe!
+
+======================================================================
+
+#### AUFGABEN LEKTION 10 | Wörter, die am Wort kleben
+
+WIEDERHOLUNG: Lektion 9, 7, 3
+AW: بِـ · لِـ · إِلَىٰ · جَنَّة · أَحَد · قَدِير · فِي · مِنۡ · عَلَىٰ · حَمۡد · عِلۡم · حَقّ · ذٰلِكَ · تِلۡكَ · أَلِيم · مَلَائِكَة · قَلۡب · نَار · هٰذِهِ · سَاعَة · قَرۡيَة · صَلَاة · رَحۡمَة · آيَة
+
+----------------------------------------------------------------------
+
+### TEIL 1 — Welche Wörter kommen vor? (gelesen)
+
+#### AUFGABE | QURAN FRAGMENTE 1 | AW
+STELLE: 29:44
+WÖRTER IM VERS: 1–10
+TEXT: خَلَقَ اللَّهُ السَّمَاوَاتِ وَالۡأَرۡضَ بِالۡحَقِّ إِنَّ فِي ذَٰلِكَ لَآيَةً لِلۡمُؤۡمِنِينَ
+BEKANNT: آيَة · بِـ · حَقّ · ذٰلِكَ · فِي · لِـ
+FRAGE: Welche Wörter kommen vor?
+HINWEIS: Mehrere Antworten sind möglich.
+OPTION: Zeichen
+OPTION: mit
+OPTION: Wahrheit
+OPTION: jenes
+OPTION: in
+OPTION: für
+RICHTIG: Zeichen
+RICHTIG: mit
+RICHTIG: Wahrheit
+RICHTIG: jenes
+RICHTIG: in
+RICHTIG: für
+
+#### AUFGABE | QURAN FRAGMENTE 1 | AW
+STELLE: 2:221
+WÖRTER IM VERS: 25–34
+TEXT: أُولَٰئِكَ يَدۡعُونَ إِلَى النَّارِ وَاللَّهُ يَدۡعُو إِلَى الۡجَنَّةِ وَالۡمَغۡفِرَةِ بِإِذۡنِهِ
+BEKANNT: إِلَىٰ · بِـ · جَنَّة · نَار
+FRAGE: Welche Wörter kommen vor?
+HINWEIS: Mehrere Antworten sind möglich.
+OPTION: zu
+OPTION: mit
+OPTION: Paradies
+OPTION: Feuer
+OPTION: Ortschaft
+OPTION: diese
+RICHTIG: zu
+RICHTIG: mit
+RICHTIG: Paradies
+RICHTIG: Feuer
+
+#### AUFGABE | QURAN FRAGMENTE 1 | AW
+STELLE: 7:52
+WÖRTER IM VERS: 1–10
+TEXT: وَلَقَدۡ جِئۡنَاهُمۡ بِكِتَابٍ فَصَّلۡنَاهُ عَلَىٰ عِلۡمٍ هُدًى وَرَحۡمَةً لِقَوۡمٍ يُؤۡمِنُونَ
+BEKANNT: بِـ · رَحۡمَة · عَلَىٰ · عِلۡم · لِـ
+FRAGE: Welche Wörter kommen vor?
+HINWEIS: Mehrere Antworten sind möglich.
+OPTION: mit
+OPTION: Barmherzigkeit
+OPTION: auf
+OPTION: Wissen
+OPTION: für
+OPTION: in
+RICHTIG: mit
+RICHTIG: Barmherzigkeit
+RICHTIG: auf
+RICHTIG: Wissen
+RICHTIG: für
+
+#### AUFGABE | QURAN FRAGMENTE 1 | AW
+STELLE: 42:5
+WÖRTER IM VERS: 6–13
+TEXT: وَالۡمَلَائِكَةُ يُسَبِّحُونَ بِحَمۡدِ رَبِّهِمۡ وَيَسۡتَغۡفِرُونَ لِمَنۡ فِي الۡأَرۡضِ
+BEKANNT: بِـ · حَمۡد · فِي · لِـ · مَلَائِكَة
+FRAGE: Welche Wörter kommen vor?
+HINWEIS: Mehrere Antworten sind möglich.
+OPTION: mit
+OPTION: Lob
+OPTION: in
+OPTION: für
+OPTION: Engel
+OPTION: Wahrheit
+RICHTIG: mit
+RICHTIG: Lob
+RICHTIG: in
+RICHTIG: für
+RICHTIG: Engel
+
+#### AUFGABE | QURAN FRAGMENTE 1 | AW
+STELLE: 7:73
+WÖRTER IM VERS: 15–24
+TEXT: قَدۡ جَاءَتۡكُمۡ بَيِّنَةٌ مِنۡ رَبِّكُمۡ هَٰذِهِ نَاقَةُ اللَّهِ لَكُمۡ آيَةً
+BEKANNT: آيَة · بِـ · لِـ · مِنۡ · هٰذِهِ
+FRAGE: Welche Wörter kommen vor?
+HINWEIS: Mehrere Antworten sind möglich.
+OPTION: Zeichen
+OPTION: mit
+OPTION: für
+OPTION: von
+OPTION: diese
+OPTION: Herz
+RICHTIG: Zeichen
+RICHTIG: mit
+RICHTIG: für
+RICHTIG: von
+RICHTIG: diese
+
+#### AUFGABE | QURAN FRAGMENTE 1 | AW
+STELLE: 22:39
+WÖRTER IM VERS: 1–10
+TEXT: أُذِنَ لِلَّذِينَ يُقَاتَلُونَ بِأَنَّهُمۡ ظُلِمُوا وَإِنَّ اللَّهَ عَلَىٰ نَصۡرِهِمۡ لَقَدِيرٌ
+BEKANNT: بِـ · عَلَىٰ · قَدِير · لِـ
+FRAGE: Welche Wörter kommen vor?
+HINWEIS: Mehrere Antworten sind möglich.
+OPTION: mit
+OPTION: auf
+OPTION: mächtig
+OPTION: für
+OPTION: Lob
+OPTION: Gebet
+RICHTIG: mit
+RICHTIG: auf
+RICHTIG: mächtig
+RICHTIG: für
+
+#### AUFGABE | QURAN FRAGMENTE 1 | AW
+STELLE: 18:38
+WÖRTER IM VERS: 1–8
+TEXT: لَٰكِنَّا هُوَ اللَّهُ رَبِّي وَلَا أُشۡرِكُ بِرَبِّي أَحَدًا
+BEKANNT: أَحَد · بِـ · لِـ
+FRAGE: Welche Wörter kommen vor?
+HINWEIS: Mehrere Antworten sind möglich.
+OPTION: einer
+OPTION: mit
+OPTION: für
+OPTION: Zeichen
+OPTION: Ortschaft
+RICHTIG: einer
+RICHTIG: mit
+RICHTIG: für
+
+#### AUFGABE | QURAN FRAGMENTE 1 | AW
+STELLE: 43:61
+WÖRTER IM VERS: 1–7
+TEXT: وَإِنَّهُ لَعِلۡمٌ لِلسَّاعَةِ فَلَا تَمۡتَرُنَّ بِهَا وَاتَّبِعُونِ
+BEKANNT: بِـ · سَاعَة · عِلۡم · لِـ
+FRAGE: Welche Wörter kommen vor?
+HINWEIS: Mehrere Antworten sind möglich.
+OPTION: mit
+OPTION: Stunde
+OPTION: Wissen
+OPTION: für
+OPTION: Ortschaft
+OPTION: schmerzhaft
+RICHTIG: mit
+RICHTIG: Stunde
+RICHTIG: Wissen
+RICHTIG: für
+
+#### AUFGABE | QURAN FRAGMENTE 1 | AW
+STELLE: 58:4
+WÖRTER IM VERS: 17–23
+TEXT: ذَٰلِكَ لِتُؤۡمِنُوا بِاللَّهِ وَرَسُولِهِ وَتِلۡكَ حُدُودُ اللَّهِ
+BEKANNT: بِـ · تِلۡكَ · ذٰلِكَ · لِـ
+FRAGE: Welche Wörter kommen vor?
+HINWEIS: Mehrere Antworten sind möglich.
+OPTION: mit
+OPTION: jene
+OPTION: jenes
+OPTION: für
+OPTION: von
+OPTION: Feuer
+RICHTIG: mit
+RICHTIG: jene
+RICHTIG: jenes
+RICHTIG: für
+
+#### AUFGABE | QURAN FRAGMENTE 1 | AW
+STELLE: 2:45
+WÖRTER IM VERS: 1–8
+TEXT: وَاسۡتَعِينُوا بِالصَّبۡرِ وَالصَّلَاةِ وَإِنَّهَا لَكَبِيرَةٌ إِلَّا عَلَى الۡخَاشِعِينَ
+BEKANNT: بِـ · صَلَاة · عَلَىٰ · لِـ
+FRAGE: Welche Wörter kommen vor?
+HINWEIS: Mehrere Antworten sind möglich.
+OPTION: mit
+OPTION: Gebet
+OPTION: auf
+OPTION: für
+OPTION: Paradies
+OPTION: diese
+RICHTIG: mit
+RICHTIG: Gebet
+RICHTIG: auf
+RICHTIG: für
+
+### TEIL 2 — Welche Wörter hörst du? (Audio)
+
+#### AUFGABE | QURAN FRAGMENTE 2 | AW
+AUDIO: ja
+STELLE: 45:11
+WÖRTER IM VERS: 3–11
+TEXT: وَالَّذِينَ كَفَرُوا بِآيَاتِ رَبِّهِمۡ لَهُمۡ عَذَابٌ مِنۡ رِجۡزٍ أَلِيمٌ
+BEKANNT: أَلِيم · بِـ · لِـ · مِنۡ
+FRAGE: Welche Wörter hörst du?
+HINWEIS: Mehrere Antworten sind möglich.
+OPTION: schmerzhaft
+OPTION: mit
+OPTION: für
+OPTION: von
+OPTION: Wissen
+OPTION: Engel
+RICHTIG: schmerzhaft
+RICHTIG: mit
+RICHTIG: für
+RICHTIG: von
+
+#### AUFGABE | QURAN FRAGMENTE 2 | AW
+AUDIO: ja
+STELLE: 25:51
+WÖRTER IM VERS: 1–7
+TEXT: وَلَوۡ شِئۡنَا لَبَعَثۡنَا فِي كُلِّ قَرۡيَةٍ نَذِيرًا
+BEKANNT: فِي · قَرۡيَة · لِـ
+FRAGE: Welche Wörter hörst du?
+HINWEIS: Mehrere Antworten sind möglich.
+OPTION: in
+OPTION: Ortschaft
+OPTION: für
+OPTION: Herz
+OPTION: jenes
+RICHTIG: in
+RICHTIG: Ortschaft
+RICHTIG: für
+
+#### AUFGABE | QURAN FRAGMENTE 2 | AW
+AUDIO: ja
+STELLE: 3:159
+WÖRTER IM VERS: 7–14
+TEXT: وَلَوۡ كُنۡتَ فَظًّا غَلِيظَ الۡقَلۡبِ لَانۡفَضُّوا مِنۡ حَوۡلِكَ
+BEKANNT: قَلۡب · لِـ · مِنۡ
+FRAGE: Welche Wörter hörst du?
+HINWEIS: Mehrere Antworten sind möglich.
+OPTION: Herz
+OPTION: für
+OPTION: von
+OPTION: jene
+OPTION: auf
+RICHTIG: Herz
+RICHTIG: für
+RICHTIG: von
+
+#### AUFGABE | QURAN FRAGMENTE 2 | AW
+AUDIO: ja
+STELLE: 35:41
+WÖRTER IM VERS: 8–15
+TEXT: وَلَئِنۡ زَالَتَا إِنۡ أَمۡسَكَهُمَا مِنۡ أَحَدٍ مِنۡ بَعۡدِهِ
+BEKANNT: أَحَد · بِـ · مِنۡ
+FRAGE: Welche Wörter hörst du?
+HINWEIS: Mehrere Antworten sind möglich.
+OPTION: einer
+OPTION: mit
+OPTION: von
+OPTION: Herz
+OPTION: mächtig
+RICHTIG: einer
+RICHTIG: mit
+RICHTIG: von
+
+#### AUFGABE | QURAN FRAGMENTE 2 | AW
+AUDIO: ja
+STELLE: 9:111
+WÖRTER IM VERS: 1–10
+TEXT: إِنَّ اللَّهَ اشۡتَرَىٰ مِنَ الۡمُؤۡمِنِينَ أَنۡفُسَهُمۡ وَأَمۡوَالَهُمۡ بِأَنَّ لَهُمُ الۡجَنَّةَ
+BEKANNT: بِـ · جَنَّة · لِـ · مِنۡ
+FRAGE: Welche Wörter hörst du?
+HINWEIS: Mehrere Antworten sind möglich.
+OPTION: mit
+OPTION: Paradies
+OPTION: für
+OPTION: von
+OPTION: Zeichen
+OPTION: Lob
+RICHTIG: mit
+RICHTIG: Paradies
+RICHTIG: für
+RICHTIG: von
+
+#### AUFGABE | QURAN FRAGMENTE 2 | AW
+AUDIO: ja
+STELLE: 30:50
+WÖRTER IM VERS: 11–19
+TEXT: إِنَّ ذَٰلِكَ لَمُحۡيِي الۡمَوۡتَىٰ وَهُوَ عَلَىٰ كُلِّ شَيۡءٍ قَدِيرٌ
+BEKANNT: ذٰلِكَ · عَلَىٰ · قَدِير · لِـ
+FRAGE: Welche Wörter hörst du?
+HINWEIS: Mehrere Antworten sind möglich.
+OPTION: jenes
+OPTION: auf
+OPTION: mächtig
+OPTION: für
+OPTION: Herz
+OPTION: Paradies
+RICHTIG: jenes
+RICHTIG: auf
+RICHTIG: mächtig
+RICHTIG: für
+
+#### AUFGABE | QURAN FRAGMENTE 2 | AW
+AUDIO: ja
+STELLE: 37:144
+WÖRTER IM VERS: 1–6
+TEXT: لَلَبِثَ فِي بَطۡنِهِ إِلَىٰ يَوۡمِ يُبۡعَثُونَ
+BEKANNT: إِلَىٰ · بِـ · فِي · لِـ
+FRAGE: Welche Wörter hörst du?
+HINWEIS: Mehrere Antworten sind möglich.
+OPTION: zu
+OPTION: mit
+OPTION: in
+OPTION: für
+OPTION: Zeichen
+OPTION: auf
+RICHTIG: zu
+RICHTIG: mit
+RICHTIG: in
+RICHTIG: für
+
+### TEIL 3 — Welche Übersetzung passt? (gelesen)
+
+#### AUFGABE | QURAN FRAGMENTE 3 | AW
+STELLE: 15:77
+WÖRTER IM VERS: 1–5
+TEXT: إِنَّ فِي ذَٰلِكَ لَآيَةً لِلۡمُؤۡمِنِينَ
+BEKANNT: آيَة · ذٰلِكَ · فِي · لِـ
+FRAGE: Welche Übersetzung passt?
+OPTION: Darin ist wahrlich ein Zeichen für die Gläubigen.
+OPTION: Darin ist wahrlich eine Barmherzigkeit für die Menschen.
+OPTION: Darin ist wahrlich ein Wissen für die Wissenden.
+RICHTIG: Darin ist wahrlich ein Zeichen für die Gläubigen.
+
+### TEIL 4 — Welche Übersetzung passt? (Audio)
+
+#### AUFGABE | QURAN FRAGMENTE 4 | AW
+AUDIO: ja
+STELLE: 11:4
+WÖRTER IM VERS: 1–8
+TEXT: إِلَى اللَّهِ مَرۡجِعُكُمۡ وَهُوَ عَلَىٰ كُلِّ شَيۡءٍ قَدِيرٌ
+BEKANNT: إِلَىٰ · عَلَىٰ · قَدِير
+FRAGE: Welche Übersetzung passt?
+OPTION: Zu Allah ist eure Rückkehr, und Er hat Macht über alles.
+OPTION: Zu Allah gehört das Lob, und Er ist der Herr des Paradieses.
+OPTION: Zu Allah führt der gerade Weg, und Er ist der Gott der Menschen.
+RICHTIG: Zu Allah ist eure Rückkehr, und Er hat Macht über alles.
+
+======================================================================
+
+#### AUFGABEN LEKTION 11 | Er, sie und sie
+
+WIEDERHOLUNG: Lektion 10, 8, 4
+AW: هُوَ · هِيَ · هُمۡ · مُسۡلِم · نَاس · نَفۡس · بِـ · لِـ · إِلَىٰ · جَنَّة · أَحَد · قَدِير · أَصۡحَاب · وَجۡه · بَيۡت · رَبّ · يَوۡم · مُبِين · شَمۡس · رِيح · يَد · جَهَنَّم · سَمَاء · أَرۡض
+
+----------------------------------------------------------------------
+
+### TEIL 1 — Welche Wörter kommen vor? (gelesen)
+
+#### AUFGABE | QURAN FRAGMENTE 1 | AW
+STELLE: 18:38
+WÖRTER IM VERS: 1–8
+TEXT: لَٰكِنَّا هُوَ اللَّهُ رَبِّي وَلَا أُشۡرِكُ بِرَبِّي أَحَدًا
+BEKANNT: أَحَد · بِـ · لِـ · هُوَ
+NICHT ANBIETEN: رَبّ  (steht mit Endung im Vers)
+FRAGE: Welche Wörter kommen vor?
+HINWEIS: Mehrere Antworten sind möglich.
+OPTION: einer
+OPTION: mit
+OPTION: für
+OPTION: er
+OPTION: Hölle
+OPTION: Menschen
+RICHTIG: einer
+RICHTIG: mit
+RICHTIG: für
+RICHTIG: er
+
+#### AUFGABE | QURAN FRAGMENTE 1 | AW
+STELLE: 11:119
+WÖRTER IM VERS: 7–15
+TEXT: وَتَمَّتۡ كَلِمَةُ رَبِّكَ لَأَمۡلَأَنَّ جَهَنَّمَ مِنَ الۡجِنَّةِ وَالنَّاسِ أَجۡمَعِينَ
+BEKANNT: جَنَّة · جَهَنَّم · لِـ · نَاس
+NICHT ANBIETEN: رَبّ  (steht mit Endung im Vers)
+FRAGE: Welche Wörter kommen vor?
+HINWEIS: Mehrere Antworten sind möglich.
+OPTION: Paradies
+OPTION: Hölle
+OPTION: für
+OPTION: Menschen
+OPTION: Gesicht
+OPTION: sie (eine)
+RICHTIG: Paradies
+RICHTIG: Hölle
+RICHTIG: für
+RICHTIG: Menschen
+
+#### AUFGABE | QURAN FRAGMENTE 1 | AW
+STELLE: 44:10
+WÖRTER IM VERS: 1–6
+TEXT: فَارۡتَقِبۡ يَوۡمَ تَأۡتِي السَّمَاءُ بِدُخَانٍ مُبِينٍ
+BEKANNT: بِـ · سَمَاء · مُبِين · يَوۡم
+FRAGE: Welche Wörter kommen vor?
+HINWEIS: Mehrere Antworten sind möglich.
+OPTION: mit
+OPTION: Himmel
+OPTION: deutlich
+OPTION: Tag
+OPTION: Hand
+OPTION: für
+RICHTIG: mit
+RICHTIG: Himmel
+RICHTIG: deutlich
+RICHTIG: Tag
+
+#### AUFGABE | QURAN FRAGMENTE 1 | AW
+STELLE: 21:81
+WÖRTER IM VERS: 1–10
+TEXT: وَلِسُلَيۡمَانَ الرِّيحَ عَاصِفَةً تَجۡرِي بِأَمۡرِهِ إِلَى الۡأَرۡضِ الَّتِي بَارَكۡنَا فِيهَا
+BEKANNT: أَرۡض · إِلَىٰ · بِـ · رِيح
+FRAGE: Welche Wörter kommen vor?
+HINWEIS: Mehrere Antworten sind möglich.
+OPTION: Erde
+OPTION: zu
+OPTION: mit
+OPTION: Wind
+OPTION: Menschen
+OPTION: einer
+RICHTIG: Erde
+RICHTIG: zu
+RICHTIG: mit
+RICHTIG: Wind
+
+#### AUFGABE | QURAN FRAGMENTE 1 | AW
+STELLE: 37:19
+WÖRTER IM VERS: 1–7
+TEXT: فَإِنَّمَا هِيَ زَجۡرَةٌ وَاحِدَةٌ فَإِذَا هُمۡ يَنۡظُرُونَ
+BEKANNT: هُمۡ · هِيَ
+FRAGE: Welche Wörter kommen vor?
+HINWEIS: Mehrere Antworten sind möglich.
+OPTION: sie (mehrere)
+OPTION: sie (eine)
+OPTION: zu
+OPTION: Wind
+RICHTIG: sie (mehrere)
+RICHTIG: sie (eine)
+
+#### AUFGABE | QURAN FRAGMENTE 1 | AW
+STELLE: 28:33
+WÖRTER IM VERS: 1–9
+TEXT: قَالَ رَبِّ إِنِّي قَتَلۡتُ مِنۡهُمۡ نَفۡسًا فَأَخَافُ أَنۡ يَقۡتُلُونِ
+BEKANNT: رَبّ · نَفۡس
+FRAGE: Welche Wörter kommen vor?
+HINWEIS: Mehrere Antworten sind möglich.
+OPTION: Herr
+OPTION: Seele
+OPTION: Sonne
+OPTION: Tag
+RICHTIG: Herr
+RICHTIG: Seele
+
+#### AUFGABE | QURAN FRAGMENTE 1 | AW
+STELLE: 3:96
+WÖRTER IM VERS: 1–10
+TEXT: إِنَّ أَوَّلَ بَيۡتٍ وُضِعَ لِلنَّاسِ لَلَّذِي بِبَكَّةَ مُبَارَكًا وَهُدًى لِلۡعَالَمِينَ
+BEKANNT: بَيۡت · بِـ · لِـ · نَاس
+FRAGE: Welche Wörter kommen vor?
+HINWEIS: Mehrere Antworten sind möglich.
+OPTION: Haus
+OPTION: mit
+OPTION: für
+OPTION: Menschen
+OPTION: zu
+OPTION: sie (mehrere)
+RICHTIG: Haus
+RICHTIG: mit
+RICHTIG: für
+RICHTIG: Menschen
+
+#### AUFGABE | QURAN FRAGMENTE 1 | AW
+STELLE: 10:26
+WÖRTER IM VERS: 11–16
+TEXT: أُولَٰئِكَ أَصۡحَابُ الۡجَنَّةِ هُمۡ فِيهَا خَالِدُونَ
+BEKANNT: أَصۡحَاب · جَنَّة · هُمۡ
+FRAGE: Welche Wörter kommen vor?
+HINWEIS: Mehrere Antworten sind möglich.
+OPTION: Gefährten
+OPTION: Paradies
+OPTION: sie (mehrere)
+OPTION: Himmel
+OPTION: Sonne
+RICHTIG: Gefährten
+RICHTIG: Paradies
+RICHTIG: sie (mehrere)
+
+#### AUFGABE | QURAN FRAGMENTE 1 | AW
+STELLE: 11:4
+WÖRTER IM VERS: 1–8
+TEXT: إِلَى اللَّهِ مَرۡجِعُكُمۡ وَهُوَ عَلَىٰ كُلِّ شَيۡءٍ قَدِيرٌ
+BEKANNT: إِلَىٰ · قَدِير · هُوَ
+FRAGE: Welche Wörter kommen vor?
+HINWEIS: Mehrere Antworten sind möglich.
+OPTION: zu
+OPTION: mächtig
+OPTION: er
+OPTION: Sonne
+OPTION: Hölle
+RICHTIG: zu
+RICHTIG: mächtig
+RICHTIG: er
+
+### TEIL 2 — Welche Wörter hörst du? (Audio)
+
+#### AUFGABE | QURAN FRAGMENTE 2 | AW
+AUDIO: ja
+STELLE: 30:38
+WÖRTER IM VERS: 8–16
+TEXT: ذَٰلِكَ خَيۡرٌ لِلَّذِينَ يُرِيدُونَ وَجۡهَ اللَّهِ وَأُولَٰئِكَ هُمُ الۡمُفۡلِحُونَ
+BEKANNT: لِـ · هُمۡ · وَجۡه
+NICHT ANBIETEN: يَد  (steht mit Endung im Vers)
+FRAGE: Welche Wörter hörst du?
+HINWEIS: Mehrere Antworten sind möglich.
+OPTION: für
+OPTION: sie (mehrere)
+OPTION: Gesicht
+OPTION: Tag
+OPTION: Himmel
+RICHTIG: für
+RICHTIG: sie (mehrere)
+RICHTIG: Gesicht
+
+#### AUFGABE | QURAN FRAGMENTE 2 | AW
+AUDIO: ja
+STELLE: 21:33
+WÖRTER IM VERS: 1–7
+TEXT: وَهُوَ الَّذِي خَلَقَ اللَّيۡلَ وَالنَّهَارَ وَالشَّمۡسَ وَالۡقَمَرَ
+BEKANNT: شَمۡس · هُوَ
+FRAGE: Welche Wörter hörst du?
+HINWEIS: Mehrere Antworten sind möglich.
+OPTION: Sonne
+OPTION: er
+OPTION: deutlich
+OPTION: Wind
+RICHTIG: Sonne
+RICHTIG: er
+
+#### AUFGABE | QURAN FRAGMENTE 2 | AW
+AUDIO: ja
+STELLE: 12:101
+WÖRTER IM VERS: 18–21
+TEXT: تَوَفَّنِي مُسۡلِمًا وَأَلۡحِقۡنِي بِالصَّالِحِينَ
+BEKANNT: بِـ · مُسۡلِم
+FRAGE: Welche Wörter hörst du?
+HINWEIS: Mehrere Antworten sind möglich.
+OPTION: mit
+OPTION: Muslim
+OPTION: mächtig
+OPTION: Wind
+RICHTIG: mit
+RICHTIG: Muslim
+
+#### AUFGABE | QURAN FRAGMENTE 2 | AW
+AUDIO: ja
+STELLE: 3:73
+WÖRTER IM VERS: 22–29
+TEXT: قُلۡ إِنَّ الۡفَضۡلَ بِيَدِ اللَّهِ يُؤۡتِيهِ مَنۡ يَشَاءُ
+BEKANNT: بِـ · يَد
+FRAGE: Welche Wörter hörst du?
+HINWEIS: Mehrere Antworten sind möglich.
+OPTION: mit
+OPTION: Hand
+OPTION: Muslim
+OPTION: sie (eine)
+RICHTIG: mit
+RICHTIG: Hand
+
+#### AUFGABE | QURAN FRAGMENTE 2 | AW
+AUDIO: ja
+STELLE: 11:105
+WÖRTER IM VERS: 1–7
+TEXT: يَوۡمَ يَأۡتِ لَا تَكَلَّمُ نَفۡسٌ إِلَّا بِإِذۡنِهِ
+BEKANNT: بِـ · نَفۡس · يَوۡم
+FRAGE: Welche Wörter hörst du?
+HINWEIS: Mehrere Antworten sind möglich.
+OPTION: mit
+OPTION: Seele
+OPTION: Tag
+OPTION: Herr
+OPTION: Haus
+RICHTIG: mit
+RICHTIG: Seele
+RICHTIG: Tag
+
+#### AUFGABE | QURAN FRAGMENTE 2 | AW
+AUDIO: ja
+STELLE: 2:189
+WÖRTER IM VERS: 1–8
+TEXT: يَسۡأَلُونَكَ عَنِ الۡأَهِلَّةِ قُلۡ هِيَ مَوَاقِيتُ لِلنَّاسِ وَالۡحَجِّ
+BEKANNT: لِـ · نَاس · هِيَ
+FRAGE: Welche Wörter hörst du?
+HINWEIS: Mehrere Antworten sind möglich.
+OPTION: für
+OPTION: Menschen
+OPTION: sie (eine)
+OPTION: Paradies
+OPTION: sie (mehrere)
+RICHTIG: für
+RICHTIG: Menschen
+RICHTIG: sie (eine)
+
+### TEIL 3 — Welche Übersetzung passt? (gelesen)
+
+#### AUFGABE | QURAN FRAGMENTE 3 | AW
+STELLE: 59:20
+WÖRTER IM VERS: 7–10
+TEXT: أَصۡحَابُ الۡجَنَّةِ هُمُ الۡفَائِزُونَ
+BEKANNT: أَصۡحَاب · جَنَّة · هُمۡ
+FRAGE: Welche Übersetzung passt?
+OPTION: Die Insassen des Paradiesgartens sind die Erfolgreichen.
+OPTION: Die Menschen der Erde sind die Verlierer.
+OPTION: Die Muslime im Haus sind die Geduldigen.
+RICHTIG: Die Insassen des Paradiesgartens sind die Erfolgreichen.
+
+### TEIL 4 — Welche Übersetzung passt? (Audio)
+
+#### AUFGABE | QURAN FRAGMENTE 4 | AW
+AUDIO: ja
+STELLE: 44:10
+WÖRTER IM VERS: 1–6
+TEXT: فَارۡتَقِبۡ يَوۡمَ تَأۡتِي السَّمَاءُ بِدُخَانٍ مُبِينٍ
+BEKANNT: بِـ · سَمَاء · مُبِين · يَوۡم
+FRAGE: Welche Übersetzung passt?
+OPTION: So erwarte den Tag, an dem der Himmel deutlichen Rauch bringt.
+OPTION: So erwarte den Tag, an dem sie zu ihrem Herrn zurückkehren.
+OPTION: So erwarte das Paradies, in das die Muslime eingehen.
+RICHTIG: So erwarte den Tag, an dem der Himmel deutlichen Rauch bringt.
+
+======================================================================
+
