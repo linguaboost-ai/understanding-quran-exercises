@@ -1,0 +1,8 @@
+{
+  "name": "quran-verstehen-uebungen",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "pruefen": "node tools/pruefen.mjs"
+  }
+}
