@@ -2,6 +2,7 @@
 // Alle Inhalte kommen zur Laufzeit aus den TXT-Dateien in Uebungen-Lektion-01-11/.
 import { parseExerciseFile, parseOrder, buildCourse } from './parser.js';
 import { STRINGS } from './i18n.js';
+import { RECITERS, DEFAULT_AUDIO, reciterById, audioUrl, loadTimings, clipFor, playClip, stopAudio } from './audio.js';
 
 const DATA_DIR = 'Uebungen-Lektion-01-11/';
 const ORDER_FILE = '00-Reihenfolge.txt';
@@ -9,7 +10,7 @@ const videoUrl = (nr) => `QV_Lektion${nr}.mov`;
 const STORE_KEY = 'qv-uebungen';
 
 // ---------- Einstellungen und Fortschritt (bleiben für den nächsten Aufruf) ----------
-const DEFAULT_SETTINGS = { lang: 'de', showAnswers: false, view: 'phone' };
+const DEFAULT_SETTINGS = { lang: 'de', showAnswers: false, view: 'phone', ...DEFAULT_AUDIO };
 function loadStore() {
   try {
     const raw = JSON.parse(localStorage.getItem(STORE_KEY) || '{}');
@@ -85,6 +86,7 @@ const ICON = {
   cross: '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>',
   gear: '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M19.14 12.94c.04-.3.06-.61.06-.94 0-.32-.02-.64-.07-.94l2.03-1.58a.49.49 0 0 0 .12-.61l-1.92-3.32a.49.49 0 0 0-.59-.22l-2.39.96c-.5-.38-1.03-.7-1.62-.94l-.36-2.54a.48.48 0 0 0-.48-.41h-3.84c-.24 0-.43.17-.47.41l-.36 2.54c-.59.24-1.13.57-1.62.94l-2.39-.96a.48.48 0 0 0-.59.22L2.74 8.87a.47.47 0 0 0 .12.61l2.03 1.58c-.05.3-.09.63-.09.94s.02.64.07.94l-2.03 1.58a.49.49 0 0 0-.12.61l1.92 3.32c.12.22.37.29.59.22l2.39-.96c.5.38 1.03.7 1.62.94l.36 2.54c.05.24.24.41.48.41h3.84c.24 0 .44-.17.47-.41l.36-2.54c.59-.24 1.13-.56 1.62-.94l2.39.96c.22.08.47 0 .59-.22l1.92-3.32a.46.46 0 0 0-.12-.61l-2.01-1.58zM12 15.6A3.6 3.6 0 1 1 12 8.4a3.6 3.6 0 0 1 0 7.2z"/></svg>',
   play: '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg>',
+  stop: '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 6h12v12H6z"/></svg>',
   video: '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M17 10.5V7c0-.55-.45-1-1-1H4c-.55 0-1 .45-1 1v10c0 .55.45 1 1 1h12c.55 0 1-.45 1-1v-3.5l4 4v-11l-4 4z"/></svg>',
 };
 
@@ -119,6 +121,7 @@ function go(hash) {
 }
 function applyRoute() {
   clearTimeout(S.autoTimer);
+  stopAudio();
   const h = location.hash.replace(/^#\/?/, '').split('/').filter(Boolean);
   const nr = Number(h[1]);
   const lesson = S.course?.find((l) => l.nr === nr);
@@ -173,6 +176,11 @@ function enterItem() {
     st.assign = {}; // Index Wort → Index Kategorie
   }
   item.state = st;
+  if (task.audio) {
+    stopAudio();
+    st.audio = 'idle';
+    prepareAudio(item);
+  }
 }
 function currentItem() { return S.run?.items[S.run.idx]; }
 
@@ -345,15 +353,65 @@ function runHtml() {
   </div>`;
 }
 
+// ---------- Audio ----------
+function clipOf(task) {
+  return S.timings?.get(`${task.stelle?.sure}:${task.stelle?.vers}`);
+}
+function prepareAudio(item) {
+  const reciter = reciterById(S.settings.reciter);
+  const want = reciter.id;
+  loadTimings(reciter).then((map) => {
+    if (reciterById(S.settings.reciter).id !== want) return;
+    S.timings = map;
+    S.timingsFor = want;
+    if (currentItem() === item && item.state.audio === 'idle' && !clipNow(item.task)) item.state.audio = 'notiming';
+    if (currentItem() === item) render();
+  }).catch((err) => {
+    console.error(err);
+    if (currentItem() === item) { item.state.audio = 'error'; render(); }
+  });
+}
+function clipNow(task) {
+  if (!task.stelle || !task.woerterImVers || S.timingsFor !== reciterById(S.settings.reciter).id) return null;
+  return clipFor(clipOf(task), task.woerterImVers.von, task.woerterImVers.bis, Number(S.settings.preMs) || 0, Number(S.settings.postMs) || 0);
+}
+function playCurrent() {
+  const item = currentItem();
+  if (!item?.task.audio) return;
+  const clip = clipNow(item.task);
+  if (!clip) { item.state.audio = S.timingsFor ? 'notiming' : 'loading'; render(); return; }
+  const reciter = reciterById(S.settings.reciter);
+  const key = `${S.run.idx}`;
+  if (item.state.audio === 'playing') { stopAudio(); return; }
+  playClip({
+    key,
+    url: audioUrl(reciter, item.task.stelle.sure, item.task.stelle.vers),
+    clip,
+    onState: (state) => {
+      if (currentItem() !== item) return;
+      item.state.audio = state === 'idle' ? 'idle' : state;
+      render();
+    },
+  });
+}
+function audioCardHtml(item) {
+  const L = t();
+  const a = item?.state.audio || 'idle';
+  const reciter = reciterById(S.settings.reciter);
+  const note = { loading: L.audioLoading, playing: L.audioPlaying, error: L.audioError, notiming: L.audioNoTiming }[a] || L.audioTap;
+  const disabled = a === 'notiming';
+  return `<div class="audio-card ${a}">
+      <button class="play-btn" data-act="play" ${disabled ? 'disabled' : ''} aria-label="${esc(a === 'playing' ? L.stop : L.play)}">${a === 'playing' ? ICON.stop : a === 'loading' ? '<span class="mini-spin"></span>' : ICON.play}</button>
+      <span class="audio-text"><span class="audio-note">${esc(note)}</span><span class="audio-reciter">${esc(reciter.label)}</span></span>
+    </div>`;
+}
+
 function promptHtml(task, fill) {
   let h = '';
   if (task.frage) h += `<p class="frage">${mixed(task.frage, fill)}</p>`;
   if (task.hinweis) h += `<p class="hinweis">${mixed(task.hinweis)}</p>`;
   if (task.audio) {
-    h += `<div class="audio-card">
-      <button class="play-btn" disabled aria-label="${esc(t().play)}">${ICON.play}</button>
-      <span class="audio-note">${esc(t().audioSoon)}</span>
-    </div>`;
+    h += audioCardHtml(currentItem());
   } else if (task.text) {
     h += `<div class="text-card"><p class="ar-text" lang="ar" dir="rtl">${gaps(esc(task.text), fill == null ? null : fill)}</p>
       ${task.stelle ? `<span class="chip">${esc(t().verse(task.stelle.sure, task.stelle.vers))}</span>` : ''}</div>`;
@@ -513,7 +571,15 @@ function settingsControlsHtml({ withView }) {
     <label class="setting toggle-row">
       <span><span class="setting-label">${esc(L.showAnswers)}</span><span class="setting-hint">${esc(L.showAnswersHint)}</span></span>
       <input type="checkbox" class="switch" data-toggle="showAnswers" ${S.settings.showAnswers ? 'checked' : ''}>
-    </label>`;
+    </label>
+    <label class="setting"><span class="setting-label">${esc(L.reciter)}</span>
+      <select class="select" data-setsel="reciter">${RECITERS.map((r) => `<option value="${r.id}" ${reciterById(S.settings.reciter).id === r.id ? 'selected' : ''}>${esc(r.label)}</option>`).join('')}</select>
+    </label>
+    <div class="setting two-num">
+      <label><span class="setting-label">${esc(L.preRoll)}</span><span class="num-wrap"><input type="number" class="num" min="0" max="2000" step="10" data-num="preMs" value="${esc(S.settings.preMs)}"> ms</span></label>
+      <label><span class="setting-label">${esc(L.postRoll)}</span><span class="num-wrap"><input type="number" class="num" min="0" max="3000" step="10" data-num="postMs" value="${esc(S.settings.postMs)}"> ms</span></label>
+    </div>
+    <p class="credit">${L.credit}</p>`;
 }
 
 function settingsSheetHtml() {
@@ -582,6 +648,7 @@ document.addEventListener('click', (e) => {
   if (act === 'settings') { S.settingsOpen = true; render(); return; }
   if (act === 'settings-close') { S.settingsOpen = false; render(); return; }
   if (act === 'check') { check(); return; }
+  if (act === 'play') { playCurrent(); return; }
   if (act === 'next') { next(); return; }
   if (act === 'restart') { startRun(S.run.lesson); go(`#/lektion/${S.run.lesson.nr}/uebungen`); return; }
   if (act === 'leave') {
@@ -617,7 +684,24 @@ document.addEventListener('click', (e) => {
 });
 
 document.addEventListener('change', (e) => {
-  const key = e.target.dataset?.toggle;
+  const ds = e.target.dataset || {};
+  if (ds.setsel) {
+    S.settings[ds.setsel] = e.target.value;
+    saveStore();
+    stopAudio();
+    const item = currentItem();
+    if (item?.task.audio && S.route.name === 'run') { item.state.audio = 'idle'; prepareAudio(item); }
+    render();
+    return;
+  }
+  if (ds.num) {
+    const v = Math.max(0, Math.round(Number(e.target.value) || 0));
+    S.settings[ds.num] = v;
+    saveStore();
+    render();
+    return;
+  }
+  const key = ds.toggle;
   if (!key) return;
   S.settings[key] = e.target.checked;
   saveStore();

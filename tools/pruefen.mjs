@@ -5,6 +5,7 @@ import { readFileSync, readdirSync, writeFileSync } from 'node:fs';
 import { join, dirname } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { parseExerciseFile, parseOrder, matchesOrderEntry, buildCourse } from '../app/parser.js';
+import { RECITERS, clipFor } from '../app/audio.js';
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), '..');
 const DIR = join(ROOT, 'Uebungen-Lektion-01-11');
@@ -103,6 +104,16 @@ for (const p of Object.values(files)) {
         for (const w of t.nichtAnbieten) if (t.options.includes(deOf.get(w))) fehler.push(`${where(t)} — NICHT ANBIETEN-Wort ${w} („${deOf.get(w)}") erscheint als OPTION`);
       }
     }
+  }
+}
+
+// Audio-Fragmente: Zeitmarken für erstes und letztes Wort bei jedem Rezitator
+for (const r of RECITERS) {
+  const segs = new Map(JSON.parse(readFileSync(join(ROOT, 'zeitmarken', `${r.folder}.json`), 'utf8')).map((e) => [`${e.surah}:${e.ayah}`, e.segments]));
+  for (const t of files['Quranfragmente-Lektion-01-11.txt'].tasks) {
+    if (!t.audio || !t.stelle || !t.woerterImVers) continue;
+    if (!clipFor(segs.get(`${t.stelle.sure}:${t.stelle.vers}`), t.woerterImVers.von, t.woerterImVers.bis, 0, 0))
+      fehler.push(`${where(t)} — keine Zeitmarken (${r.label}) für ${t.stelle.sure}:${t.stelle.vers}, Wörter ${t.woerterImVers.von}–${t.woerterImVers.bis}`);
   }
 }
 
