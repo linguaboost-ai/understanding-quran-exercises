@@ -30,6 +30,8 @@ const S = {
   route: { name: 'home' },
   run: null,
   settingsOpen: false,
+  lektionenOffen: true,
+  einstellungenOffen: false,
 };
 const t = () => STRINGS[S.settings.lang] || STRINGS.de;
 
@@ -270,11 +272,15 @@ function layoutName() { return isMobile() ? 'mobile' : S.settings.view === 'desk
 function render() {
   const layout = layoutName();
   document.body.className = `layout-${layout}${S.settings.showAnswers ? ' answers-on' : ''}`
-    + (S.sidebarOpen ? ' sidebar-open' : '');
-  document.getElementById('side-toggle')?.setAttribute('aria-expanded', String(!!S.sidebarOpen));
+    + (S.lektionenOffen ? ' lektionen-offen' : '')
+    + (S.einstellungenOffen ? ' einstellungen-offen' : '');
+  document.getElementById('lektionen-knopf')?.setAttribute('aria-expanded', String(!!S.lektionenOffen));
+  document.getElementById('einstellungen-knopf')?.setAttribute('aria-expanded', String(!!S.einstellungenOffen));
   document.documentElement.lang = S.settings.lang;
   document.title = t().appTitle;
-  document.getElementById('sidebar').innerHTML = layout === 'mobile' ? '' : sidebarHtml();
+  const amHandy = layout === 'mobile';
+  document.getElementById('lektionen').innerHTML = amHandy ? '' : lektionenHtml();
+  document.getElementById('einstellungen').innerHTML = amHandy ? '' : einstellungenHtml();
   document.getElementById('screen').innerHTML = screenHtml() + (S.settingsOpen ? settingsSheetHtml() : '');
 }
 
@@ -642,7 +648,7 @@ function settingsSheetHtml() {
   </div>`;
 }
 
-function sidebarHtml() {
+function lektionenHtml() {
   const L = t();
   const current = S.route.lesson?.nr;
   const list = S.course ? S.course.map((l) => `
@@ -652,8 +658,12 @@ function sidebarHtml() {
       <span class="side-lesson-sub">${mixed(l.titel)}</span></span>
     </button>`).join('') : '';
   return `<button class="side-brand" data-go="#/" aria-label="${esc(L.appTitle)}"><span class="side-logo" lang="ar" dir="rtl">ق</span><span>${esc(L.appTitle)}</span></button>
-    <nav class="side-list" aria-label="${esc(L.lessons)}"><span class="side-head">${esc(L.lessons)}</span>${list}</nav>
-    <div class="side-settings"><span class="side-head">${esc(L.settings)}</span>${settingsControlsHtml({ withView: true })}</div>`;
+    <nav class="side-list" aria-label="${esc(L.lessons)}"><span class="side-head">${esc(L.lessons)}</span>${list}</nav>`;
+}
+
+function einstellungenHtml() {
+  const L = t();
+  return `<div class="side-settings"><span class="side-head">${esc(L.settings)}</span>${settingsControlsHtml({ withView: true })}</div>`;
 }
 
 // ---------- Eingaben ----------
@@ -695,7 +705,8 @@ document.addEventListener('click', (e) => {
     return;
   }
   const act = el.dataset.act;
-  if (act === 'sidebar') { S.sidebarOpen = !S.sidebarOpen; render(); return; }
+  if (act === 'lektionen') { S.lektionenOffen = !S.lektionenOffen; render(); return; }
+  if (act === 'einstellungen') { S.einstellungenOffen = !S.einstellungenOffen; render(); return; }
   if (act === 'settings') { S.settingsOpen = true; render(); return; }
   if (act === 'settings-close') { S.settingsOpen = false; render(); return; }
   if (act === 'check') { check(); return; }
