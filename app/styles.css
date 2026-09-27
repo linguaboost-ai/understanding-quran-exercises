@@ -87,6 +87,12 @@ body.layout-phone .sidebar.rechts, body.layout-desktop .sidebar.rechts {
 }
 body.lektionen-offen .sidebar.links { transform: translateX(0); }
 body.einstellungen-offen .sidebar.rechts { transform: translateX(0); }
+/* Die Buehne weicht den offenen Leisten aus. Dadurch steht das Handy mittig
+   in dem, was uebrig bleibt, und wandert mit, sobald eine Leiste auf- oder
+   zugeht. */
+body.layout-phone .stage, body.layout-desktop .stage { transition: margin .22s ease; }
+body.lektionen-offen .stage { margin-left: 300px; }
+body.einstellungen-offen .stage { margin-right: 300px; }
 /* Jeder Knopf wandert mit seiner Leiste. */
 .side-toggle { position: fixed; top: 16px; z-index: 50; width: 44px; height: 44px;
   display: none; align-items: center; justify-content: center; border-radius: 14px;

@@ -4,6 +4,16 @@ import { parseExerciseFile, parseOrder, buildCourse } from './parser.js';
 import { STRINGS } from './i18n.js';
 import { RECITERS, DEFAULT_AUDIO, reciterById, audioUrl, loadTimings, clipFor, playClip, playFile, stopAudio } from './audio.js';
 
+/* Waehrend der Testphase soll das Verlassen einer laufenden Runde nicht
+   nachfragen. Auf true gesetzt kommt die Sicherheitsabfrage zurueck. */
+const NACHFRAGEN_BEIM_VERLASSEN = false;
+/* Die Marke laedt die Seite neu, statt nur den Anker zu loeschen: so faengt
+   die App sauber von vorn an. Auf Vercel ist das
+   https://understanding-quran-exercises.vercel.app/ — ortsunabhaengig
+   geschrieben, damit es beim Entwickeln nicht auf die Veroeffentlichung
+   springt. */
+const STARTSEITE = () => location.pathname + location.search;
+
 const DATA_DIR = 'Uebungen-Lektion-01-11/';
 const ORDER_FILE = '00-Reihenfolge.txt';
 const videoUrl = (nr) => `QV_Lektion${nr}.mov`;
@@ -667,7 +677,7 @@ function lektionenHtml() {
       <span class="side-lesson-text"><span class="side-lesson-title">${esc(L.lesson)} ${l.nr}</span>
       <span class="side-lesson-sub">${mixed(l.titel)}</span></span>
     </button>`).join('') : '';
-  return `<button class="side-brand" data-go="#/" aria-label="${esc(L.appTitle)}"><span class="side-logo" lang="ar" dir="rtl">ق</span><span>${esc(L.appTitle)}</span></button>
+  return `<button class="side-brand" data-neu aria-label="${esc(L.appTitle)}"><span class="side-logo" lang="ar" dir="rtl">ق</span><span>${esc(L.appTitle)}</span></button>
     <nav class="side-list" aria-label="${esc(L.lessons)}"><span class="side-head">${esc(L.lessons)}</span>${list}</nav>`;
 }
 
@@ -700,10 +710,12 @@ function isPlaced(item, id) {
 let suppressClick = false;
 document.addEventListener('click', (e) => {
   if (suppressClick) { suppressClick = false; e.preventDefault(); return; }
-  const el = e.target.closest('[data-go],[data-act],[data-opt],[data-drag],[data-drop],[data-set]');
+  const el = e.target.closest('[data-go],[data-neu],[data-act],[data-opt],[data-drag],[data-drop],[data-set]');
   if (!el) return;
+  if (el.dataset.neu !== undefined) { location.assign(STARTSEITE()); return; }
   if (el.dataset.go) {
-    if (S.route.name === 'run' && !S.run?.finished && S.run?.idx > 0 && !el.dataset.go.includes('/uebungen') && !confirm(t().leaveConfirm)) return;
+    if (NACHFRAGEN_BEIM_VERLASSEN && S.route.name === 'run' && !S.run?.finished && S.run?.idx > 0
+        && !el.dataset.go.includes('/uebungen') && !confirm(t().leaveConfirm)) return;
     S.settingsOpen = false;
     go(el.dataset.go);
     return;
@@ -726,7 +738,7 @@ document.addEventListener('click', (e) => {
   if (act === 'skip') { jump(1); return; }
   if (act === 'restart') { startRun(S.run.lesson); go(`#/lektion/${S.run.lesson.nr}/uebungen`); return; }
   if (act === 'leave') {
-    if (S.run?.idx > 0 && !confirm(t().leaveConfirm)) return;
+    if (NACHFRAGEN_BEIM_VERLASSEN && S.run?.idx > 0 && !confirm(t().leaveConfirm)) return;
     go(`#/lektion/${S.run.lesson.nr}`);
     return;
   }
