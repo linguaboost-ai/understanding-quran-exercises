@@ -88,6 +88,8 @@ const ICON = {
   play: '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg>',
   stop: '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 6h12v12H6z"/></svg>',
   video: '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M17 10.5V7c0-.55-.45-1-1-1H4c-.55 0-1 .45-1 1v10c0 .55.45 1 1 1h12c.55 0 1-.45 1-1v-3.5l4 4v-11l-4 4z"/></svg>',
+  stepLeft: '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M15.41 7.41 14 6l-6 6 6 6 1.41-1.41L10.83 12z"/></svg>',
+  stepRight: '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M8.59 16.59 10 18l6-6-6-6-1.41 1.41L13.17 12z"/></svg>',
 };
 
 // ---------- Laden ----------
@@ -127,7 +129,13 @@ function applyRoute() {
   const lesson = S.course?.find((l) => l.nr === nr);
   if (h[0] === 'lektion' && lesson) {
     if (h[2] === 'uebungen') {
-      if (!S.run || S.run.lesson !== lesson || S.run.finished) startRun(lesson);
+      // „#/lektion/5/uebungen/12" faengt bei Aufgabe 12 an. Danach steht wieder
+      // die schlichte Adresse da, damit ein erneutes Zeichnen nicht zurueckspringt.
+      const start = h[3] === undefined ? null : Number(h[3]);
+      if (Number.isFinite(start)) {
+        startRun(lesson, start);
+        history.replaceState(null, '', `#/lektion/${lesson.nr}/uebungen`);
+      } else if (!S.run || S.run.lesson !== lesson || S.run.finished) startRun(lesson);
       S.route = { name: 'run', lesson };
     } else if (h[2] === 'auswertung' && S.run?.lesson === lesson && S.run.finished) {
       S.route = { name: 'result', lesson };
@@ -142,14 +150,28 @@ function applyRoute() {
 }
 
 // ---------- Ablauf einer Lektion ----------
-function startRun(lesson) {
+function startRun(lesson, startIdx = 0) {
   const items = [];
   for (const section of lesson.sections) {
     const multi = section.tasks.some((tk) => tk.richtig.length > 1);
     for (const task of section.tasks) items.push({ section, task, multi });
   }
-  S.run = { lesson, items, idx: 0, results: [], finished: false };
+  const idx = Math.min(Math.max(0, startIdx), Math.max(0, items.length - 1));
+  S.run = { lesson, items, idx, results: [], finished: false };
   enterItem();
+}
+
+// Zum Testen: eine Aufgabe vor oder zurueck, ohne sie zu beantworten.
+function jump(delta) {
+  const run = S.run;
+  if (!run) return;
+  const i = run.idx + delta;
+  if (i < 0 || i >= run.items.length) return;
+  clearTimeout(S.autoTimer);
+  run.idx = i;
+  enterItem();
+  render();
+  document.querySelector('#screen .scroll')?.scrollTo(0, 0);
 }
 function kindOf(task) {
   if (task.paare.length) return 'pairs';
@@ -247,7 +269,9 @@ function layoutName() { return isMobile() ? 'mobile' : S.settings.view === 'desk
 
 function render() {
   const layout = layoutName();
-  document.body.className = `layout-${layout}${S.settings.showAnswers ? ' answers-on' : ''}`;
+  document.body.className = `layout-${layout}${S.settings.showAnswers ? ' answers-on' : ''}`
+    + (S.sidebarOpen ? ' sidebar-open' : '');
+  document.getElementById('side-toggle')?.setAttribute('aria-expanded', String(!!S.sidebarOpen));
   document.documentElement.lang = S.settings.lang;
   document.title = t().appTitle;
   document.getElementById('sidebar').innerHTML = layout === 'mobile' ? '' : sidebarHtml();
@@ -318,8 +342,14 @@ function lessonHtml(lesson) {
         <p class="video-error" hidden>${esc(L.videoMissing)}</p>
       </div>
       <div class="card sections">
-        ${lesson.sections.filter((s) => s.tasks.length).map((s) => `
-          <div class="section-row"><span class="label">${esc(s.entry.name)}</span><span class="muted">${s.tasks.length}</span></div>`).join('')}
+        ${(() => { let ab = 0; return lesson.sections.map((s) => {
+            const start = ab; ab += s.tasks.length;
+            if (!s.tasks.length) return '';
+            // Ein Klick steigt genau bei dieser Uebung ein.
+            return `<button class="section-row" data-go="#/lektion/${lesson.nr}/uebungen/${start}">
+              <span class="label">${esc(s.entry.name)}</span><span class="muted">${s.tasks.length}</span>
+              <span class="section-go" aria-hidden="true">${ICON.stepRight}</span></button>`;
+          }).join(''); })()}
       </div>
     </main>
     <footer class="footer">
@@ -339,7 +369,11 @@ function runHtml() {
     <header class="topbar">
       <button class="icon-btn" data-act="leave" aria-label="${esc(L.close)}">${ICON.close}</button>
       <h1 class="topbar-title">${esc(L.lesson)} ${run.lesson.nr}</h1>
-      <span class="topbar-side count">${run.idx + 1}/${run.items.length}</span>
+      <span class="topbar-side nav">
+        <button class="step-btn" data-act="prev" ${run.idx === 0 ? 'disabled' : ''} aria-label="${esc(L.prevTask)}">${ICON.stepLeft}</button>
+        <span class="count">${run.idx + 1}/${run.items.length}</span>
+        <button class="step-btn" data-act="skip" ${run.idx >= run.items.length - 1 ? 'disabled' : ''} aria-label="${esc(L.nextTask)}">${ICON.stepRight}</button>
+      </span>
     </header>
     <div class="progress" role="progressbar" aria-valuemin="0" aria-valuemax="${run.items.length}" aria-valuenow="${run.idx}" aria-label="${esc(L.progress(run.idx + 1, run.items.length))}">
       <div class="progress-bar"><span style="width:${pct}%"></span></div>
@@ -661,11 +695,14 @@ document.addEventListener('click', (e) => {
     return;
   }
   const act = el.dataset.act;
+  if (act === 'sidebar') { S.sidebarOpen = !S.sidebarOpen; render(); return; }
   if (act === 'settings') { S.settingsOpen = true; render(); return; }
   if (act === 'settings-close') { S.settingsOpen = false; render(); return; }
   if (act === 'check') { check(); return; }
   if (act === 'play') { playCurrent(); return; }
   if (act === 'next') { next(); return; }
+  if (act === 'prev') { jump(-1); return; }
+  if (act === 'skip') { jump(1); return; }
   if (act === 'restart') { startRun(S.run.lesson); go(`#/lektion/${S.run.lesson.nr}/uebungen`); return; }
   if (act === 'leave') {
     if (S.run?.idx > 0 && !confirm(t().leaveConfirm)) return;

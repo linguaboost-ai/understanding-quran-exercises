@@ -70,8 +70,21 @@ body.layout-phone .layout, body.layout-desktop .layout { height: 100vh; }
 body.layout-phone .sidebar, body.layout-desktop .sidebar {
   display: flex; flex-direction: column; gap: 20px;
   width: 300px; flex-shrink: 0; height: 100vh; overflow-y: auto;
-  padding: 24px 18px; background: #F7F6FB; border-right: 1px solid var(--line);
+  padding: 24px 18px; background: #F7F6FB; border-left: 1px solid var(--line);
+  position: fixed; top: 0; right: 0; z-index: 40;
+  transform: translateX(100%); transition: transform .22s ease;
+  box-shadow: -20px 0 44px rgba(38, 36, 123, .10);
 }
+body.sidebar-open .sidebar { transform: translateX(0); }
+/* Der Knopf wandert mit, wenn die Leiste aufgeht. */
+.side-toggle { position: fixed; top: 16px; right: 16px; z-index: 50; width: 44px; height: 44px;
+  display: none; align-items: center; justify-content: center; border-radius: 14px;
+  border: 1px solid var(--line); background: rgba(255,255,255,.86); color: var(--primary);
+  cursor: pointer; backdrop-filter: blur(6px); transition: right .22s ease, background .12s; }
+.side-toggle:hover { background: #fff; }
+body.layout-phone .side-toggle, body.layout-desktop .side-toggle { display: flex; }
+body.sidebar-open .side-toggle { right: 316px; }
+
 body.layout-phone .stage { align-items: center; justify-content: center; padding: 24px; background: var(--bg); overflow: auto; }
 body.layout-phone .device {
   width: 390px; height: min(844px, calc(100vh - 48px)); flex-shrink: 0;
@@ -172,7 +185,22 @@ body.layout-mobile .footer { padding-bottom: max(18px, env(safe-area-inset-botto
 .video-card video { display: block; width: 100%; max-height: 60vh; background: #000; }
 .video-error { margin: 0; padding: 16px; background: var(--bad-bg); color: var(--bad); font-weight: 600; font-size: 14px; }
 .sections { display: flex; flex-direction: column; gap: 8px; }
-.section-row { display: flex; justify-content: space-between; align-items: center; font-size: 14px; }
+.section-row { display: flex; justify-content: space-between; align-items: center; gap: 10px;
+  width: 100%; font-size: 14px; font-family: inherit; color: inherit; text-align: left;
+  padding: 7px 8px; margin: -1px -8px; border: 0; border-radius: 12px; background: none; cursor: pointer; }
+.section-row:hover { background: var(--lav-2); }
+.section-row .label { flex: 1; }
+.section-row .section-go { display: flex; width: 18px; height: 18px; color: var(--lav-3); flex-shrink: 0; }
+.section-row:hover .section-go { color: var(--primary); }
+.section-row .section-go svg { width: 100%; height: 100%; fill: currentColor; }
+
+/* Pfeile zum Durchblaettern: eine Aufgabe vor oder zurueck, ohne zu antworten. */
+.topbar-side.nav { display: flex; align-items: center; gap: 2px; width: auto; }
+.step-btn { width: 30px; height: 30px; display: flex; align-items: center; justify-content: center;
+  border: 0; border-radius: 9px; background: none; color: var(--muted); cursor: pointer; flex-shrink: 0; }
+.step-btn svg { width: 20px; height: 20px; fill: currentColor; }
+.step-btn:hover:not(:disabled) { background: var(--chip); color: var(--primary); }
+.step-btn:disabled { opacity: .3; cursor: default; }
 
 /* Übungslauf */
 .progress { display: flex; align-items: center; gap: 12px; padding: 4px 16px 10px; flex-shrink: 0; }
@@ -181,8 +209,9 @@ body.layout-mobile .footer { padding-bottom: max(18px, env(safe-area-inset-botto
 .progress-score { display: flex; align-items: center; gap: 2px; font-size: 13px; font-weight: 700; color: var(--ok); font-variant-numeric: tabular-nums; }
 .section-label { font-size: 11px; font-weight: 700; letter-spacing: 0.8px; text-transform: uppercase; color: var(--primary-2); margin: 4px 2px 10px; }
 .section-label .multi { color: var(--muted); }
-.frage { font-size: 20px; font-weight: 600; line-height: 1.45; margin: 0 2px 8px; color: var(--ink); }
-.hinweis { font-size: 14px; color: var(--muted); margin: 0 2px 12px; }
+.frage { font-size: 22px; font-weight: 700; line-height: 1.4; margin: 22px 2px 24px; color: var(--ink); text-align: center; }
+.hinweis + .frage, .frage + .hinweis { margin-top: 0; }
+.hinweis { font-size: 14px; color: var(--muted); margin: 0 2px 16px; text-align: center; }
 .gap { display: inline-block; min-width: 64px; height: 1.1em; border-bottom: 2px solid var(--primary); vertical-align: -0.15em; margin: 0 4px; }
 .gap.filled { height: auto; min-width: 0; border-bottom-color: var(--ok-line); color: var(--ok); font-weight: 700; padding: 0 2px; }
 .text-card { background: #fff; border: 1px solid var(--line); border-radius: 20px; padding: 14px 16px; margin: 6px 0 14px; display: flex; flex-direction: column; align-items: center; gap: 4px; }
@@ -292,7 +321,7 @@ body.layout-desktop .topbar { padding: 24px 32px 8px; }
 body.layout-desktop .progress { padding: 6px 32px 12px; }
 body.layout-desktop .footer, body.layout-desktop .feedback { padding-left: 32px; padding-right: 32px; }
 body.layout-desktop .options.ar-options { grid-template-columns: repeat(4, 1fr); }
-body.layout-desktop .frage { font-size: 22px; }
+body.layout-desktop .frage { font-size: 26px; margin: 26px 2px 28px; }
 
 :focus-visible { outline: 2px solid var(--primary); outline-offset: 2px; }
 @media (prefers-reduced-motion: reduce) { * { animation: none !important; transition: none !important; } }

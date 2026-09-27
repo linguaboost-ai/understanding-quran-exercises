@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" role="img" aria-label="Quran verstehen lernen">
+  <title>Quran verstehen lernen</title>
+  <rect width="32" height="32" rx="7" fill="#26247B"/>
+  <!-- Aufgeschlagenes Buch: das Lernen. Darüber der Funke: das Verstehen.
+       Die Strahlen stehen weit genug ab, damit sie auch bei 16 px nicht mit
+       dem Funken verschmelzen. -->
+  <g fill="none" stroke="#fff" stroke-width="2.3" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M16 13.6c-2-1.6-4.5-2.4-7.4-2.4v11.2c2.9 0 5.4.8 7.4 2.4 2-1.6 4.5-2.4 7.4-2.4V11.2c-2.9 0-5.4.8-7.4 2.4z"/>
+    <path d="M16 13.6v11.2"/>
+  </g>
+  <circle cx="16" cy="6.2" r="2.3" fill="#fff"/>
+  <g stroke="#fff" stroke-width="2" stroke-linecap="round">
+    <path d="M16 1.3v1.1"/>
+    <path d="M10.6 2.7l.7.9"/>
+    <path d="M21.4 2.7l-.7.9"/>
+  </g>
+</svg>

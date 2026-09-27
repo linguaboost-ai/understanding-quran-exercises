@@ -5,11 +5,17 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>Quran verstehen lernen</title>
 <meta name="theme-color" content="#E8E4F0">
+<link rel="icon" href="favicon.svg" type="image/svg+xml">
 <link rel="stylesheet" href="app/styles.css">
 <script type="module" src="app/app.js"></script>
 </head>
 <body class="layout-phone">
 <div class="layout">
+  <button id="side-toggle" class="side-toggle" data-act="sidebar" aria-label="Einstellungen und Lektionen" aria-expanded="false">
+    <svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round">
+      <path d="M4 7h16M4 12h16M4 17h16"/>
+    </svg>
+  </button>
   <aside id="sidebar" class="sidebar"></aside>
   <div class="stage">
     <div class="device">
