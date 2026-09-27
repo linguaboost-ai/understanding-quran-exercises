@@ -41,6 +41,8 @@ const AR = '؀-ۿݐ-ݿࢠ-ࣿﭐ-﷿ﹰ-﻿';
 const AR_RUN = new RegExp(`[${AR}]+(?:[\\s\\u00A0·…]+[${AR}]+)*`, 'g');
 const AR_CHAR = new RegExp(`[${AR}]`, 'g');
 const GAP = /_{3,}/g;
+// Buchstaben ohne Vokalzeichen — zum Zaehlen, woraus ein Stueck besteht.
+const AR_BUCHSTABE = /[\u0621-\u064A\u0671-\u06D3]/g;
 
 function isArabic(s) {
   const letters = (s.match(/[\p{L}\p{M}]/gu) || []).length;
@@ -62,6 +64,13 @@ function gaps(html, fill) {
     ? '<span class="gap" aria-label="Lücke"></span>'
     : `<span class="gap filled">${isArabic(fill) ? `<bdi class="ar-inline" lang="ar" dir="rtl">${esc(fill)}</bdi>` : esc(fill)}</span>`);
 }
+/* Ein Satz besteht aus mehreren Woertern. Die einzelnen Buchstaben einer
+   Wurzel — „ن ف س" — sind keiner: dort steht in jedem Stueck nur ein
+   Buchstabe. Saetze brauchen die volle Breite, zwei nebeneinander lassen
+   sich nicht vergleichen. */
+const istSatz = (s) => s.trim().split(/\s+/)
+  .filter((w) => (w.match(AR_BUCHSTABE) || []).length > 1).length > 1;
+
 // Ein Wert, der entweder ganz arabisch oder ganz deutsch ist
 function word(s) {
   return isArabic(s) ? `<bdi class="ar-word" lang="ar" dir="rtl">${esc(s)}</bdi>` : `<span class="de-word">${mixed(s)}</span>`;
@@ -488,6 +497,7 @@ function choiceHtml(item) {
   const hasGap = /_{3,}/.test(task.frage || '') || /_{3,}/.test(task.text || '');
   const fill = st.checked && hasGap && task.richtig.length === 1 ? task.richtig[0] : null;
   const arabicOpts = task.options.every(isArabic);
+  const satzOpts = arabicOpts && task.options.some(istSatz);
   const opts = st.order.map((i) => {
     const o = task.options[i];
     const right = task.richtig.includes(o);
@@ -501,7 +511,7 @@ function choiceHtml(item) {
     return `<button class="${cls}" data-opt="${i}" ${st.checked ? 'disabled' : ''} role="${item.multi ? 'checkbox' : 'radio'}" aria-checked="${sel}">
       ${box}<span class="option-text">${word(o)}</span>${mark}</button>`;
   }).join('');
-  return `${promptHtml(task, fill)}<div class="options ${arabicOpts ? 'ar-options' : ''}" role="${item.multi ? 'group' : 'radiogroup'}">${opts}</div>`;
+  return `${promptHtml(task, fill)}<div class="options ${arabicOpts ? 'ar-options' : ''}${satzOpts ? ' satz-options' : ''}" role="${item.multi ? 'group' : 'radiogroup'}">${opts}</div>`;
 }
 
 function chipHtml(text, id, { selected = false, extra = '', status = '', hint = '' } = {}) {

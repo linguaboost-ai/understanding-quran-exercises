@@ -245,6 +245,9 @@ body.layout-mobile .footer { padding-bottom: max(18px, env(safe-area-inset-botto
 
 .options { display: flex; flex-direction: column; gap: 10px; margin-top: 6px; }
 .options.ar-options { display: grid; grid-template-columns: 1fr 1fr; }
+/* Ganze Saetze stehen untereinander, jeder ueber die volle Breite. */
+.options.ar-options.satz-options { grid-template-columns: 1fr; }
+.satz-options .option { min-height: 64px; }
 .option { position: relative; display: flex; align-items: center; gap: 12px; min-height: 56px; padding: 10px 14px; border-radius: 16px; background: #fff; border: 2px solid var(--line); text-align: left; cursor: pointer; font-size: 16px; font-weight: 500; transition: border-color .12s, background .12s; }
 .ar-options .option { justify-content: center; text-align: center; min-height: 72px; }
 .option:hover:not(:disabled) { border-color: var(--lav-3); }
@@ -342,6 +345,7 @@ body.layout-desktop .topbar { padding: 24px 32px 8px; }
 body.layout-desktop .progress { padding: 6px 32px 12px; }
 body.layout-desktop .footer, body.layout-desktop .feedback { padding-left: 32px; padding-right: 32px; }
 body.layout-desktop .options.ar-options { grid-template-columns: repeat(4, 1fr); }
+body.layout-desktop .options.ar-options.satz-options { grid-template-columns: 1fr; }
 body.layout-desktop .frage { font-size: 26px; margin: 26px 2px 28px; }
 
 :focus-visible { outline: 2px solid var(--primary); outline-offset: 2px; }
