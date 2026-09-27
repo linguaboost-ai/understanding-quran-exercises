@@ -1,0 +1,2051 @@
+QURAN VERSTEHEN LERNEN — MUSTERAUFGABEN (AUZAN) FÜR DIE LEKTIONEN 1 BIS 11
+
+Aufgabe für den Schüler
+  Welches sind die drei Wurzelbuchstaben?
+
+Aufbau
+  Je Lektion ein Wortmuster, sechs Wörter zum Lesen und sechs zum Hören.
+  Die Musteraufgaben stehen ganz am Schluss einer Lektion, erst die
+  sechs schriftlichen, dann die sechs zum Hören.
+  Alle Wurzeln haben drei verschiedene starke Buchstaben.
+
+Die sechs Antwortmöglichkeiten
+  eine richtige und fünf falsche. Unter den falschen ist immer
+  – eine, die mit den ersten beiden richtigen Buchstaben beginnt
+  – eine, die nur mit dem ersten richtigen beginnt
+  – eine, die mit den beiden letzten richtigen endet
+  – eine mit einem Buchstaben, der zum Muster gehört und nicht zur Wurzel
+  – eine mit denselben Buchstaben in falscher Reihenfolge
+  Gelesen wird von rechts nach links.
+
+Audio
+  Bei AUDIO: ja wird das Wort vorgespielt und nicht angezeigt. Die Datei
+  wird einmal mit Google Text-to-Speech erzeugt und dann lokal abgelegt,
+  Pfad siehe AUDIO-DATEI. Bei jedem Aufruf wird die vorhandene Datei
+  verwendet, nichts neu erzeugt.
+
+======================================================================
+
+#### AUFGABEN LEKTION 1 | Muster فَعْل
+
+----------------------------------------------------------------------
+
+### AUZAN 1 — lesen
+
+#### AUFGABE | AUZAN 1 | فَعْل
+MUSTER: فَعْل
+FRAGE: Welches sind die drei Wurzelbuchstaben?
+TEXT: نَفۡس
+OPTION: ن ف س
+OPTION: ن ف ت
+OPTION: ن ر ك
+OPTION: ذ ف س
+OPTION: ف ن س
+OPTION: س ف ن
+RICHTIG: ن ف س
+BEGRÜNDUNG: Nur die Buchstaben zählen, nicht die Vokalzeichen.
+
+#### AUFGABE | AUZAN 1 | فَعْل
+MUSTER: فَعْل
+FRAGE: Welches sind die drei Wurzelbuchstaben?
+TEXT: فَضۡل
+OPTION: ف ض ل
+OPTION: ف ض ب
+OPTION: ف ذ ز
+OPTION: ج ض ل
+OPTION: ض ف ل
+OPTION: ل ض ف
+RICHTIG: ف ض ل
+BEGRÜNDUNG: Nur die Buchstaben zählen, nicht die Vokalzeichen.
+
+#### AUFGABE | AUZAN 1 | فَعْل
+MUSTER: فَعْل
+FRAGE: Welches sind die drei Wurzelbuchstaben?
+TEXT: خَلۡق
+OPTION: خ ل ق
+OPTION: خ ل ه
+OPTION: خ ش ف
+OPTION: د ل ق
+OPTION: ل خ ق
+OPTION: ق ل خ
+RICHTIG: خ ل ق
+BEGRÜNDUNG: Nur die Buchstaben zählen, nicht die Vokalzeichen.
+
+#### AUFGABE | AUZAN 1 | فَعْل
+MUSTER: فَعْل
+FRAGE: Welches sind die drei Wurzelbuchstaben?
+TEXT: حَمۡد
+OPTION: ح م د
+OPTION: ح م ف
+OPTION: ح ن ر
+OPTION: ك م د
+OPTION: م ح د
+OPTION: د م ح
+RICHTIG: ح م د
+BEGRÜNDUNG: Nur die Buchstaben zählen, nicht die Vokalzeichen.
+
+#### AUFGABE | AUZAN 1 | فَعْل
+MUSTER: فَعْل
+FRAGE: Welches sind die drei Wurzelbuchstaben?
+TEXT: بَحۡر
+OPTION: ب ح ر
+OPTION: ب ح ص
+OPTION: ب ش د
+OPTION: ع ح ر
+OPTION: ح ب ر
+OPTION: ر ح ب
+RICHTIG: ب ح ر
+BEGRÜNDUNG: Nur die Buchstaben zählen, nicht die Vokalzeichen.
+
+#### AUFGABE | AUZAN 1 | فَعْل
+MUSTER: فَعْل
+FRAGE: Welches sind die drei Wurzelbuchstaben?
+TEXT: عَرۡش
+OPTION: ع ر ش
+OPTION: ع ر ه
+OPTION: ع ت ز
+OPTION: ق ر ش
+OPTION: ر ع ش
+OPTION: ش ر ع
+RICHTIG: ع ر ش
+BEGRÜNDUNG: Nur die Buchstaben zählen, nicht die Vokalzeichen.
+
+### AUZAN 2 — hören
+
+#### AUFGABE | AUZAN 2 | فَعْل
+AUDIO: ja
+AUDIO-TEXT: بَعۡد
+AUDIO-DATEI: auzan/L01-1.mp3
+MUSTER: فَعْل
+FRAGE: Welches sind die drei Wurzelbuchstaben?
+TEXT: بَعۡد
+OPTION: ب ع د
+OPTION: ب ع ط
+OPTION: ب ش ح
+OPTION: ذ ع د
+OPTION: ع ب د
+OPTION: د ع ب
+RICHTIG: ب ع د
+BEGRÜNDUNG: Nur die Buchstaben zählen, nicht die Vokalzeichen.
+
+#### AUFGABE | AUZAN 2 | فَعْل
+AUDIO: ja
+AUDIO-TEXT: قَبۡل
+AUDIO-DATEI: auzan/L01-2.mp3
+MUSTER: فَعْل
+FRAGE: Welches sind die drei Wurzelbuchstaben?
+TEXT: قَبۡل
+OPTION: ق ب ل
+OPTION: ق ب ز
+OPTION: ق د ص
+OPTION: ض ب ل
+OPTION: ب ق ل
+OPTION: ل ب ق
+RICHTIG: ق ب ل
+BEGRÜNDUNG: Nur die Buchstaben zählen, nicht die Vokalzeichen.
+
+#### AUFGABE | AUZAN 2 | فَعْل
+AUDIO: ja
+AUDIO-TEXT: بَعۡض
+AUDIO-DATEI: auzan/L01-3.mp3
+MUSTER: فَعْل
+FRAGE: Welches sind die drei Wurzelbuchstaben?
+TEXT: بَعۡض
+OPTION: ب ع ض
+OPTION: ب ع ص
+OPTION: ب ر ن
+OPTION: ح ع ض
+OPTION: ع ب ض
+OPTION: ض ع ب
+RICHTIG: ب ع ض
+BEGRÜNDUNG: Nur die Buchstaben zählen, nicht die Vokalzeichen.
+
+#### AUFGABE | AUZAN 2 | فَعْل
+AUDIO: ja
+AUDIO-TEXT: سَبۡع
+AUDIO-DATEI: auzan/L01-4.mp3
+MUSTER: فَعْل
+FRAGE: Welches sind die drei Wurzelbuchstaben?
+TEXT: سَبۡع
+OPTION: س ب ع
+OPTION: س ب م
+OPTION: س ص ر
+OPTION: ض ب ع
+OPTION: ب س ع
+OPTION: ع ب س
+RICHTIG: س ب ع
+BEGRÜNDUNG: Nur die Buchstaben zählen, nicht die Vokalzeichen.
+
+#### AUFGABE | AUZAN 2 | فَعْل
+AUDIO: ja
+AUDIO-TEXT: عَهۡد
+AUDIO-DATEI: auzan/L01-5.mp3
+MUSTER: فَعْل
+FRAGE: Welches sind die drei Wurzelbuchstaben?
+TEXT: عَهۡد
+OPTION: ع ه د
+OPTION: ع ه ج
+OPTION: ع ط ض
+OPTION: س ه د
+OPTION: ه ع د
+OPTION: د ه ع
+RICHTIG: ع ه د
+BEGRÜNDUNG: Nur die Buchstaben zählen, nicht die Vokalzeichen.
+
+#### AUFGABE | AUZAN 2 | فَعْل
+AUDIO: ja
+AUDIO-TEXT: عَبۡد
+AUDIO-DATEI: auzan/L01-6.mp3
+MUSTER: فَعْل
+FRAGE: Welches sind die drei Wurzelbuchstaben?
+TEXT: عَبۡد
+OPTION: ع ب د
+OPTION: ع ب ش
+OPTION: ع ز ت
+OPTION: ج ب د
+OPTION: ب ع د
+OPTION: د ب ع
+RICHTIG: ع ب د
+BEGRÜNDUNG: Nur die Buchstaben zählen, nicht die Vokalzeichen.
+
+======================================================================
+
+#### AUFGABEN LEKTION 2 | Muster فِعْل
+
+----------------------------------------------------------------------
+
+### AUZAN 1 — lesen
+
+#### AUFGABE | AUZAN 1 | فِعْل
+MUSTER: فِعْل
+FRAGE: Welches sind die drei Wurzelbuchstaben?
+TEXT: عِلۡم
+OPTION: ع ل م
+OPTION: ع ل ح
+OPTION: ع ج س
+OPTION: ك ل م
+OPTION: ل ع م
+OPTION: م ل ع
+RICHTIG: ع ل م
+BEGRÜNDUNG: Nur die Buchstaben zählen, nicht die Vokalzeichen.
+
+#### AUFGABE | AUZAN 1 | فِعْل
+MUSTER: فِعْل
+FRAGE: Welches sind die drei Wurzelbuchstaben?
+TEXT: ذِكۡر
+OPTION: ذ ك ر
+OPTION: ذ ك س
+OPTION: ذ ش ق
+OPTION: ع ك ر
+OPTION: ك ذ ر
+OPTION: ر ك ذ
+RICHTIG: ذ ك ر
+BEGRÜNDUNG: Nur die Buchstaben zählen, nicht die Vokalzeichen.
+
+#### AUFGABE | AUZAN 1 | فِعْل
+MUSTER: فِعْل
+FRAGE: Welches sind die drei Wurzelbuchstaben?
+TEXT: مِثۡل
+OPTION: م ث ل
+OPTION: م ث د
+OPTION: م ف ض
+OPTION: ذ ث ل
+OPTION: ث م ل
+OPTION: ل ث م
+RICHTIG: م ث ل
+BEGRÜNDUNG: Nur die Buchstaben zählen, nicht die Vokalzeichen.
+
+#### AUFGABE | AUZAN 1 | فِعْل
+MUSTER: فِعْل
+FRAGE: Welches sind die drei Wurzelbuchstaben?
+TEXT: رِزۡق
+OPTION: ر ز ق
+OPTION: ر ز ب
+OPTION: ر ض س
+OPTION: ج ز ق
+OPTION: ز ر ق
+OPTION: ق ز ر
+RICHTIG: ر ز ق
+BEGRÜNDUNG: Nur die Buchstaben zählen, nicht die Vokalzeichen.
+
+#### AUFGABE | AUZAN 1 | فِعْل
+MUSTER: فِعْل
+FRAGE: Welches sind die drei Wurzelbuchstaben?
+TEXT: قِسۡط
+OPTION: ق س ط
+OPTION: ق س ن
+OPTION: ق ك ض
+OPTION: ح س ط
+OPTION: س ق ط
+OPTION: ط س ق
+RICHTIG: ق س ط
+BEGRÜNDUNG: Nur die Buchstaben zählen, nicht die Vokalzeichen.
+
+#### AUFGABE | AUZAN 1 | فِعْل
+MUSTER: فِعْل
+FRAGE: Welches sind die drei Wurzelbuchstaben?
+TEXT: سِحۡر
+OPTION: س ح ر
+OPTION: س ح ف
+OPTION: س ذ ط
+OPTION: ز ح ر
+OPTION: ح س ر
+OPTION: ر ح س
+RICHTIG: س ح ر
+BEGRÜNDUNG: Nur die Buchstaben zählen, nicht die Vokalzeichen.
+
+### AUZAN 2 — hören
+
+#### AUFGABE | AUZAN 2 | فِعْل
+AUDIO: ja
+AUDIO-TEXT: عِنۡد
+AUDIO-DATEI: auzan/L02-1.mp3
+MUSTER: فِعْل
+FRAGE: Welches sind die drei Wurzelbuchstaben?
+TEXT: عِنۡد
+OPTION: ع ن د
+OPTION: ع ن س
+OPTION: ع ض ب
+OPTION: م ن د
+OPTION: ن ع د
+OPTION: د ن ع
+RICHTIG: ع ن د
+BEGRÜNDUNG: Nur die Buchstaben zählen, nicht die Vokalzeichen.
+
+#### AUFGABE | AUZAN 2 | فِعْل
+AUDIO: ja
+AUDIO-TEXT: عِجۡل
+AUDIO-DATEI: auzan/L02-2.mp3
+MUSTER: فِعْل
+FRAGE: Welches sind die drei Wurzelbuchstaben?
+TEXT: عِجۡل
+OPTION: ع ج ل
+OPTION: ع ج ش
+OPTION: ع ر م
+OPTION: ض ج ل
+OPTION: ج ع ل
+OPTION: ل ج ع
+RICHTIG: ع ج ل
+BEGRÜNDUNG: Nur die Buchstaben zählen, nicht die Vokalzeichen.
+
+#### AUFGABE | AUZAN 2 | فِعْل
+AUDIO: ja
+AUDIO-TEXT: صِدۡق
+AUDIO-DATEI: auzan/L02-3.mp3
+MUSTER: فِعْل
+FRAGE: Welches sind die drei Wurzelbuchstaben?
+TEXT: صِدۡق
+OPTION: ص د ق
+OPTION: ص د ز
+OPTION: ص ب ف
+OPTION: س د ق
+OPTION: د ص ق
+OPTION: ق د ص
+RICHTIG: ص د ق
+BEGRÜNDUNG: Nur die Buchstaben zählen, nicht die Vokalzeichen.
+
+#### AUFGABE | AUZAN 2 | فِعْل
+AUDIO: ja
+AUDIO-TEXT: حِزۡب
+AUDIO-DATEI: auzan/L02-4.mp3
+MUSTER: فِعْل
+FRAGE: Welches sind die drei Wurzelbuchstaben?
+TEXT: حِزۡب
+OPTION: ح ز ب
+OPTION: ح ز ه
+OPTION: ح ط ل
+OPTION: ر ز ب
+OPTION: ز ح ب
+OPTION: ب ز ح
+RICHTIG: ح ز ب
+BEGRÜNDUNG: Nur die Buchstaben zählen, nicht die Vokalzeichen.
+
+#### AUFGABE | AUZAN 2 | فِعْل
+AUDIO: ja
+AUDIO-TEXT: رِجۡس
+AUDIO-DATEI: auzan/L02-5.mp3
+MUSTER: فِعْل
+FRAGE: Welches sind die drei Wurzelbuchstaben?
+TEXT: رِجۡس
+OPTION: ر ج س
+OPTION: ر ج د
+OPTION: ر ع ب
+OPTION: ذ ج س
+OPTION: ج ر س
+OPTION: س ج ر
+RICHTIG: ر ج س
+BEGRÜNDUNG: Nur die Buchstaben zählen, nicht die Vokalzeichen.
+
+#### AUFGABE | AUZAN 2 | فِعْل
+AUDIO: ja
+AUDIO-TEXT: حِجۡر
+AUDIO-DATEI: auzan/L02-6.mp3
+MUSTER: فِعْل
+FRAGE: Welches sind die drei Wurzelbuchstaben?
+TEXT: حِجۡر
+OPTION: ح ج ر
+OPTION: ح ج ن
+OPTION: ح ذ ك
+OPTION: ط ج ر
+OPTION: ج ح ر
+OPTION: ر ج ح
+RICHTIG: ح ج ر
+BEGRÜNDUNG: Nur die Buchstaben zählen, nicht die Vokalzeichen.
+
+======================================================================
+
+#### AUFGABEN LEKTION 3 | Muster فُعْل
+
+----------------------------------------------------------------------
+
+### AUZAN 1 — lesen
+
+#### AUFGABE | AUZAN 1 | فُعْل
+MUSTER: فُعْل
+FRAGE: Welches sind die drei Wurzelbuchstaben?
+TEXT: كُفۡر
+OPTION: ك ف ر
+OPTION: ك ف ط
+OPTION: ك ل ج
+OPTION: ص ف ر
+OPTION: ف ك ر
+OPTION: ر ف ك
+RICHTIG: ك ف ر
+BEGRÜNDUNG: Nur die Buchstaben zählen, nicht die Vokalzeichen.
+
+#### AUFGABE | AUZAN 1 | فُعْل
+MUSTER: فُعْل
+FRAGE: Welches sind die drei Wurzelbuchstaben?
+TEXT: ظُلۡم
+OPTION: ظ ل م
+OPTION: ظ ل ش
+OPTION: ظ ف ع
+OPTION: ك ل م
+OPTION: ل ظ م
+OPTION: م ل ظ
+RICHTIG: ظ ل م
+BEGRÜNDUNG: Nur die Buchstaben zählen, nicht die Vokalzeichen.
+
+#### AUFGABE | AUZAN 1 | فُعْل
+MUSTER: فُعْل
+FRAGE: Welches sind die drei Wurzelbuchstaben?
+TEXT: حُكۡم
+OPTION: ح ك م
+OPTION: ح ك ت
+OPTION: ح ف ع
+OPTION: ق ك م
+OPTION: ك ح م
+OPTION: م ك ح
+RICHTIG: ح ك م
+BEGRÜNDUNG: Nur die Buchstaben zählen, nicht die Vokalzeichen.
+
+#### AUFGABE | AUZAN 1 | فُعْل
+MUSTER: فُعْل
+FRAGE: Welches sind die drei Wurzelbuchstaben?
+TEXT: حُسۡن
+OPTION: ح س ن
+OPTION: ح س ذ
+OPTION: ح ط م
+OPTION: ص س ن
+OPTION: س ح ن
+OPTION: ن س ح
+RICHTIG: ح س ن
+BEGRÜNDUNG: Nur die Buchstaben zählen, nicht die Vokalzeichen.
+
+#### AUFGABE | AUZAN 1 | فُعْل
+MUSTER: فُعْل
+FRAGE: Welches sind die drei Wurzelbuchstaben?
+TEXT: جُنۡد
+OPTION: ج ن د
+OPTION: ج ن ف
+OPTION: ج ر ب
+OPTION: ع ن د
+OPTION: ن ج د
+OPTION: د ن ج
+RICHTIG: ج ن د
+BEGRÜNDUNG: Nur die Buchstaben zählen, nicht die Vokalzeichen.
+
+#### AUFGABE | AUZAN 1 | فُعْل
+MUSTER: فُعْل
+FRAGE: Welches sind die drei Wurzelbuchstaben?
+TEXT: مُلۡك
+OPTION: م ل ك
+OPTION: م ل ح
+OPTION: م ف ذ
+OPTION: ت ل ك
+OPTION: ل م ك
+OPTION: ك ل م
+RICHTIG: م ل ك
+BEGRÜNDUNG: Nur die Buchstaben zählen, nicht die Vokalzeichen.
+
+### AUZAN 2 — hören
+
+#### AUFGABE | AUZAN 2 | فُعْل
+AUDIO: ja
+AUDIO-TEXT: بُعۡد
+AUDIO-DATEI: auzan/L03-1.mp3
+MUSTER: فُعْل
+FRAGE: Welches sind die drei Wurzelbuchstaben?
+TEXT: بُعۡد
+OPTION: ب ع د
+OPTION: ب ع ص
+OPTION: ب ح م
+OPTION: ن ع د
+OPTION: ع ب د
+OPTION: د ع ب
+RICHTIG: ب ع د
+BEGRÜNDUNG: Nur die Buchstaben zählen, nicht die Vokalzeichen.
+
+#### AUFGABE | AUZAN 2 | فُعْل
+AUDIO: ja
+AUDIO-TEXT: خُلۡد
+AUDIO-DATEI: auzan/L03-2.mp3
+MUSTER: فُعْل
+FRAGE: Welches sind die drei Wurzelbuchstaben?
+TEXT: خُلۡد
+OPTION: خ ل د
+OPTION: خ ل ر
+OPTION: خ ح ك
+OPTION: س ل د
+OPTION: ل خ د
+OPTION: د ل خ
+RICHTIG: خ ل د
+BEGRÜNDUNG: Nur die Buchstaben zählen, nicht die Vokalzeichen.
+
+#### AUFGABE | AUZAN 2 | فُعْل
+AUDIO: ja
+AUDIO-TEXT: عُسۡر
+AUDIO-DATEI: auzan/L03-3.mp3
+MUSTER: فُعْل
+FRAGE: Welches sind die drei Wurzelbuchstaben?
+TEXT: عُسۡر
+OPTION: ع س ر
+OPTION: ع س ت
+OPTION: ع م ض
+OPTION: د س ر
+OPTION: س ع ر
+OPTION: ر س ع
+RICHTIG: ع س ر
+BEGRÜNDUNG: Nur die Buchstaben zählen, nicht die Vokalzeichen.
+
+#### AUFGABE | AUZAN 2 | فُعْل
+AUDIO: ja
+AUDIO-TEXT: خُضۡر
+AUDIO-DATEI: auzan/L03-4.mp3
+MUSTER: فُعْل
+FRAGE: Welches sind die drei Wurzelbuchstaben?
+TEXT: خُضۡر
+OPTION: خ ض ر
+OPTION: خ ض س
+OPTION: خ ش ط
+OPTION: د ض ر
+OPTION: ض خ ر
+OPTION: ر ض خ
+RICHTIG: خ ض ر
+BEGRÜNDUNG: Nur die Buchstaben zählen, nicht die Vokalzeichen.
+
+#### AUFGABE | AUZAN 2 | فُعْل
+AUDIO: ja
+AUDIO-TEXT: بُشۡر
+AUDIO-DATEI: auzan/L03-5.mp3
+MUSTER: فُعْل
+FRAGE: Welches sind die drei Wurzelbuchstaben?
+TEXT: بُشۡر
+OPTION: ب ش ر
+OPTION: ب ش ن
+OPTION: ب ج ض
+OPTION: ق ش ر
+OPTION: ش ب ر
+OPTION: ر ش ب
+RICHTIG: ب ش ر
+BEGRÜNDUNG: Nur die Buchstaben zählen, nicht die Vokalzeichen.
+
+#### AUFGABE | AUZAN 2 | فُعْل
+AUDIO: ja
+AUDIO-TEXT: فُلۡك
+AUDIO-DATEI: auzan/L03-6.mp3
+MUSTER: فُعْل
+FRAGE: Welches sind die drei Wurzelbuchstaben?
+TEXT: فُلۡك
+OPTION: ف ل ك
+OPTION: ف ل د
+OPTION: ف ط س
+OPTION: ن ل ك
+OPTION: ل ف ك
+OPTION: ك ل ف
+RICHTIG: ف ل ك
+BEGRÜNDUNG: Nur die Buchstaben zählen, nicht die Vokalzeichen.
+
+======================================================================
+
+#### AUFGABEN LEKTION 4 | Muster فَعَل
+
+----------------------------------------------------------------------
+
+### AUZAN 1 — lesen
+
+#### AUFGABE | AUZAN 1 | فَعَل
+MUSTER: فَعَل
+FRAGE: Welches sind die drei Wurzelbuchstaben?
+TEXT: مَثَل
+OPTION: م ث ل
+OPTION: م ث د
+OPTION: م ط ض
+OPTION: ق ث ل
+OPTION: ث م ل
+OPTION: ل ث م
+RICHTIG: م ث ل
+BEGRÜNDUNG: Nur die Buchstaben zählen, nicht die Vokalzeichen.
+
+#### AUFGABE | AUZAN 1 | فَعَل
+MUSTER: فَعَل
+FRAGE: Welches sind die drei Wurzelbuchstaben?
+TEXT: بَشَر
+OPTION: ب ش ر
+OPTION: ب ش ن
+OPTION: ب ك م
+OPTION: ط ش ر
+OPTION: ش ب ر
+OPTION: ر ش ب
+RICHTIG: ب ش ر
+BEGRÜNDUNG: Nur die Buchstaben zählen, nicht die Vokalzeichen.
+
+#### AUFGABE | AUZAN 1 | فَعَل
+MUSTER: فَعَل
+FRAGE: Welches sind die drei Wurzelbuchstaben?
+TEXT: قَمَر
+OPTION: ق م ر
+OPTION: ق م ك
+OPTION: ق ب ن
+OPTION: ع م ر
+OPTION: م ق ر
+OPTION: ر م ق
+RICHTIG: ق م ر
+BEGRÜNDUNG: Nur die Buchstaben zählen, nicht die Vokalzeichen.
+
+#### AUFGABE | AUZAN 1 | فَعَل
+MUSTER: فَعَل
+FRAGE: Welches sind die drei Wurzelbuchstaben?
+TEXT: عَمَل
+OPTION: ع م ل
+OPTION: ع م ن
+OPTION: ع ح د
+OPTION: ض م ل
+OPTION: م ع ل
+OPTION: ل م ع
+RICHTIG: ع م ل
+BEGRÜNDUNG: Nur die Buchstaben zählen, nicht die Vokalzeichen.
+
+#### AUFGABE | AUZAN 1 | فَعَل
+MUSTER: فَعَل
+FRAGE: Welches sind die drei Wurzelbuchstaben?
+TEXT: حَرَج
+OPTION: ح ر ج
+OPTION: ح ر ز
+OPTION: ح س ط
+OPTION: م ر ج
+OPTION: ر ح ج
+OPTION: ج ر ح
+RICHTIG: ح ر ج
+BEGRÜNDUNG: Nur die Buchstaben zählen, nicht die Vokalzeichen.
+
+#### AUFGABE | AUZAN 1 | فَعَل
+MUSTER: فَعَل
+FRAGE: Welches sind die drei Wurzelbuchstaben?
+TEXT: مَرَض
+OPTION: م ر ض
+OPTION: م ر د
+OPTION: م ه ش
+OPTION: ذ ر ض
+OPTION: ر م ض
+OPTION: ض ر م
+RICHTIG: م ر ض
+BEGRÜNDUNG: Nur die Buchstaben zählen, nicht die Vokalzeichen.
+
+### AUZAN 2 — hören
+
+#### AUFGABE | AUZAN 2 | فَعَل
+AUDIO: ja
+AUDIO-TEXT: ذَهَب
+AUDIO-DATEI: auzan/L04-1.mp3
+MUSTER: فَعَل
+FRAGE: Welches sind die drei Wurzelbuchstaben?
+TEXT: ذَهَب
+OPTION: ذ ه ب
+OPTION: ذ ه ك
+OPTION: ذ ق ن
+OPTION: ف ه ب
+OPTION: ه ذ ب
+OPTION: ب ه ذ
+RICHTIG: ذ ه ب
+BEGRÜNDUNG: Nur die Buchstaben zählen, nicht die Vokalzeichen.
+
+#### AUFGABE | AUZAN 2 | فَعَل
+AUDIO: ja
+AUDIO-TEXT: غَضَب
+AUDIO-DATEI: auzan/L04-2.mp3
+MUSTER: فَعَل
+FRAGE: Welches sind die drei Wurzelbuchstaben?
+TEXT: غَضَب
+OPTION: غ ض ب
+OPTION: غ ض ج
+OPTION: غ ر ه
+OPTION: د ض ب
+OPTION: ض غ ب
+OPTION: ب ض غ
+RICHTIG: غ ض ب
+BEGRÜNDUNG: Nur die Buchstaben zählen, nicht die Vokalzeichen.
+
+#### AUFGABE | AUZAN 2 | فَعَل
+AUDIO: ja
+AUDIO-TEXT: بَلَد
+AUDIO-DATEI: auzan/L04-3.mp3
+MUSTER: فَعَل
+FRAGE: Welches sind die drei Wurzelbuchstaben?
+TEXT: بَلَد
+OPTION: ب ل د
+OPTION: ب ل م
+OPTION: ب ت ع
+OPTION: ص ل د
+OPTION: ل ب د
+OPTION: د ل ب
+RICHTIG: ب ل د
+BEGRÜNDUNG: Nur die Buchstaben zählen, nicht die Vokalzeichen.
+
+#### AUFGABE | AUZAN 2 | فَعَل
+AUDIO: ja
+AUDIO-TEXT: ضَرَب
+AUDIO-DATEI: auzan/L04-4.mp3
+MUSTER: فَعَل
+FRAGE: Welches sind die drei Wurzelbuchstaben?
+TEXT: ضَرَب
+OPTION: ض ر ب
+OPTION: ض ر ط
+OPTION: ض ل ف
+OPTION: ن ر ب
+OPTION: ر ض ب
+OPTION: ب ر ض
+RICHTIG: ض ر ب
+BEGRÜNDUNG: Nur die Buchstaben zählen, nicht die Vokalzeichen.
+
+#### AUFGABE | AUZAN 2 | فَعَل
+AUDIO: ja
+AUDIO-TEXT: جَعَل
+AUDIO-DATEI: auzan/L04-5.mp3
+MUSTER: فَعَل
+FRAGE: Welches sind die drei Wurzelbuchstaben?
+TEXT: جَعَل
+OPTION: ج ع ل
+OPTION: ج ع م
+OPTION: ج ق ز
+OPTION: ب ع ل
+OPTION: ع ج ل
+OPTION: ل ع ج
+RICHTIG: ج ع ل
+BEGRÜNDUNG: Nur die Buchstaben zählen, nicht die Vokalzeichen.
+
+#### AUFGABE | AUZAN 2 | فَعَل
+AUDIO: ja
+AUDIO-TEXT: خَلَق
+AUDIO-DATEI: auzan/L04-6.mp3
+MUSTER: فَعَل
+FRAGE: Welches sind die drei Wurzelbuchstaben?
+TEXT: خَلَق
+OPTION: خ ل ق
+OPTION: خ ل ح
+OPTION: خ س ط
+OPTION: ع ل ق
+OPTION: ل خ ق
+OPTION: ق ل خ
+RICHTIG: خ ل ق
+BEGRÜNDUNG: Nur die Buchstaben zählen, nicht die Vokalzeichen.
+
+======================================================================
+
+#### AUFGABEN LEKTION 5 | Muster فَعِيل
+
+----------------------------------------------------------------------
+
+### AUZAN 1 — lesen
+
+#### AUFGABE | AUZAN 1 | فَعِيل
+MUSTER: فَعِيل
+FRAGE: Welches sind die drei Wurzelbuchstaben?
+TEXT: عَلِيم
+OPTION: ع ل م
+OPTION: ع ل ط
+OPTION: ع ت س
+OPTION: ش ل م
+OPTION: ع ل ي
+OPTION: ع م ل
+RICHTIG: ع ل م
+BEGRÜNDUNG: Der lange Vokal gehört zum Muster.
+
+#### AUFGABE | AUZAN 1 | فَعِيل
+MUSTER: فَعِيل
+FRAGE: Welches sind die drei Wurzelbuchstaben?
+TEXT: عَظِيم
+OPTION: ع ظ م
+OPTION: ع ظ ت
+OPTION: ع س د
+OPTION: ض ظ م
+OPTION: ع ظ ي
+OPTION: ع م ظ
+RICHTIG: ع ظ م
+BEGRÜNDUNG: Der lange Vokal gehört zum Muster.
+
+#### AUFGABE | AUZAN 1 | فَعِيل
+MUSTER: فَعِيل
+FRAGE: Welches sind die drei Wurzelbuchstaben?
+TEXT: حَكِيم
+OPTION: ح ك م
+OPTION: ح ك ط
+OPTION: ح ع ذ
+OPTION: ب ك م
+OPTION: ح ك ي
+OPTION: ح م ك
+RICHTIG: ح ك م
+BEGRÜNDUNG: Der lange Vokal gehört zum Muster.
+
+#### AUFGABE | AUZAN 1 | فَعِيل
+MUSTER: فَعِيل
+FRAGE: Welches sind die drei Wurzelbuchstaben?
+TEXT: رَحِيم
+OPTION: ر ح م
+OPTION: ر ح ص
+OPTION: ر ذ ك
+OPTION: س ح م
+OPTION: ر ح ي
+OPTION: ر م ح
+RICHTIG: ر ح م
+BEGRÜNDUNG: Der lange Vokal gehört zum Muster.
+
+#### AUFGABE | AUZAN 1 | فَعِيل
+MUSTER: فَعِيل
+FRAGE: Welches sind die drei Wurzelbuchstaben?
+TEXT: كَثِير
+OPTION: ك ث ر
+OPTION: ك ث م
+OPTION: ك س ذ
+OPTION: ق ث ر
+OPTION: ك ث ي
+OPTION: ك ر ث
+RICHTIG: ك ث ر
+BEGRÜNDUNG: Der lange Vokal gehört zum Muster.
+
+#### AUFGABE | AUZAN 1 | فَعِيل
+MUSTER: فَعِيل
+FRAGE: Welches sind die drei Wurzelbuchstaben?
+TEXT: بَصِير
+OPTION: ب ص ر
+OPTION: ب ص ق
+OPTION: ب ج ل
+OPTION: ف ص ر
+OPTION: ب ص ي
+OPTION: ب ر ص
+RICHTIG: ب ص ر
+BEGRÜNDUNG: Der lange Vokal gehört zum Muster.
+
+### AUZAN 2 — hören
+
+#### AUFGABE | AUZAN 2 | فَعِيل
+AUDIO: ja
+AUDIO-TEXT: سَبِيل
+AUDIO-DATEI: auzan/L05-1.mp3
+MUSTER: فَعِيل
+FRAGE: Welches sind die drei Wurzelbuchstaben?
+TEXT: سَبِيل
+OPTION: س ب ل
+OPTION: س ب ه
+OPTION: س ق ض
+OPTION: ذ ب ل
+OPTION: س ب ي
+OPTION: س ل ب
+RICHTIG: س ب ل
+BEGRÜNDUNG: Der lange Vokal gehört zum Muster.
+
+#### AUFGABE | AUZAN 2 | فَعِيل
+AUDIO: ja
+AUDIO-TEXT: قَدِير
+AUDIO-DATEI: auzan/L05-2.mp3
+MUSTER: فَعِيل
+FRAGE: Welches sind die drei Wurzelbuchstaben?
+TEXT: قَدِير
+OPTION: ق د ر
+OPTION: ق د م
+OPTION: ق ه س
+OPTION: ل د ر
+OPTION: ق د ي
+OPTION: ق ر د
+RICHTIG: ق د ر
+BEGRÜNDUNG: Der lange Vokal gehört zum Muster.
+
+#### AUFGABE | AUZAN 2 | فَعِيل
+AUDIO: ja
+AUDIO-TEXT: خَبِير
+AUDIO-DATEI: auzan/L05-3.mp3
+MUSTER: فَعِيل
+FRAGE: Welches sind die drei Wurzelbuchstaben?
+TEXT: خَبِير
+OPTION: خ ب ر
+OPTION: خ ب ف
+OPTION: خ د ط
+OPTION: ك ب ر
+OPTION: خ ب ي
+OPTION: خ ر ب
+RICHTIG: خ ب ر
+BEGRÜNDUNG: Der lange Vokal gehört zum Muster.
+
+#### AUFGABE | AUZAN 2 | فَعِيل
+AUDIO: ja
+AUDIO-TEXT: نَذِير
+AUDIO-DATEI: auzan/L05-4.mp3
+MUSTER: فَعِيل
+FRAGE: Welches sind die drei Wurzelbuchstaben?
+TEXT: نَذِير
+OPTION: ن ذ ر
+OPTION: ن ذ ح
+OPTION: ن ق ه
+OPTION: ب ذ ر
+OPTION: ن ذ ي
+OPTION: ن ر ذ
+RICHTIG: ن ذ ر
+BEGRÜNDUNG: Der lange Vokal gehört zum Muster.
+
+#### AUFGABE | AUZAN 2 | فَعِيل
+AUDIO: ja
+AUDIO-TEXT: كَبِير
+AUDIO-DATEI: auzan/L05-5.mp3
+MUSTER: فَعِيل
+FRAGE: Welches sind die drei Wurzelbuchstaben?
+TEXT: كَبِير
+OPTION: ك ب ر
+OPTION: ك ب ح
+OPTION: ك ت د
+OPTION: ه ب ر
+OPTION: ك ب ي
+OPTION: ك ر ب
+RICHTIG: ك ب ر
+BEGRÜNDUNG: Der lange Vokal gehört zum Muster.
+
+#### AUFGABE | AUZAN 2 | فَعِيل
+AUDIO: ja
+AUDIO-TEXT: شَهِيد
+AUDIO-DATEI: auzan/L05-6.mp3
+MUSTER: فَعِيل
+FRAGE: Welches sind die drei Wurzelbuchstaben?
+TEXT: شَهِيد
+OPTION: ش ه د
+OPTION: ش ه ر
+OPTION: ش س ص
+OPTION: ح ه د
+OPTION: ش ه ي
+OPTION: ش د ه
+RICHTIG: ش ه د
+BEGRÜNDUNG: Der lange Vokal gehört zum Muster.
+
+======================================================================
+
+#### AUFGABEN LEKTION 6 | Muster فَاعِل
+
+----------------------------------------------------------------------
+
+### AUZAN 1 — lesen
+
+#### AUFGABE | AUZAN 1 | فَاعِل
+MUSTER: فَاعِل
+FRAGE: Welches sind die drei Wurzelbuchstaben?
+TEXT: ٱلصَّالِح
+OPTION: ص ل ح
+OPTION: ص ل ط
+OPTION: ص ق م
+OPTION: ب ل ح
+OPTION: ص ا ل
+OPTION: ص ح ل
+RICHTIG: ص ل ح
+BEGRÜNDUNG: Die Vorsilbe gehört nicht zur Wurzel. Das Alif gehört zum Muster.
+
+#### AUFGABE | AUZAN 1 | فَاعِل
+MUSTER: فَاعِل
+FRAGE: Welches sind die drei Wurzelbuchstaben?
+TEXT: بَاطِل
+OPTION: ب ط ل
+OPTION: ب ط م
+OPTION: ب ج ض
+OPTION: ز ط ل
+OPTION: ب ا ط
+OPTION: ب ل ط
+RICHTIG: ب ط ل
+BEGRÜNDUNG: Das Alif gehört zum Muster.
+
+#### AUFGABE | AUZAN 1 | فَاعِل
+MUSTER: فَاعِل
+FRAGE: Welches sind die drei Wurzelbuchstaben?
+TEXT: ٱلۡعَالِم
+OPTION: ع ل م
+OPTION: ع ل ه
+OPTION: ع ن ط
+OPTION: ز ل م
+OPTION: ع ا ل
+OPTION: ع م ل
+RICHTIG: ع ل م
+BEGRÜNDUNG: Die Vorsilbe gehört nicht zur Wurzel. Das Alif gehört zum Muster.
+
+#### AUFGABE | AUZAN 1 | فَاعِل
+MUSTER: فَاعِل
+FRAGE: Welches sind die drei Wurzelbuchstaben?
+TEXT: خَالِق
+OPTION: خ ل ق
+OPTION: خ ل ج
+OPTION: خ ك ر
+OPTION: ش ل ق
+OPTION: خ ا ل
+OPTION: خ ق ل
+RICHTIG: خ ل ق
+BEGRÜNDUNG: Das Alif gehört zum Muster.
+
+#### AUFGABE | AUZAN 1 | فَاعِل
+MUSTER: فَاعِل
+FRAGE: Welches sind die drei Wurzelbuchstaben?
+TEXT: ٱلشَّاهِد
+OPTION: ش ه د
+OPTION: ش ه ص
+OPTION: ش ف ت
+OPTION: ط ه د
+OPTION: ش ا ه
+OPTION: ش د ه
+RICHTIG: ش ه د
+BEGRÜNDUNG: Die Vorsilbe gehört nicht zur Wurzel. Das Alif gehört zum Muster.
+
+#### AUFGABE | AUZAN 1 | فَاعِل
+MUSTER: فَاعِل
+FRAGE: Welches sind die drei Wurzelbuchstaben?
+TEXT: كَافِر
+OPTION: ك ف ر
+OPTION: ك ف ش
+OPTION: ك ب ل
+OPTION: ز ف ر
+OPTION: ك ا ف
+OPTION: ك ر ف
+RICHTIG: ك ف ر
+BEGRÜNDUNG: Das Alif gehört zum Muster.
+
+### AUZAN 2 — hören
+
+#### AUFGABE | AUZAN 2 | فَاعِل
+AUDIO: ja
+AUDIO-TEXT: ٱلۡغَافِل
+AUDIO-DATEI: auzan/L06-1.mp3
+MUSTER: فَاعِل
+FRAGE: Welches sind die drei Wurzelbuchstaben?
+TEXT: ٱلۡغَافِل
+OPTION: غ ف ل
+OPTION: غ ف ط
+OPTION: غ ح ع
+OPTION: ق ف ل
+OPTION: غ ا ف
+OPTION: غ ل ف
+RICHTIG: غ ف ل
+BEGRÜNDUNG: Die Vorsilbe gehört nicht zur Wurzel. Das Alif gehört zum Muster.
+
+#### AUFGABE | AUZAN 2 | فَاعِل
+AUDIO: ja
+AUDIO-TEXT: سَاحِر
+AUDIO-DATEI: auzan/L06-2.mp3
+MUSTER: فَاعِل
+FRAGE: Welches sind die drei Wurzelbuchstaben?
+TEXT: سَاحِر
+OPTION: س ح ر
+OPTION: س ح ص
+OPTION: س ط د
+OPTION: ذ ح ر
+OPTION: س ا ح
+OPTION: س ر ح
+RICHTIG: س ح ر
+BEGRÜNDUNG: Das Alif gehört zum Muster.
+
+#### AUFGABE | AUZAN 2 | فَاعِل
+AUDIO: ja
+AUDIO-TEXT: ٱلۡفَاطِر
+AUDIO-DATEI: auzan/L06-3.mp3
+MUSTER: فَاعِل
+FRAGE: Welches sind die drei Wurzelbuchstaben?
+TEXT: ٱلۡفَاطِر
+OPTION: ف ط ر
+OPTION: ف ط ع
+OPTION: ف ل ض
+OPTION: ح ط ر
+OPTION: ف ا ط
+OPTION: ف ر ط
+RICHTIG: ف ط ر
+BEGRÜNDUNG: Die Vorsilbe gehört nicht zur Wurzel. Das Alif gehört zum Muster.
+
+#### AUFGABE | AUZAN 2 | فَاعِل
+AUDIO: ja
+AUDIO-TEXT: قَادِر
+AUDIO-DATEI: auzan/L06-4.mp3
+MUSTER: فَاعِل
+FRAGE: Welches sind die drei Wurzelbuchstaben?
+TEXT: قَادِر
+OPTION: ق د ر
+OPTION: ق د ص
+OPTION: ق ن ه
+OPTION: ب د ر
+OPTION: ق ا د
+OPTION: ق ر د
+RICHTIG: ق د ر
+BEGRÜNDUNG: Das Alif gehört zum Muster.
+
+#### AUFGABE | AUZAN 2 | فَاعِل
+AUDIO: ja
+AUDIO-TEXT: ٱلشَّاكِر
+AUDIO-DATEI: auzan/L06-5.mp3
+MUSTER: فَاعِل
+FRAGE: Welches sind die drei Wurzelbuchstaben?
+TEXT: ٱلشَّاكِر
+OPTION: ش ك ر
+OPTION: ش ك ت
+OPTION: ش ط ف
+OPTION: س ك ر
+OPTION: ش ا ك
+OPTION: ش ر ك
+RICHTIG: ش ك ر
+BEGRÜNDUNG: Die Vorsilbe gehört nicht zur Wurzel. Das Alif gehört zum Muster.
+
+#### AUFGABE | AUZAN 2 | فَاعِل
+AUDIO: ja
+AUDIO-TEXT: كَاتِب
+AUDIO-DATEI: auzan/L06-6.mp3
+MUSTER: فَاعِل
+FRAGE: Welches sind die drei Wurzelbuchstaben?
+TEXT: كَاتِب
+OPTION: ك ت ب
+OPTION: ك ت د
+OPTION: ك ط ه
+OPTION: ن ت ب
+OPTION: ك ا ت
+OPTION: ك ب ت
+RICHTIG: ك ت ب
+BEGRÜNDUNG: Das Alif gehört zum Muster.
+
+======================================================================
+
+#### AUFGABEN LEKTION 7 | Muster مَفْعُول
+
+----------------------------------------------------------------------
+
+### AUZAN 1 — lesen
+
+#### AUFGABE | AUZAN 1 | مَفْعُول
+MUSTER: مَفْعُول
+FRAGE: Welches sind die drei Wurzelbuchstaben?
+TEXT: ٱلۡمَعۡرُوف
+OPTION: ع ر ف
+OPTION: ع ر ح
+OPTION: ع ك م
+OPTION: ذ ر ف
+OPTION: م ع ر
+OPTION: ع ف ر
+RICHTIG: ع ر ف
+BEGRÜNDUNG: Die Vorsilbe gehört nicht zur Wurzel. Das Mîm am Anfang und das lange û gehören zum Muster.
+
+#### AUFGABE | AUZAN 1 | مَفْعُول
+MUSTER: مَفْعُول
+FRAGE: Welches sind die drei Wurzelbuchstaben?
+TEXT: مَعۡلُوم
+OPTION: ع ل م
+OPTION: ع ل ج
+OPTION: ع ه ح
+OPTION: ط ل م
+OPTION: م ع ل
+OPTION: ع م ل
+RICHTIG: ع ل م
+BEGRÜNDUNG: Das Mîm am Anfang und das lange û gehören zum Muster.
+
+#### AUFGABE | AUZAN 1 | مَفْعُول
+MUSTER: مَفْعُول
+FRAGE: Welches sind die drei Wurzelbuchstaben?
+TEXT: ٱلۡمَشۡهُود
+OPTION: ش ه د
+OPTION: ش ه ف
+OPTION: ش ل ع
+OPTION: ب ه د
+OPTION: م ش ه
+OPTION: ش د ه
+RICHTIG: ش ه د
+BEGRÜNDUNG: Die Vorsilbe gehört nicht zur Wurzel. Das Mîm am Anfang und das lange û gehören zum Muster.
+
+#### AUFGABE | AUZAN 1 | مَفْعُول
+MUSTER: مَفْعُول
+FRAGE: Welches sind die drei Wurzelbuchstaben?
+TEXT: مَسۡطُور
+OPTION: س ط ر
+OPTION: س ط ش
+OPTION: س ع ص
+OPTION: ف ط ر
+OPTION: م س ط
+OPTION: س ر ط
+RICHTIG: س ط ر
+BEGRÜNDUNG: Das Mîm am Anfang und das lange û gehören zum Muster.
+
+#### AUFGABE | AUZAN 1 | مَفْعُول
+MUSTER: مَفْعُول
+FRAGE: Welches sind die drei Wurzelbuchstaben?
+TEXT: ٱلۡمَحۡفُوظ
+OPTION: ح ف ظ
+OPTION: ح ف ك
+OPTION: ح م ط
+OPTION: د ف ظ
+OPTION: م ح ف
+OPTION: ح ظ ف
+RICHTIG: ح ف ظ
+BEGRÜNDUNG: Die Vorsilbe gehört nicht zur Wurzel. Das Mîm am Anfang und das lange û gehören zum Muster.
+
+#### AUFGABE | AUZAN 1 | مَفْعُول
+MUSTER: مَفْعُول
+FRAGE: Welches sind die drei Wurzelbuchstaben?
+TEXT: مَنۡشُور
+OPTION: ن ش ر
+OPTION: ن ش ط
+OPTION: ن ل ب
+OPTION: ع ش ر
+OPTION: م ن ش
+OPTION: ن ر ش
+RICHTIG: ن ش ر
+BEGRÜNDUNG: Das Mîm am Anfang und das lange û gehören zum Muster.
+
+### AUZAN 2 — hören
+
+#### AUFGABE | AUZAN 2 | مَفْعُول
+AUDIO: ja
+AUDIO-TEXT: ٱلۡمَسۡحُور
+AUDIO-DATEI: auzan/L07-1.mp3
+MUSTER: مَفْعُول
+FRAGE: Welches sind die drei Wurzelbuchstaben?
+TEXT: ٱلۡمَسۡحُور
+OPTION: س ح ر
+OPTION: س ح ه
+OPTION: س ز ص
+OPTION: ج ح ر
+OPTION: م س ح
+OPTION: س ر ح
+RICHTIG: س ح ر
+BEGRÜNDUNG: Die Vorsilbe gehört nicht zur Wurzel. Das Mîm am Anfang und das lange û gehören zum Muster.
+
+#### AUFGABE | AUZAN 2 | مَفْعُول
+AUDIO: ja
+AUDIO-TEXT: مَشۡحُون
+AUDIO-DATEI: auzan/L07-2.mp3
+MUSTER: مَفْعُول
+FRAGE: Welches sind die drei Wurzelbuchstaben?
+TEXT: مَشۡحُون
+OPTION: ش ح ن
+OPTION: ش ح ط
+OPTION: ش ك ل
+OPTION: م ح ن
+OPTION: م ش ح
+OPTION: ش ن ح
+RICHTIG: ش ح ن
+BEGRÜNDUNG: Das Mîm am Anfang und das lange û gehören zum Muster.
+
+#### AUFGABE | AUZAN 2 | مَفْعُول
+AUDIO: ja
+AUDIO-TEXT: ٱلۡمَفۡرُوض
+AUDIO-DATEI: auzan/L07-3.mp3
+MUSTER: مَفْعُول
+FRAGE: Welches sind die drei Wurzelbuchstaben?
+TEXT: ٱلۡمَفۡرُوض
+OPTION: ف ر ض
+OPTION: ف ر ش
+OPTION: ف ص ط
+OPTION: ب ر ض
+OPTION: م ف ر
+OPTION: ف ض ر
+RICHTIG: ف ر ض
+BEGRÜNDUNG: Die Vorsilbe gehört nicht zur Wurzel. Das Mîm am Anfang und das lange û gehören zum Muster.
+
+#### AUFGABE | AUZAN 2 | مَفْعُول
+AUDIO: ja
+AUDIO-TEXT: مَشۡكُور
+AUDIO-DATEI: auzan/L07-4.mp3
+MUSTER: مَفْعُول
+FRAGE: Welches sind die drei Wurzelbuchstaben?
+TEXT: مَشۡكُور
+OPTION: ش ك ر
+OPTION: ش ك ه
+OPTION: ش ذ ع
+OPTION: ن ك ر
+OPTION: م ش ك
+OPTION: ش ر ك
+RICHTIG: ش ك ر
+BEGRÜNDUNG: Das Mîm am Anfang und das lange û gehören zum Muster.
+
+#### AUFGABE | AUZAN 2 | مَفْعُول
+AUDIO: ja
+AUDIO-TEXT: ٱلۡمَحۡجُور
+AUDIO-DATEI: auzan/L07-5.mp3
+MUSTER: مَفْعُول
+FRAGE: Welches sind die drei Wurzelbuchstaben?
+TEXT: ٱلۡمَحۡجُور
+OPTION: ح ج ر
+OPTION: ح ج ك
+OPTION: ح ت ل
+OPTION: م ج ر
+OPTION: م ح ج
+OPTION: ح ر ج
+RICHTIG: ح ج ر
+BEGRÜNDUNG: Die Vorsilbe gehört nicht zur Wurzel. Das Mîm am Anfang und das lange û gehören zum Muster.
+
+#### AUFGABE | AUZAN 2 | مَفْعُول
+AUDIO: ja
+AUDIO-TEXT: مَكۡتُوب
+AUDIO-DATEI: auzan/L07-6.mp3
+MUSTER: مَفْعُول
+FRAGE: Welches sind die drei Wurzelbuchstaben?
+TEXT: مَكۡتُوب
+OPTION: ك ت ب
+OPTION: ك ت ج
+OPTION: ك د ف
+OPTION: ص ت ب
+OPTION: م ك ت
+OPTION: ك ب ت
+RICHTIG: ك ت ب
+BEGRÜNDUNG: Das Mîm am Anfang und das lange û gehören zum Muster.
+
+======================================================================
+
+#### AUFGABEN LEKTION 8 | Muster فِعَال
+
+----------------------------------------------------------------------
+
+### AUZAN 1 — lesen
+
+#### AUFGABE | AUZAN 1 | فِعَال
+MUSTER: فِعَال
+FRAGE: Welches sind die drei Wurzelbuchstaben?
+TEXT: ٱلۡكِتَاب
+OPTION: ك ت ب
+OPTION: ك ت م
+OPTION: ك ذ د
+OPTION: س ت ب
+OPTION: ك ا ت
+OPTION: ك ب ت
+RICHTIG: ك ت ب
+BEGRÜNDUNG: Die Vorsilbe gehört nicht zur Wurzel. Das Alif gehört zum Muster.
+
+#### AUFGABE | AUZAN 1 | فِعَال
+MUSTER: فِعَال
+FRAGE: Welches sind die drei Wurzelbuchstaben?
+TEXT: صِرَاط
+OPTION: ص ر ط
+OPTION: ص ر ت
+OPTION: ص س د
+OPTION: م ر ط
+OPTION: ص ا ر
+OPTION: ص ط ر
+RICHTIG: ص ر ط
+BEGRÜNDUNG: Das Alif gehört zum Muster.
+
+#### AUFGABE | AUZAN 1 | فِعَال
+MUSTER: فِعَال
+FRAGE: Welches sind die drei Wurzelbuchstaben?
+TEXT: ٱلۡحِسَاب
+OPTION: ح س ب
+OPTION: ح س ج
+OPTION: ح ف ط
+OPTION: ع س ب
+OPTION: ح ا س
+OPTION: ح ب س
+RICHTIG: ح س ب
+BEGRÜNDUNG: Die Vorsilbe gehört nicht zur Wurzel. Das Alif gehört zum Muster.
+
+#### AUFGABE | AUZAN 1 | فِعَال
+MUSTER: فِعَال
+FRAGE: Welches sind die drei Wurzelbuchstaben?
+TEXT: عِبَاد
+OPTION: ع ب د
+OPTION: ع ب ط
+OPTION: ع ر ح
+OPTION: ص ب د
+OPTION: ع ا ب
+OPTION: ع د ب
+RICHTIG: ع ب د
+BEGRÜNDUNG: Das Alif gehört zum Muster.
+
+#### AUFGABE | AUZAN 1 | فِعَال
+MUSTER: فِعَال
+FRAGE: Welches sind die drei Wurzelbuchstaben?
+TEXT: ٱلۡعِقَاب
+OPTION: ع ق ب
+OPTION: ع ق س
+OPTION: ع ج ك
+OPTION: ت ق ب
+OPTION: ع ا ق
+OPTION: ع ب ق
+RICHTIG: ع ق ب
+BEGRÜNDUNG: Die Vorsilbe gehört nicht zur Wurzel. Das Alif gehört zum Muster.
+
+#### AUFGABE | AUZAN 1 | فِعَال
+MUSTER: فِعَال
+FRAGE: Welches sind die drei Wurzelbuchstaben?
+TEXT: رِجَال
+OPTION: ر ج ل
+OPTION: ر ج ص
+OPTION: ر ق ذ
+OPTION: ش ج ل
+OPTION: ر ا ج
+OPTION: ر ل ج
+RICHTIG: ر ج ل
+BEGRÜNDUNG: Das Alif gehört zum Muster.
+
+### AUZAN 2 — hören
+
+#### AUFGABE | AUZAN 2 | فِعَال
+AUDIO: ja
+AUDIO-TEXT: ٱلۡجِبَال
+AUDIO-DATEI: auzan/L08-1.mp3
+MUSTER: فِعَال
+FRAGE: Welches sind die drei Wurzelbuchstaben?
+TEXT: ٱلۡجِبَال
+OPTION: ج ب ل
+OPTION: ج ب ك
+OPTION: ج ه ن
+OPTION: م ب ل
+OPTION: ج ا ب
+OPTION: ج ل ب
+RICHTIG: ج ب ل
+BEGRÜNDUNG: Die Vorsilbe gehört nicht zur Wurzel. Das Alif gehört zum Muster.
+
+#### AUFGABE | AUZAN 2 | فِعَال
+AUDIO: ja
+AUDIO-TEXT: قِتَال
+AUDIO-DATEI: auzan/L08-2.mp3
+MUSTER: فِعَال
+FRAGE: Welches sind die drei Wurzelbuchstaben?
+TEXT: قِتَال
+OPTION: ق ت ل
+OPTION: ق ت ف
+OPTION: ق م ه
+OPTION: ك ت ل
+OPTION: ق ا ت
+OPTION: ق ل ت
+RICHTIG: ق ت ل
+BEGRÜNDUNG: Das Alif gehört zum Muster.
+
+#### AUFGABE | AUZAN 2 | فِعَال
+AUDIO: ja
+AUDIO-TEXT: ٱلۡعِظَام
+AUDIO-DATEI: auzan/L08-3.mp3
+MUSTER: فِعَال
+FRAGE: Welches sind die drei Wurzelbuchstaben?
+TEXT: ٱلۡعِظَام
+OPTION: ع ظ م
+OPTION: ع ظ ه
+OPTION: ع ك ص
+OPTION: ط ظ م
+OPTION: ع ا ظ
+OPTION: ع م ظ
+RICHTIG: ع ظ م
+BEGRÜNDUNG: Die Vorsilbe gehört nicht zur Wurzel. Das Alif gehört zum Muster.
+
+#### AUFGABE | AUZAN 2 | فِعَال
+AUDIO: ja
+AUDIO-TEXT: لِبَاس
+AUDIO-DATEI: auzan/L08-4.mp3
+MUSTER: فِعَال
+FRAGE: Welches sind die drei Wurzelbuchstaben?
+TEXT: لِبَاس
+OPTION: ل ب س
+OPTION: ل ب ك
+OPTION: ل ز ت
+OPTION: ر ب س
+OPTION: ل ا ب
+OPTION: ل س ب
+RICHTIG: ل ب س
+BEGRÜNDUNG: Das Alif gehört zum Muster.
+
+#### AUFGABE | AUZAN 2 | فِعَال
+AUDIO: ja
+AUDIO-TEXT: ٱللِّسَان
+AUDIO-DATEI: auzan/L08-5.mp3
+MUSTER: فِعَال
+FRAGE: Welches sind die drei Wurzelbuchstaben?
+TEXT: ٱللِّسَان
+OPTION: ل س ن
+OPTION: ل س ش
+OPTION: ل ز م
+OPTION: ه س ن
+OPTION: ل ا س
+OPTION: ل ن س
+RICHTIG: ل س ن
+BEGRÜNDUNG: Die Vorsilbe gehört nicht zur Wurzel. Das Alif gehört zum Muster.
+
+#### AUFGABE | AUZAN 2 | فِعَال
+AUDIO: ja
+AUDIO-TEXT: حِجَاب
+AUDIO-DATEI: auzan/L08-6.mp3
+MUSTER: فِعَال
+FRAGE: Welches sind die drei Wurzelbuchstaben?
+TEXT: حِجَاب
+OPTION: ح ج ب
+OPTION: ح ج ش
+OPTION: ح ل ت
+OPTION: ض ج ب
+OPTION: ح ا ج
+OPTION: ح ب ج
+RICHTIG: ح ج ب
+BEGRÜNDUNG: Das Alif gehört zum Muster.
+
+======================================================================
+
+#### AUFGABEN LEKTION 9 | Muster فَعُول
+
+----------------------------------------------------------------------
+
+### AUZAN 1 — lesen
+
+#### AUFGABE | AUZAN 1 | فَعُول
+MUSTER: فَعُول
+FRAGE: Welches sind die drei Wurzelbuchstaben?
+TEXT: ٱلۡغَفُور
+OPTION: غ ف ر
+OPTION: غ ف ت
+OPTION: غ ش ض
+OPTION: ن ف ر
+OPTION: غ ف و
+OPTION: غ ر ف
+RICHTIG: غ ف ر
+BEGRÜNDUNG: Die Vorsilbe gehört nicht zur Wurzel. Der lange Vokal gehört zum Muster.
+
+#### AUFGABE | AUZAN 1 | فَعُول
+MUSTER: فَعُول
+FRAGE: Welches sind die drei Wurzelbuchstaben?
+TEXT: رَسُول
+OPTION: ر س ل
+OPTION: ر س د
+OPTION: ر ط ع
+OPTION: ح س ل
+OPTION: ر س و
+OPTION: ر ل س
+RICHTIG: ر س ل
+BEGRÜNDUNG: Der lange Vokal gehört zum Muster.
+
+#### AUFGABE | AUZAN 1 | فَعُول
+MUSTER: فَعُول
+FRAGE: Welches sind die drei Wurzelbuchstaben?
+TEXT: ٱلۡكَفُور
+OPTION: ك ف ر
+OPTION: ك ف ل
+OPTION: ك ق ذ
+OPTION: ش ف ر
+OPTION: ك ف و
+OPTION: ك ر ف
+RICHTIG: ك ف ر
+BEGRÜNDUNG: Die Vorsilbe gehört nicht zur Wurzel. Der lange Vokal gehört zum Muster.
+
+#### AUFGABE | AUZAN 1 | فَعُول
+MUSTER: فَعُول
+FRAGE: Welches sind die drei Wurzelbuchstaben?
+TEXT: شَكُور
+OPTION: ش ك ر
+OPTION: ش ك ذ
+OPTION: ش ض ع
+OPTION: ج ك ر
+OPTION: ش ك و
+OPTION: ش ر ك
+RICHTIG: ش ك ر
+BEGRÜNDUNG: Der lange Vokal gehört zum Muster.
+
+#### AUFGABE | AUZAN 1 | فَعُول
+MUSTER: فَعُول
+FRAGE: Welches sind die drei Wurzelbuchstaben?
+TEXT: ٱلۡفَخُور
+OPTION: ف خ ر
+OPTION: ف خ ب
+OPTION: ف ج ق
+OPTION: ن خ ر
+OPTION: ف خ و
+OPTION: ف ر خ
+RICHTIG: ف خ ر
+BEGRÜNDUNG: Die Vorsilbe gehört nicht zur Wurzel. Der lange Vokal gehört zum Muster.
+
+#### AUFGABE | AUZAN 1 | فَعُول
+MUSTER: فَعُول
+FRAGE: Welches sind die drei Wurzelbuchstaben?
+TEXT: طَهُور
+OPTION: ط ه ر
+OPTION: ط ه س
+OPTION: ط ق ت
+OPTION: ب ه ر
+OPTION: ط ه و
+OPTION: ط ر ه
+RICHTIG: ط ه ر
+BEGRÜNDUNG: Der lange Vokal gehört zum Muster.
+
+### AUZAN 2 — hören
+
+#### AUFGABE | AUZAN 2 | فَعُول
+AUDIO: ja
+AUDIO-TEXT: ٱلۡعَجُوز
+AUDIO-DATEI: auzan/L09-1.mp3
+MUSTER: فَعُول
+FRAGE: Welches sind die drei Wurzelbuchstaben?
+TEXT: ٱلۡعَجُوز
+OPTION: ع ج ز
+OPTION: ع ج س
+OPTION: ع ه ل
+OPTION: ت ج ز
+OPTION: ع ج و
+OPTION: ع ز ج
+RICHTIG: ع ج ز
+BEGRÜNDUNG: Die Vorsilbe gehört nicht zur Wurzel. Der lange Vokal gehört zum Muster.
+
+#### AUFGABE | AUZAN 2 | فَعُول
+AUDIO: ja
+AUDIO-TEXT: زَبُور
+AUDIO-DATEI: auzan/L09-2.mp3
+MUSTER: فَعُول
+FRAGE: Welches sind die drei Wurzelbuchstaben?
+TEXT: زَبُور
+OPTION: ز ب ر
+OPTION: ز ب ش
+OPTION: ز ذ ن
+OPTION: ح ب ر
+OPTION: ز ب و
+OPTION: ز ر ب
+RICHTIG: ز ب ر
+BEGRÜNDUNG: Der lange Vokal gehört zum Muster.
+
+#### AUFGABE | AUZAN 2 | فَعُول
+AUDIO: ja
+AUDIO-TEXT: ٱلذَّنُوب
+AUDIO-DATEI: auzan/L09-3.mp3
+MUSTER: فَعُول
+FRAGE: Welches sind die drei Wurzelbuchstaben?
+TEXT: ٱلذَّنُوب
+OPTION: ذ ن ب
+OPTION: ذ ن ه
+OPTION: ذ ج ص
+OPTION: ط ن ب
+OPTION: ذ ن و
+OPTION: ذ ب ن
+RICHTIG: ذ ن ب
+BEGRÜNDUNG: Die Vorsilbe gehört nicht zur Wurzel. Der lange Vokal gehört zum Muster.
+
+#### AUFGABE | AUZAN 2 | فَعُول
+AUDIO: ja
+AUDIO-TEXT: حَصُور
+AUDIO-DATEI: auzan/L09-4.mp3
+MUSTER: فَعُول
+FRAGE: Welches sind die drei Wurzelbuchstaben?
+TEXT: حَصُور
+OPTION: ح ص ر
+OPTION: ح ص ك
+OPTION: ح ع ق
+OPTION: ف ص ر
+OPTION: ح ص و
+OPTION: ح ر ص
+RICHTIG: ح ص ر
+BEGRÜNDUNG: Der lange Vokal gehört zum Muster.
+
+#### AUFGABE | AUZAN 2 | فَعُول
+AUDIO: ja
+AUDIO-TEXT: ٱلۡقَتُور
+AUDIO-DATEI: auzan/L09-5.mp3
+MUSTER: فَعُول
+FRAGE: Welches sind die drei Wurzelbuchstaben?
+TEXT: ٱلۡقَتُور
+OPTION: ق ت ر
+OPTION: ق ت ح
+OPTION: ق ف ن
+OPTION: ك ت ر
+OPTION: ق ت و
+OPTION: ق ر ت
+RICHTIG: ق ت ر
+BEGRÜNDUNG: Die Vorsilbe gehört nicht zur Wurzel. Der lange Vokal gehört zum Muster.
+
+#### AUFGABE | AUZAN 2 | فَعُول
+AUDIO: ja
+AUDIO-TEXT: زَهُوق
+AUDIO-DATEI: auzan/L09-6.mp3
+MUSTER: فَعُول
+FRAGE: Welches sind die drei Wurzelbuchstaben?
+TEXT: زَهُوق
+OPTION: ز ه ق
+OPTION: ز ه م
+OPTION: ز ط ب
+OPTION: ح ه ق
+OPTION: ز ه و
+OPTION: ز ق ه
+RICHTIG: ز ه ق
+BEGRÜNDUNG: Der lange Vokal gehört zum Muster.
+
+======================================================================
+
+#### AUFGABEN LEKTION 10 | Muster فَعَّال
+
+----------------------------------------------------------------------
+
+### AUZAN 1 — lesen
+
+#### AUFGABE | AUZAN 1 | فَعَّال
+MUSTER: فَعَّال
+FRAGE: Welches sind die drei Wurzelbuchstaben?
+TEXT: ٱلۡجَبَّار
+OPTION: ج ب ر
+OPTION: ج ب ن
+OPTION: ج ف د
+OPTION: ع ب ر
+OPTION: ج ب ب
+OPTION: ج ر ب
+RICHTIG: ج ب ر
+BEGRÜNDUNG: Die Vorsilbe gehört nicht zur Wurzel. Die Schadda verdoppelt den mittleren Buchstaben — er zählt einmal.
+
+#### AUFGABE | AUZAN 1 | فَعَّال
+MUSTER: فَعَّال
+FRAGE: Welches sind die drei Wurzelbuchstaben?
+TEXT: بِقَهَّار
+OPTION: ق ه ر
+OPTION: ق ه س
+OPTION: ق ص ل
+OPTION: م ه ر
+OPTION: ق ه ه
+OPTION: ق ر ه
+RICHTIG: ق ه ر
+BEGRÜNDUNG: Die Vorsilbe gehört nicht zur Wurzel. Die Schadda verdoppelt den mittleren Buchstaben — er zählt einmal.
+
+#### AUFGABE | AUZAN 1 | فَعَّال
+MUSTER: فَعَّال
+FRAGE: Welches sind die drei Wurzelbuchstaben?
+TEXT: ٱلۡكَفَّار
+OPTION: ك ف ر
+OPTION: ك ف ض
+OPTION: ك ن س
+OPTION: ش ف ر
+OPTION: ك ف ف
+OPTION: ك ر ف
+RICHTIG: ك ف ر
+BEGRÜNDUNG: Die Vorsilbe gehört nicht zur Wurzel. Die Schadda verdoppelt den mittleren Buchstaben — er zählt einmal.
+
+#### AUFGABE | AUZAN 1 | فَعَّال
+MUSTER: فَعَّال
+FRAGE: Welches sind die drei Wurzelbuchstaben?
+TEXT: لِلظَّلَّام
+OPTION: ظ ل م
+OPTION: ظ ل ك
+OPTION: ظ د ص
+OPTION: ط ل م
+OPTION: ظ ل ل
+OPTION: ظ م ل
+RICHTIG: ظ ل م
+BEGRÜNDUNG: Die Vorsilbe gehört nicht zur Wurzel. Die Schadda verdoppelt den mittleren Buchstaben — er zählt einmal.
+
+#### AUFGABE | AUZAN 1 | فَعَّال
+MUSTER: فَعَّال
+FRAGE: Welches sind die drei Wurzelbuchstaben?
+TEXT: ٱلۡكَذَّاب
+OPTION: ك ذ ب
+OPTION: ك ذ ر
+OPTION: ك ن م
+OPTION: د ذ ب
+OPTION: ك ذ ذ
+OPTION: ك ب ذ
+RICHTIG: ك ذ ب
+BEGRÜNDUNG: Die Vorsilbe gehört nicht zur Wurzel. Die Schadda verdoppelt den mittleren Buchstaben — er zählt einmal.
+
+#### AUFGABE | AUZAN 1 | فَعَّال
+MUSTER: فَعَّال
+FRAGE: Welches sind die drei Wurzelbuchstaben?
+TEXT: عَلَّام
+OPTION: ع ل م
+OPTION: ع ل ق
+OPTION: ع ت ط
+OPTION: ج ل م
+OPTION: ع ل ل
+OPTION: ع م ل
+RICHTIG: ع ل م
+BEGRÜNDUNG: Die Schadda verdoppelt den mittleren Buchstaben — er zählt einmal.
+
+### AUZAN 2 — hören
+
+#### AUFGABE | AUZAN 2 | فَعَّال
+AUDIO: ja
+AUDIO-TEXT: ٱلصَّبَّار
+AUDIO-DATEI: auzan/L10-1.mp3
+MUSTER: فَعَّال
+FRAGE: Welches sind die drei Wurzelbuchstaben?
+TEXT: ٱلصَّبَّار
+OPTION: ص ب ر
+OPTION: ص ب ع
+OPTION: ص ق ز
+OPTION: ه ب ر
+OPTION: ص ب ب
+OPTION: ص ر ب
+RICHTIG: ص ب ر
+BEGRÜNDUNG: Die Vorsilbe gehört nicht zur Wurzel. Die Schadda verdoppelt den mittleren Buchstaben — er zählt einmal.
+
+#### AUFGABE | AUZAN 2 | فَعَّال
+AUDIO: ja
+AUDIO-TEXT: بِغَفَّار
+AUDIO-DATEI: auzan/L10-2.mp3
+MUSTER: فَعَّال
+FRAGE: Welches sind die drei Wurzelbuchstaben?
+TEXT: بِغَفَّار
+OPTION: غ ف ر
+OPTION: غ ف ز
+OPTION: غ ب ل
+OPTION: م ف ر
+OPTION: غ ف ف
+OPTION: غ ر ف
+RICHTIG: غ ف ر
+BEGRÜNDUNG: Die Vorsilbe gehört nicht zur Wurzel. Die Schadda verdoppelt den mittleren Buchstaben — er zählt einmal.
+
+#### AUFGABE | AUZAN 2 | فَعَّال
+AUDIO: ja
+AUDIO-TEXT: ٱلۡخَلَّاق
+AUDIO-DATEI: auzan/L10-3.mp3
+MUSTER: فَعَّال
+FRAGE: Welches sind die drei Wurzelbuchstaben?
+TEXT: ٱلۡخَلَّاق
+OPTION: خ ل ق
+OPTION: خ ل ص
+OPTION: خ ج م
+OPTION: ت ل ق
+OPTION: خ ل ل
+OPTION: خ ق ل
+RICHTIG: خ ل ق
+BEGRÜNDUNG: Die Vorsilbe gehört nicht zur Wurzel. Die Schadda verdoppelt den mittleren Buchstaben — er zählt einmal.
+
+#### AUFGABE | AUZAN 2 | فَعَّال
+AUDIO: ja
+AUDIO-TEXT: لِلۡغَسَّاق
+AUDIO-DATEI: auzan/L10-4.mp3
+MUSTER: فَعَّال
+FRAGE: Welches sind die drei Wurzelbuchstaben?
+TEXT: لِلۡغَسَّاق
+OPTION: غ س ق
+OPTION: غ س ت
+OPTION: غ ب ع
+OPTION: ج س ق
+OPTION: غ س س
+OPTION: غ ق س
+RICHTIG: غ س ق
+BEGRÜNDUNG: Die Vorsilbe gehört nicht zur Wurzel. Die Schadda verdoppelt den mittleren Buchstaben — er zählt einmal.
+
+#### AUFGABE | AUZAN 2 | فَعَّال
+AUDIO: ja
+AUDIO-TEXT: ٱلۡمَنَّاع
+AUDIO-DATEI: auzan/L10-5.mp3
+MUSTER: فَعَّال
+FRAGE: Welches sind die drei Wurzelbuchstaben?
+TEXT: ٱلۡمَنَّاع
+OPTION: م ن ع
+OPTION: م ن ط
+OPTION: م ت ض
+OPTION: س ن ع
+OPTION: م ن ن
+OPTION: م ع ن
+RICHTIG: م ن ع
+BEGRÜNDUNG: Die Vorsilbe gehört nicht zur Wurzel. Die Schadda verdoppelt den mittleren Buchstaben — er zählt einmal.
+
+#### AUFGABE | AUZAN 2 | فَعَّال
+AUDIO: ja
+AUDIO-TEXT: سَحَّار
+AUDIO-DATEI: auzan/L10-6.mp3
+MUSTER: فَعَّال
+FRAGE: Welches sind die drei Wurzelbuchstaben?
+TEXT: سَحَّار
+OPTION: س ح ر
+OPTION: س ح ه
+OPTION: س د ج
+OPTION: م ح ر
+OPTION: س ح ح
+OPTION: س ر ح
+RICHTIG: س ح ر
+BEGRÜNDUNG: Die Schadda verdoppelt den mittleren Buchstaben — er zählt einmal.
+
+======================================================================
+
+#### AUFGABEN LEKTION 11 | Muster أَفْعَل
+
+----------------------------------------------------------------------
+
+### AUZAN 1 — lesen
+
+#### AUFGABE | AUZAN 1 | أَفْعَل
+MUSTER: أَفْعَل
+FRAGE: Welches sind die drei Wurzelbuchstaben?
+TEXT: ٱلۡأَعۡلَم
+OPTION: ع ل م
+OPTION: ع ل ط
+OPTION: ع ف ه
+OPTION: ذ ل م
+OPTION: أ ع ل
+OPTION: ع م ل
+RICHTIG: ع ل م
+BEGRÜNDUNG: Die Vorsilbe gehört nicht zur Wurzel. Das Alif mit Hamza am Anfang gehört zum Muster.
+
+#### AUFGABE | AUZAN 1 | أَفْعَل
+MUSTER: أَفْعَل
+FRAGE: Welches sind die drei Wurzelbuchstaben?
+TEXT: أَحۡسَن
+OPTION: ح س ن
+OPTION: ح س ق
+OPTION: ح ج ت
+OPTION: ل س ن
+OPTION: أ ح س
+OPTION: ح ن س
+RICHTIG: ح س ن
+BEGRÜNDUNG: Das Alif mit Hamza am Anfang gehört zum Muster.
+
+#### AUFGABE | AUZAN 1 | أَفْعَل
+MUSTER: أَفْعَل
+FRAGE: Welches sind die drei Wurzelbuchstaben?
+TEXT: ٱلۡأَكۡثَر
+OPTION: ك ث ر
+OPTION: ك ث ذ
+OPTION: ك ف ص
+OPTION: ن ث ر
+OPTION: أ ك ث
+OPTION: ك ر ث
+RICHTIG: ك ث ر
+BEGRÜNDUNG: Die Vorsilbe gehört nicht zur Wurzel. Das Alif mit Hamza am Anfang gehört zum Muster.
+
+#### AUFGABE | AUZAN 1 | أَفْعَل
+MUSTER: أَفْعَل
+FRAGE: Welches sind die drei Wurzelbuchstaben?
+TEXT: أَكۡبَر
+OPTION: ك ب ر
+OPTION: ك ب ز
+OPTION: ك د ط
+OPTION: ه ب ر
+OPTION: أ ك ب
+OPTION: ك ر ب
+RICHTIG: ك ب ر
+BEGRÜNDUNG: Das Alif mit Hamza am Anfang gehört zum Muster.
+
+#### AUFGABE | AUZAN 1 | أَفْعَل
+MUSTER: أَفْعَل
+FRAGE: Welches sind die drei Wurzelbuchstaben?
+TEXT: ٱلۡأَظۡلَم
+OPTION: ظ ل م
+OPTION: ظ ل ت
+OPTION: ظ ط ج
+OPTION: ص ل م
+OPTION: أ ظ ل
+OPTION: ظ م ل
+RICHTIG: ظ ل م
+BEGRÜNDUNG: Die Vorsilbe gehört nicht zur Wurzel. Das Alif mit Hamza am Anfang gehört zum Muster.
+
+#### AUFGABE | AUZAN 1 | أَفْعَل
+MUSTER: أَفْعَل
+FRAGE: Welches sind die drei Wurzelbuchstaben?
+TEXT: أَقۡرَب
+OPTION: ق ر ب
+OPTION: ق ر ت
+OPTION: ق ط م
+OPTION: ض ر ب
+OPTION: أ ق ر
+OPTION: ق ب ر
+RICHTIG: ق ر ب
+BEGRÜNDUNG: Das Alif mit Hamza am Anfang gehört zum Muster.
+
+### AUZAN 2 — hören
+
+#### AUFGABE | AUZAN 2 | أَفْعَل
+AUDIO: ja
+AUDIO-TEXT: ٱلۡأَنۡزَل
+AUDIO-DATEI: auzan/L11-1.mp3
+MUSTER: أَفْعَل
+FRAGE: Welches sind die drei Wurzelbuchstaben?
+TEXT: ٱلۡأَنۡزَل
+OPTION: ن ز ل
+OPTION: ن ز ح
+OPTION: ن ك ه
+OPTION: ف ز ل
+OPTION: أ ن ز
+OPTION: ن ل ز
+RICHTIG: ن ز ل
+BEGRÜNDUNG: Die Vorsilbe gehört nicht zur Wurzel. Das Alif mit Hamza am Anfang gehört zum Muster.
+
+#### AUFGABE | AUZAN 2 | أَفْعَل
+AUDIO: ja
+AUDIO-TEXT: أَخۡرَج
+AUDIO-DATEI: auzan/L11-2.mp3
+MUSTER: أَفْعَل
+FRAGE: Welches sind die drei Wurzelbuchstaben?
+TEXT: أَخۡرَج
+OPTION: خ ر ج
+OPTION: خ ر ب
+OPTION: خ ز ش
+OPTION: س ر ج
+OPTION: أ خ ر
+OPTION: خ ج ر
+RICHTIG: خ ر ج
+BEGRÜNDUNG: Das Alif mit Hamza am Anfang gehört zum Muster.
+
+#### AUFGABE | AUZAN 2 | أَفْعَل
+AUDIO: ja
+AUDIO-TEXT: ٱلۡأَصۡبَح
+AUDIO-DATEI: auzan/L11-3.mp3
+MUSTER: أَفْعَل
+FRAGE: Welches sind die drei Wurzelbuchstaben?
+TEXT: ٱلۡأَصۡبَح
+OPTION: ص ب ح
+OPTION: ص ب ج
+OPTION: ص ط ف
+OPTION: ع ب ح
+OPTION: أ ص ب
+OPTION: ص ح ب
+RICHTIG: ص ب ح
+BEGRÜNDUNG: Die Vorsilbe gehört nicht zur Wurzel. Das Alif mit Hamza am Anfang gehört zum Muster.
+
+#### AUFGABE | AUZAN 2 | أَفْعَل
+AUDIO: ja
+AUDIO-TEXT: أَعۡرَض
+AUDIO-DATEI: auzan/L11-4.mp3
+MUSTER: أَفْعَل
+FRAGE: Welches sind die drei Wurzelbuchstaben?
+TEXT: أَعۡرَض
+OPTION: ع ر ض
+OPTION: ع ر ن
+OPTION: ع ك ص
+OPTION: ج ر ض
+OPTION: أ ع ر
+OPTION: ع ض ر
+RICHTIG: ع ر ض
+BEGRÜNDUNG: Das Alif mit Hamza am Anfang gehört zum Muster.
+
+#### AUFGABE | AUZAN 2 | أَفْعَل
+AUDIO: ja
+AUDIO-TEXT: ٱلۡأَصۡلَح
+AUDIO-DATEI: auzan/L11-5.mp3
+MUSTER: أَفْعَل
+FRAGE: Welches sind die drei Wurzelbuchstaben?
+TEXT: ٱلۡأَصۡلَح
+OPTION: ص ل ح
+OPTION: ص ل ن
+OPTION: ص ف د
+OPTION: ذ ل ح
+OPTION: أ ص ل
+OPTION: ص ح ل
+RICHTIG: ص ل ح
+BEGRÜNDUNG: Die Vorsilbe gehört nicht zur Wurzel. Das Alif mit Hamza am Anfang gehört zum Muster.
+
+#### AUFGABE | AUZAN 2 | أَفْعَل
+AUDIO: ja
+AUDIO-TEXT: أَرۡسَل
+AUDIO-DATEI: auzan/L11-6.mp3
+MUSTER: أَفْعَل
+FRAGE: Welches sind die drei Wurzelbuchstaben?
+TEXT: أَرۡسَل
+OPTION: ر س ل
+OPTION: ر س ه
+OPTION: ر ح ت
+OPTION: ص س ل
+OPTION: أ ر س
+OPTION: ر ل س
+RICHTIG: ر س ل
+BEGRÜNDUNG: Das Alif mit Hamza am Anfang gehört zum Muster.
+
+======================================================================

@@ -47,13 +47,32 @@ function stopLoop() { cancelAnimationFrame(raf); raf = 0; }
 
 export function stopAudio() {
   stopLoop();
-  if (el) { el.pause(); el.volume = 1; el.muted = false; }
+  if (el) { el.pause(); el.volume = 1; el.muted = false; el.onended = null; }
   const c = current;
   current = null;
   c?.onState?.('idle');
 }
 
 export function isPlaying(key) { return current?.key === key; }
+
+// Eine ganze Datei abspielen: die fertigen Aufnahmen der Musteraufgaben liegen
+// im Repository und enthalten genau das eine Wort. Kein Ausschnitt, keine
+// Zeitmarken, kein Rezitator — von vorn bis zum Ende.
+export function playFile({ key, url, onState }) {
+  stopAudio();
+  if (!el) { el = new Audio(); el.preload = 'auto'; }
+  current = { key, clip: null, onState };
+  const me = current;
+  onState?.('loading');
+  el.onerror = () => { if (current === me) { current = null; onState?.('error'); } };
+  el.onended = () => { if (current === me) stopAudio(); };
+  const voll = new URL(url, location.href).href;
+  if (el.src !== voll) { el.src = voll; el.load(); }
+  else if (el.readyState >= 1) el.currentTime = 0;
+  el.play()
+    .then(() => { if (current === me) onState?.('playing'); })
+    .catch(() => { if (current === me) { current = null; onState?.('error'); } });
+}
 
 export function playClip({ key, url, clip, onState }) {
   stopAudio();

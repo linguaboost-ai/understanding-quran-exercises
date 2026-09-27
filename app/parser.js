@@ -8,14 +8,18 @@ export const LIST_SEPARATOR = ' · ';
 export const TASK_FIELDS = [
   'FRAGE', 'TEXT', 'AUDIO', 'OPTION', 'RICHTIG', 'PAAR', 'KATEGORIE', 'WÖRTER',
   'HINWEIS', 'BEGRÜNDUNG', 'STELLE', 'WÖRTER IM VERS', 'BEKANNT', 'NICHT ANBIETEN',
+  // Musteraufgaben: das Wortmuster und, bei den Höraufgaben, der gesprochene
+  // Text mit seiner fertigen Tondatei.
+  'MUSTER', 'AUDIO-TEXT', 'AUDIO-DATEI',
 ];
 export const LESSON_FIELDS = ['WIEDERHOLUNG', 'AW'];
 
 const RE_LESSON = /^#### AUFGABEN LEKTION (\d+)\s*\|\s*(.*)$/;
 const RE_TASK = /^#### AUFGABE\s*\|\s*([^|]+?)\s*\|\s*(.+?)\s*$/;
 const RE_TEIL = /^### TEIL (\d+)\s*(?:—\s*(.*))?$/;
-const RE_FIELD = /^([A-ZÄÖÜ][A-ZÄÖÜ ]*?):(.*)$/;
+const RE_FIELD = /^([A-ZÄÖÜ][A-ZÄÖÜ -]*?):(.*)$/;
 const RE_RULE = /^(=+|-+)$/;
+const RE_ABSCHNITT = /^### \S/;
 
 export function splitList(value) {
   return value.split(LIST_SEPARATOR).map((s) => s.trim()).filter(Boolean);
@@ -50,6 +54,9 @@ function newTask(lesson, typ, gruppe, teil, line) {
     bekannt: [],
     nichtAnbieten: [],
     nichtAnbietenNotiz: '',
+    muster: null,
+    audioText: null,
+    audioDatei: null,
   };
 }
 
@@ -59,8 +66,12 @@ function applyField(task, key, value, line, issues, file) {
     case 'FRAGE':
     case 'TEXT':
     case 'HINWEIS':
+    case 'MUSTER':
+    case 'AUDIO-TEXT':
+    case 'AUDIO-DATEI':
     case 'BEGRÜNDUNG': {
-      const prop = { FRAGE: 'frage', TEXT: 'text', HINWEIS: 'hinweis', 'BEGRÜNDUNG': 'begruendung' }[key];
+      const prop = { FRAGE: 'frage', TEXT: 'text', HINWEIS: 'hinweis', 'BEGRÜNDUNG': 'begruendung',
+                     MUSTER: 'muster', 'AUDIO-TEXT': 'audioText', 'AUDIO-DATEI': 'audioDatei' }[key];
       if (task[prop] !== null) issue(`${key} kommt in einer Aufgabe mehrfach vor`);
       task[prop] = value;
       break;
@@ -151,6 +162,10 @@ export function parseExerciseFile(text, file = '') {
       task = null;
       return;
     }
+    // Eine ###-Zeile, die keine TEIL-Marke ist, gliedert die Datei nur fuer den
+    // Leser — etwa „### AUZAN 1 — lesen". Welche Aufgabenart gemeint ist, steht
+    // ohnehin in jeder Aufgabenzeile.
+    if (RE_ABSCHNITT.test(raw)) { task = null; return; }
     if ((m = raw.match(RE_TASK))) {
       task = newTask(lesson, m[1].trim(), m[2].trim(), teil, line);
       task.file = file;
@@ -190,11 +205,15 @@ export function parseOrder(text) {
     const m = raw.match(/^\s*(\d+)\s+(.+?)\s{2,}(\S+\.txt)\s*(?:\((.*)\))?\s*$/);
     if (!m) continue;
     const name = m[2].trim();
-    const t = name.match(/^(.*?)\s+Teil\s+(\d+)$/i);
+    // „DEFINITIONEN | NW" nennt Art und Gruppe, „GRAMMATIK Teil 1" Art und Teil.
+    const g = name.indexOf(' | ');
+    const ohneGruppe = g < 0 ? name : name.slice(0, g).trim();
+    const t = ohneGruppe.match(/^(.*?)\s+Teil\s+(\d+)$/i);
     out.push({
       nr: Number(m[1]),
       name,
-      typ: t ? t[1].trim() : name,
+      typ: t ? t[1].trim() : ohneGruppe,
+      gruppe: g < 0 ? null : name.slice(g + 3).trim(),
       teil: t ? Number(t[2]) : null,
       file: m[3],
       notiz: (m[4] || '').trim(),
@@ -205,7 +224,10 @@ export function parseOrder(text) {
 
 // Gehört eine Aufgabe zu einem Eintrag der Reihenfolge?
 export function matchesOrderEntry(task, entry) {
-  return task.file === entry.file && task.typ === entry.typ && (entry.teil === null || task.teil === entry.teil);
+  return task.file === entry.file
+    && task.typ === entry.typ
+    && (entry.teil === null || task.teil === entry.teil)
+    && (!entry.gruppe || task.gruppe === entry.gruppe);
 }
 
 // Baut die Lektionen in der Reihenfolge aus 00-Reihenfolge.txt.

@@ -2,7 +2,7 @@
 // Alle Inhalte kommen zur Laufzeit aus den TXT-Dateien in Uebungen-Lektion-01-11/.
 import { parseExerciseFile, parseOrder, buildCourse } from './parser.js';
 import { STRINGS } from './i18n.js';
-import { RECITERS, DEFAULT_AUDIO, reciterById, audioUrl, loadTimings, clipFor, playClip, stopAudio } from './audio.js';
+import { RECITERS, DEFAULT_AUDIO, reciterById, audioUrl, loadTimings, clipFor, playClip, playFile, stopAudio } from './audio.js';
 
 const DATA_DIR = 'Uebungen-Lektion-01-11/';
 const ORDER_FILE = '00-Reihenfolge.txt';
@@ -179,7 +179,9 @@ function enterItem() {
   if (task.audio) {
     stopAudio();
     st.audio = 'idle';
-    prepareAudio(item);
+    // Liegt die Aufnahme als fertige Datei bei, gibt es nichts vorzubereiten:
+    // keine Zeitmarken, kein Rezitator.
+    if (!task.audioDatei) prepareAudio(item);
   }
 }
 function currentItem() { return S.run?.items[S.run.idx]; }
@@ -378,11 +380,23 @@ function clipNow(task) {
 function playCurrent() {
   const item = currentItem();
   if (!item?.task.audio) return;
+  if (item.state.audio === 'playing') { stopAudio(); return; }
+  if (item.task.audioDatei) {
+    playFile({
+      key: `${S.run.idx}`,
+      url: item.task.audioDatei,
+      onState: (state) => {
+        if (currentItem() !== item) return;
+        item.state.audio = state;
+        render();
+      },
+    });
+    return;
+  }
   const clip = clipNow(item.task);
   if (!clip) { item.state.audio = S.timingsFor ? 'notiming' : 'loading'; render(); return; }
   const reciter = reciterById(S.settings.reciter);
   const key = `${S.run.idx}`;
-  if (item.state.audio === 'playing') { stopAudio(); return; }
   playClip({
     key,
     url: audioUrl(reciter, item.task.stelle.sure, item.task.stelle.vers),
@@ -397,12 +411,14 @@ function playCurrent() {
 function audioCardHtml(item) {
   const L = t();
   const a = item?.state.audio || 'idle';
-  const reciter = reciterById(S.settings.reciter);
+  // Bei einer fertigen Tondatei steht kein Rezitator darunter — sie stammt
+  // nicht aus einer Rezitation.
+  const reciter = item?.task.audioDatei ? null : reciterById(S.settings.reciter);
   const note = { loading: L.audioLoading, playing: L.audioPlaying, error: L.audioError, notiming: L.audioNoTiming }[a] || L.audioTap;
   const disabled = a === 'notiming';
   return `<div class="audio-card ${a}">
       <button class="play-btn" data-act="play" ${disabled ? 'disabled' : ''} aria-label="${esc(a === 'playing' ? L.stop : L.play)}">${a === 'playing' ? ICON.stop : a === 'loading' ? '<span class="mini-spin"></span>' : ICON.play}</button>
-      <span class="audio-text"><span class="audio-note">${esc(note)}</span><span class="audio-reciter">${esc(reciter.label)}</span></span>
+      <span class="audio-text"><span class="audio-note">${esc(note)}</span>${reciter ? `<span class="audio-reciter">${esc(reciter.label)}</span>` : ''}</span>
     </div>`;
 }
 
