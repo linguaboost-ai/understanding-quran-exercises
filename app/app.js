@@ -651,7 +651,7 @@ function sidebarHtml() {
       <span class="side-lesson-text"><span class="side-lesson-title">${esc(L.lesson)} ${l.nr}</span>
       <span class="side-lesson-sub">${mixed(l.titel)}</span></span>
     </button>`).join('') : '';
-  return `<div class="side-brand"><span class="side-logo" lang="ar" dir="rtl">ق</span><span>${esc(L.appTitle)}</span></div>
+  return `<button class="side-brand" data-go="#/" aria-label="${esc(L.appTitle)}"><span class="side-logo" lang="ar" dir="rtl">ق</span><span>${esc(L.appTitle)}</span></button>
     <nav class="side-list" aria-label="${esc(L.lessons)}"><span class="side-head">${esc(L.lessons)}</span>${list}</nav>
     <div class="side-settings"><span class="side-head">${esc(L.settings)}</span>${settingsControlsHtml({ withView: true })}</div>`;
 }
