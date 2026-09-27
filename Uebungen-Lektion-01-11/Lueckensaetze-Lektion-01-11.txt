@@ -9,7 +9,8 @@ Regel
 
 Deutsch oder Arabisch
   Lektion 1 bis 4: der Satz ist deutsch, eingesetzt wird ein arabisches Wort.
-  Ab Lektion 5: der Satz ist arabisch.
+  Ab Lektion 5: der Satz ist ganz arabisch, ohne deutschen Teil. Die Frage
+  lautet immer gleich: Welches Wort passt in die Lücke?
 
   Der Grund für den Wechsel genau dort: Bis Lektion 4 kennt der Schüler nur
   Zeigesätze — „dies ist ein X". In so einem Satz passt inhaltlich fast jedes
@@ -306,7 +307,7 @@ OPTION: عَلِيمٌ
 OPTION: حَكِيمٌ
 OPTION: مُسۡتَقِيمٌ
 RICHTIG: طَيِّبٌ
-BEGRÜNDUNG: Wasser kann rein und gut sein. Wissend, weise oder gerade kann es nicht sein.
+BEGRÜNDUNG: Wasser kann rein und gut sein, aber nicht wissend, weise oder gerade.
 
 #### AUFGABE | LÜCKENSATZ | NW + QW
 FRAGE: Welches Wort passt in die Lücke?
@@ -345,14 +346,14 @@ BEGRÜNDUNG: Weise und wissend kann nur ein Wesen sein, nicht Wasser, ein Ort od
 ----------------------------------------------------------------------
 
 #### AUFGABE | LÜCKENSATZ | NW + QW
-FRAGE: Was beginnt mit der Geburt und endet mit dem Tod?
-TEXT: هٰذِهِ ___ ٱلدُّنۡيَا
-OPTION: ٱلۡحَيَاةُ
-OPTION: ٱلسَّاعَةُ
-OPTION: ٱلۡقَرۡيَةُ
-OPTION: ٱلرَّحۡمَةُ
-RICHTIG: ٱلۡحَيَاةُ
-BEGRÜNDUNG: Zwischen Geburt und Tod liegt das Leben.
+FRAGE: Welches Wort passt in die Lücke?
+TEXT: ٱلۡـ___ ٱلدُّنۡيَا شَدِيدَةٌ
+OPTION: حَيَاةُ
+OPTION: سَاعَةُ
+OPTION: قَرۡيَةُ
+OPTION: رَحۡمَةُ
+RICHTIG: حَيَاةُ
+BEGRÜNDUNG: Was zwischen Geburt und Tod liegt und hart sein kann, ist das Leben.
 
 #### AUFGABE | LÜCKENSATZ | NW + QW
 FRAGE: Welches Wort passt in die Lücke?
@@ -362,7 +363,7 @@ OPTION: طَيِّبٌ
 OPTION: مُسۡتَقِيمٌ
 OPTION: وَاحِدٌ
 RICHTIG: شَدِيدٌ
-BEGRÜNDUNG: Eine Strafe ist hart. Gut ist sie nicht, gerade und einzig auch nicht.
+BEGRÜNDUNG: Eine Strafe ist hart. Gut, gerade oder einzig ist sie nicht.
 
 #### AUFGABE | LÜCKENSATZ | NW + QW
 FRAGE: Welches Wort passt in die Lücke?
@@ -376,32 +377,32 @@ BEGRÜNDUNG: Es gibt nur einen Gott — das sagt dieses Wort.
 
 #### AUFGABE | LÜCKENSATZ | NW + QW
 FRAGE: Welches Wort passt in die Lücke?
-TEXT: ٱلۡـ___ مُسۡتَقِيمٌ
-OPTION: صِرَاطُ
-OPTION: كِتَابُ
-OPTION: عَذَابُ
-OPTION: مَسۡجِدُ
-RICHTIG: صِرَاطُ
-BEGRÜNDUNG: Gerade oder krumm ist ein Weg. Ein Buch, eine Strafe oder eine Moschee sind es nicht.
+TEXT: ٱلـ___ حَيَاةٌ شَدِيدَةٌ
+OPTION: دُّنۡيَا
+OPTION: شَّمۡسُ
+OPTION: قَرۡيَةُ
+OPTION: رَّحۡمَةُ
+RICHTIG: دُّنۡيَا
+BEGRÜNDUNG: Das harte Leben vor dem Jenseits ist das Diesseits.
 
 #### AUFGABE | LÜCKENSATZ | NW + QW
 FRAGE: Welches Wort passt in die Lücke?
-TEXT: هٰذِهِ ___ شَدِيدَةٌ وَٱلۡآخِرَةُ خَيۡرٌ
-OPTION: ٱلدُّنۡيَا
-OPTION: ٱلشَّمۡسُ
-OPTION: ٱلۡقَرۡيَةُ
-OPTION: ٱلرَّحۡمَةُ
-RICHTIG: ٱلدُّنۡيَا
-BEGRÜNDUNG: Was dem Jenseits gegenübersteht, ist das Diesseits.
+TEXT: ٱلـ___ مُسۡتَقِيمٌ
+OPTION: صِّرَاطُ
+OPTION: كِتَابُ
+OPTION: عَذَابُ
+OPTION: مَسۡجِدُ
+RICHTIG: صِّرَاطُ
+BEGRÜNDUNG: Gerade oder krumm ist ein Weg, kein Buch und keine Strafe.
 
 #### AUFGABE | LÜCKENSATZ | NW + QW
 FRAGE: Welches Wort passt in die Lücke?
-TEXT: ٱلۡـ___ شَدِيدٌ وَجَهَنَّمُ نَارٌ
-OPTION: عَذَابُ
-OPTION: صِرَاطُ
-OPTION: كِتَابُ
-OPTION: مَسۡجِدُ
-RICHTIG: عَذَابُ
+TEXT: جَهَنَّمُ ___ شَدِيدٌ
+OPTION: عَذَابٌ
+OPTION: صِرَاطٌ
+OPTION: كِتَابٌ
+OPTION: مَسۡجِدٌ
+RICHTIG: عَذَابٌ
 BEGRÜNDUNG: Was in der Hölle wartet, ist die Strafe.
 
 ======================================================================
@@ -409,26 +410,6 @@ BEGRÜNDUNG: Was in der Hölle wartet, ist die Strafe.
 #### AUFGABEN LEKTION 7 | Zeig da hinten
 
 ----------------------------------------------------------------------
-
-#### AUFGABE | LÜCKENSATZ | NW + QW
-FRAGE: Er zeigt auf ein Buch, das weit weg auf dem anderen Tisch liegt.
-TEXT: ___ كِتَابٌ
-OPTION: ذٰلِكَ
-OPTION: هٰذَا
-OPTION: ٱلۡقَلۡبُ
-OPTION: ٱلنَّارُ
-RICHTIG: ذٰلِكَ
-BEGRÜNDUNG: Weit weg heißt: das ferne Zeigewort. Das nahe nimmt man für etwas in Reichweite.
-
-#### AUFGABE | LÜCKENSATZ | NW + QW
-FRAGE: Er zeigt auf eine Ortschaft am Horizont.
-TEXT: ___ قَرۡيَةٌ
-OPTION: تِلۡكَ
-OPTION: هٰذِهِ
-OPTION: ٱلنَّارُ
-OPTION: ٱلۡمَلَائِكَةُ
-RICHTIG: تِلۡكَ
-BEGRÜNDUNG: Am Horizont ist fern, und die Ortschaft ist weiblich.
 
 #### AUFGABE | LÜCKENSATZ | NW + QW
 FRAGE: Welches Wort passt in die Lücke?
@@ -441,34 +422,54 @@ RICHTIG: أَلِيمٌ
 BEGRÜNDUNG: Eine Strafe tut weh. Gut, gerade oder wissend ist sie nicht.
 
 #### AUFGABE | LÜCKENSATZ | NW + QW
-FRAGE: Wer sind die Geschöpfe aus Licht, die man nicht sieht?
-TEXT: هٰذِهِ ___
-OPTION: ٱلۡمَلَائِكَةُ
-OPTION: ٱلنَّارُ
-OPTION: ٱلۡقَرۡيَةُ
-OPTION: ٱلسَّاعَةُ
-RICHTIG: ٱلۡمَلَائِكَةُ
-BEGRÜNDUNG: Aus Licht erschaffen und unsichtbar sind die Engel.
+FRAGE: Welches Wort passt in die Lücke?
+TEXT: ٱلۡـ___ طَيِّبَةٌ
+OPTION: مَلَائِكَةُ
+OPTION: نَّارُ
+OPTION: سَّاعَةُ
+OPTION: قَرۡيَةُ
+RICHTIG: مَلَائِكَةُ
+BEGRÜNDUNG: Rein und gut sind die Geschöpfe aus Licht, nicht das Feuer.
 
 #### AUFGABE | LÜCKENSATZ | NW + QW
-FRAGE: Was schlägt in der Brust des Menschen?
-TEXT: هٰذَا ___
-OPTION: ٱلۡقَلۡبُ
-OPTION: ٱلنَّارُ
-OPTION: ٱلۡكِتَابُ
-OPTION: ٱلۡمَسۡجِدُ
-RICHTIG: ٱلۡقَلۡبُ
-BEGRÜNDUNG: In der Brust schlägt das Herz.
+FRAGE: Welches Wort passt in die Lücke?
+TEXT: ٱلۡـ___ طَيِّبٌ
+OPTION: قَلۡبُ
+OPTION: عَذَابُ
+OPTION: نَّارُ
+OPTION: جَهَنَّمُ
+RICHTIG: قَلۡبُ
+BEGRÜNDUNG: Rein sein kann das Herz. Strafe, Feuer und Hölle sind es nicht.
 
 #### AUFGABE | LÜCKENSATZ | NW + QW
-FRAGE: Was brennt und gibt Hitze?
-TEXT: هٰذِهِ ___ شَدِيدَةٌ
-OPTION: ٱلنَّارُ
-OPTION: ٱلۡقَرۡيَةُ
-OPTION: ٱلسَّاعَةُ
-OPTION: ٱلرَّحۡمَةُ
-RICHTIG: ٱلنَّارُ
-BEGRÜNDUNG: Brennen und Hitze geben kann nur das Feuer.
+FRAGE: Welches Wort passt in die Lücke?
+TEXT: جَهَنَّمُ ___ شَدِيدَةٌ
+OPTION: نَارٌ
+OPTION: رَحۡمَةٌ
+OPTION: صَلَاةٌ
+OPTION: آيَةٌ
+RICHTIG: نَارٌ
+BEGRÜNDUNG: Was in der Hölle brennt, ist das Feuer.
+
+#### AUFGABE | LÜCKENSATZ | NW + QW
+FRAGE: Welches Wort passt in die Lücke?
+TEXT: ___ عَذَابٌ أَلِيمٌ
+OPTION: ذٰلِكَ
+OPTION: قَلۡبٌ
+OPTION: مَسۡجِدٌ
+OPTION: كِتَابٌ
+RICHTIG: ذٰلِكَ
+BEGRÜNDUNG: Nur mit dem Zeigewort wird daraus eine Aussage. Ein Herz oder ein Buch ist keine Strafe.
+
+#### AUFGABE | LÜCKENSATZ | NW + QW
+FRAGE: Welches Wort passt in die Lücke?
+TEXT: ___ قَرۡيَةٌ طَيِّبَةٌ
+OPTION: تِلۡكَ
+OPTION: رِيحٌ
+OPTION: يَدٌ
+OPTION: نَارٌ
+RICHTIG: تِلۡكَ
+BEGRÜNDUNG: Nur mit dem Zeigewort wird daraus eine Aussage. Ein Wind oder eine Hand ist keine Ortschaft.
 
 ======================================================================
 
@@ -478,53 +479,43 @@ BEGRÜNDUNG: Brennen und Hitze geben kann nur das Feuer.
 
 #### AUFGABE | LÜCKENSATZ | NW + QW
 FRAGE: Welches Wort passt in die Lücke?
-TEXT: ___ ٱلنَّارِ فِيهَا
-OPTION: أَصۡحَابُ
-OPTION: وَجۡهُ
-OPTION: بَيۡتُ
-OPTION: يَوۡمُ
-RICHTIG: أَصۡحَابُ
-BEGRÜNDUNG: Im Feuer sind Menschen — seine Bewohner. Ein Gesicht oder ein Haus wohnt dort nicht.
-
-#### AUFGABE | LÜCKENSATZ | NW + QW
-FRAGE: Welches Wort passt in die Lücke?
 TEXT: هٰذَا ___ ٱلرَّجُلِ
 OPTION: وَجۡهُ
 OPTION: يَوۡمُ
 OPTION: رَبُّ
 OPTION: عَذَابُ
 RICHTIG: وَجۡهُ
-BEGRÜNDUNG: Zum Menschen gehört sein Gesicht. Ein Herr des Mannes wäre Allah, kein Teil von ihm.
+BEGRÜNDUNG: Zum Menschen gehört sein Gesicht. Ein Tag oder eine Strafe gehört ihm nicht auf diese Weise.
 
 #### AUFGABE | LÜCKENSATZ | NW + QW
-FRAGE: Wo wohnt der Prophet mit seiner Familie?
+FRAGE: Welches Wort passt in die Lücke?
 TEXT: هٰذَا ___ ٱلنَّبِيِّ
 OPTION: بَيۡتُ
 OPTION: يَوۡمُ
-OPTION: وَجۡهُ
 OPTION: عَذَابُ
+OPTION: صِرَاطُ
 RICHTIG: بَيۡتُ
 BEGRÜNDUNG: Gewohnt wird in einem Haus.
 
 #### AUFGABE | LÜCKENSATZ | NW + QW
-FRAGE: Wie nennt der Diener den, der ihn erschaffen hat und versorgt?
-TEXT: ٱللّٰهُ ___ ٱلرَّجُلِ
+FRAGE: Welches Wort passt in die Lücke?
+TEXT: ٱللّٰهُ ___ ٱلۡبَيۡتِ
 OPTION: رَبُّ
-OPTION: بَيۡتُ
 OPTION: وَجۡهُ
 OPTION: يَوۡمُ
+OPTION: أَصۡحَابُ
 RICHTIG: رَبُّ
-BEGRÜNDUNG: Wer erschafft und versorgt, ist der Herr.
+BEGRÜNDUNG: Wer über das Haus verfügt und es erhält, ist sein Herr.
 
 #### AUFGABE | LÜCKENSATZ | NW + QW
-FRAGE: Was hat vierundzwanzig Stunden?
-TEXT: هٰذَا ___
-OPTION: ٱلۡيَوۡمُ
-OPTION: ٱلۡبَيۡتُ
-OPTION: ٱلۡوَجۡهُ
-OPTION: ٱلۡقَلۡبُ
-RICHTIG: ٱلۡيَوۡمُ
-BEGRÜNDUNG: Vierundzwanzig Stunden hat ein Tag.
+FRAGE: Welches Wort passt in die Lücke?
+TEXT: هٰذَا ___ ٱلۡعَذَابِ
+OPTION: يَوۡمُ
+OPTION: وَجۡهُ
+OPTION: بَيۡتُ
+OPTION: رَبُّ
+RICHTIG: يَوۡمُ
+BEGRÜNDUNG: Die Strafe hat ihren Tag. Ein Gesicht oder ein Haus der Strafe gibt es nicht.
 
 #### AUFGABE | LÜCKENSATZ | NW + QW
 FRAGE: Welches Wort passt in die Lücke?
@@ -536,6 +527,16 @@ OPTION: وَاحِدٌ
 RICHTIG: مُبِينٌ
 BEGRÜNDUNG: Ein Buch macht etwas klar. Schmerzhaft und hart sind Strafen, nicht Bücher.
 
+#### AUFGABE | LÜCKENSATZ | NW + QW
+FRAGE: Welches Wort passt in die Lücke?
+TEXT: هٰؤُلَاءِ ___ ٱلۡكِتَابِ
+OPTION: أَصۡحَابُ
+OPTION: وَجۡهُ
+OPTION: يَوۡمُ
+OPTION: عَذَابُ
+RICHTIG: أَصۡحَابُ
+BEGRÜNDUNG: Zum Buch gehören Menschen — seine Leute.
+
 ======================================================================
 
 #### AUFGABEN LEKTION 9 | Kleine Wörter davor
@@ -543,27 +544,27 @@ BEGRÜNDUNG: Ein Buch macht etwas klar. Schmerzhaft und hart sind Strafen, nicht
 ----------------------------------------------------------------------
 
 #### AUFGABE | LÜCKENSATZ | NW + QW
-FRAGE: Der Mann sitzt drinnen und betet.
+FRAGE: Welches Wort passt in die Lücke?
 TEXT: ٱلرَّجُلُ ___ ٱلۡمَسۡجِدِ
 OPTION: فِي
 OPTION: مِنۡ
 OPTION: عَلَىٰ
 OPTION: حَقٌّ
 RICHTIG: فِي
-BEGRÜNDUNG: Drinnen heißt „in". „Von" wäre die Herkunft, „auf" wäre das Dach.
+BEGRÜNDUNG: Wer drinnen ist, ist „in". „Von" wäre die Herkunft, „auf" wäre das Dach.
 
 #### AUFGABE | LÜCKENSATZ | NW + QW
-FRAGE: Das Buch ist herabgesandt worden — es kommt von Allah.
+FRAGE: Welches Wort passt in die Lücke?
 TEXT: هٰذَا كِتَابٌ ___ ٱللّٰهِ
 OPTION: مِنۡ
 OPTION: فِي
 OPTION: عَلَىٰ
 OPTION: عِلۡمٌ
 RICHTIG: مِنۡ
-BEGRÜNDUNG: Herkunft sagt man mit „von".
+BEGRÜNDUNG: Herabgesandt heißt: Es kommt von Ihm.
 
 #### AUFGABE | LÜCKENSATZ | NW + QW
-FRAGE: Der Mann geht auf dem Weg und folgt ihm.
+FRAGE: Welches Wort passt in die Lücke?
 TEXT: ٱلرَّجُلُ ___ صِرَاطٍ مُسۡتَقِيمٍ
 OPTION: عَلَىٰ
 OPTION: فِي
@@ -573,34 +574,34 @@ RICHTIG: عَلَىٰ
 BEGRÜNDUNG: Auf einem Weg geht man. „In einem Weg" sagt man nicht.
 
 #### AUFGABE | LÜCKENSATZ | NW + QW
-FRAGE: Was gebührt Allah für alles, was Er gibt?
-TEXT: ٱلۡـ___ لِلّٰهِ
+FRAGE: Welches Wort passt in die Lücke?
+TEXT: ٱلۡـ___ عَلَىٰ رَحۡمَةِ ٱللّٰهِ
 OPTION: حَمۡدُ
 OPTION: عِلۡمُ
+OPTION: حَقُّ
 OPTION: عَذَابُ
-OPTION: بَيۡتُ
 RICHTIG: حَمۡدُ
-BEGRÜNDUNG: Für Gaben dankt und lobt man — das ist das Lob.
+BEGRÜNDUNG: Für eine Gabe dankt und lobt man.
 
 #### AUFGABE | LÜCKENSATZ | NW + QW
-FRAGE: Was gibt der Lehrer an den Schüler weiter?
-TEXT: هٰذَا ___
-OPTION: ٱلۡعِلۡمُ
-OPTION: ٱلۡعَذَابُ
-OPTION: ٱلۡبَيۡتُ
-OPTION: ٱلۡيَوۡمُ
-RICHTIG: ٱلۡعِلۡمُ
-BEGRÜNDUNG: Weitergegeben wird Wissen.
+FRAGE: Welches Wort passt in die Lücke?
+TEXT: ٱلۡـ___ مِنَ ٱللّٰهِ
+OPTION: عِلۡمُ
+OPTION: بَيۡتُ
+OPTION: وَجۡهُ
+OPTION: يَوۡمُ
+RICHTIG: عِلۡمُ
+BEGRÜNDUNG: Was der Mensch weiß, hat Allah ihn gelehrt.
 
 #### AUFGABE | LÜCKENSATZ | NW + QW
-FRAGE: Was ist das Gegenteil von Lüge?
-TEXT: هٰذَا ___
-OPTION: ٱلۡحَقُّ
-OPTION: ٱلۡعِلۡمُ
-OPTION: ٱلۡحَمۡدُ
-OPTION: ٱلۡعَذَابُ
-RICHTIG: ٱلۡحَقُّ
-BEGRÜNDUNG: Das Gegenteil von Lüge ist die Wahrheit. Wissen kann man haben, wahr ist etwas anderes.
+FRAGE: Welches Wort passt in die Lücke?
+TEXT: ٱلۡكِتَابُ ___
+OPTION: حَقٌّ
+OPTION: بَيۡتٌ
+OPTION: وَجۡهٌ
+OPTION: يَوۡمٌ
+RICHTIG: حَقٌّ
+BEGRÜNDUNG: Ein Buch kann wahr sein. Ein Haus oder ein Tag ist es nicht.
 
 ======================================================================
 
@@ -609,7 +610,7 @@ BEGRÜNDUNG: Das Gegenteil von Lüge ist die Wahrheit. Wissen kann man haben, wa
 ----------------------------------------------------------------------
 
 #### AUFGABE | LÜCKENSATZ | NW + QW
-FRAGE: Wodurch besteht das Leben? Durch Allahs Barmherzigkeit.
+FRAGE: Welches Wort passt in die Lücke?
 TEXT: ٱلۡحَيَاةُ ___رَحۡمَةِ ٱللّٰهِ
 OPTION: بِ
 OPTION: لِ
@@ -619,17 +620,17 @@ RICHTIG: بِ
 BEGRÜNDUNG: Das Mittel, durch das etwas geschieht, bekommt bi-.
 
 #### AUFGABE | LÜCKENSATZ | NW + QW
-FRAGE: Wem gehört das Lob?
+FRAGE: Welches Wort passt in die Lücke?
 TEXT: ٱلۡحَمۡدُ ___ّٰهِ
 OPTION: لِ
 OPTION: بِ
 OPTION: فِي
 OPTION: مِنۡ
 RICHTIG: لِ
-BEGRÜNDUNG: Zugehörigkeit sagt man mit li-.
+BEGRÜNDUNG: Wem etwas gehört, bekommt li-.
 
 #### AUFGABE | LÜCKENSATZ | NW + QW
-FRAGE: Wohin führt dieser Weg?
+FRAGE: Welches Wort passt in die Lücke?
 TEXT: هٰذَا سَبِيلٌ ___ ٱللّٰهِ
 OPTION: إِلَىٰ
 OPTION: فِي
@@ -639,34 +640,34 @@ RICHTIG: إِلَىٰ
 BEGRÜNDUNG: Ein Ziel bekommt „zu".
 
 #### AUFGABE | LÜCKENSATZ | NW + QW
-FRAGE: Wohin kommen die Gläubigen nach dem Tod?
-TEXT: هٰذِهِ ___
-OPTION: ٱلۡجَنَّةُ
-OPTION: ٱلۡقَرۡيَةُ
-OPTION: ٱلسَّاعَةُ
-OPTION: ٱلنَّارُ
-RICHTIG: ٱلۡجَنَّةُ
-BEGRÜNDUNG: Die Belohnung ist der Garten, das Feuer ist die Strafe.
+FRAGE: Welches Wort passt in die Lücke?
+TEXT: ٱلرَّجُلُ ٱلطَّيِّبُ فِي ٱلۡـ___
+OPTION: جَنَّةِ
+OPTION: نَّارِ
+OPTION: جَهَنَّمَ
+OPTION: سَّاعَةِ
+RICHTIG: جَنَّةِ
+BEGRÜNDUNG: Der Gute kommt in den Garten, nicht ins Feuer.
 
 #### AUFGABE | LÜCKENSATZ | NW + QW
 FRAGE: Welches Wort passt in die Lücke?
-TEXT: هُوَ ٱللّٰهُ ___
+TEXT: ٱللّٰهُ إِلٰهٌ ___
 OPTION: أَحَدٌ
-OPTION: عَذَابٌ
-OPTION: مَسۡجِدٌ
-OPTION: يَوۡمٌ
+OPTION: أَلِيمٌ
+OPTION: شَدِيدٌ
+OPTION: مُبِينٌ
 RICHTIG: أَحَدٌ
-BEGRÜNDUNG: Allah ist einer, ohne einen zweiten neben Ihm.
+BEGRÜNDUNG: Einer, ohne einen zweiten neben Ihm.
 
 #### AUFGABE | LÜCKENSATZ | NW + QW
-FRAGE: Allah kann alles, nichts ist Ihm unmöglich.
-TEXT: ٱللّٰهُ ___
+FRAGE: Welches Wort passt in die Lücke?
+TEXT: رَبُّ ٱلۡبَيۡتِ ___
 OPTION: قَدِيرٌ
 OPTION: أَلِيمٌ
+OPTION: جَنَّةٌ
 OPTION: مُبِينٌ
-OPTION: شَدِيدٌ
 RICHTIG: قَدِيرٌ
-BEGRÜNDUNG: Wer alles kann, ist mächtig.
+BEGRÜNDUNG: Wer über alles verfügt, ist mächtig.
 
 ======================================================================
 
@@ -675,61 +676,63 @@ BEGRÜNDUNG: Wer alles kann, ist mächtig.
 ----------------------------------------------------------------------
 
 #### AUFGABE | LÜCKENSATZ | NW + QW
-FRAGE: Es geht um einen Mann, der in der Moschee ist.
-TEXT: ___ فِي ٱلۡمَسۡجِدِ
+FRAGE: Welches Wort passt in die Lücke?
+TEXT: ___ رَسُولُ ٱللّٰهِ
 OPTION: هُوَ
 OPTION: هِيَ
 OPTION: هُمۡ
 OPTION: نَفۡسٌ
 RICHTIG: هُوَ
-BEGRÜNDUNG: Ein Mann ist einer und männlich.
+BEGRÜNDUNG: Der Gesandte ist einer und männlich.
 
 #### AUFGABE | LÜCKENSATZ | NW + QW
-FRAGE: Es geht um die Sonne.
-TEXT: ___ عَظِيمَةٌ
+FRAGE: Welches Wort passt in die Lücke?
+TEXT: ___ ٱلۡحَيَاةُ ٱلدُّنۡيَا
 OPTION: هِيَ
 OPTION: هُوَ
 OPTION: هُمۡ
 OPTION: نَاسٌ
 RICHTIG: هِيَ
-BEGRÜNDUNG: Die Sonne ist eine und weiblich.
+BEGRÜNDUNG: Das Leben ist eines und weiblich.
 
 #### AUFGABE | LÜCKENSATZ | NW + QW
-FRAGE: Es geht um die Gefährten des Propheten, viele Männer.
-TEXT: ___ فِي ٱلۡجَنَّةِ
+FRAGE: Welches Wort passt in die Lücke?
+TEXT: ___ أَصۡحَابُ ٱلنَّارِ
 OPTION: هُمۡ
 OPTION: هُوَ
 OPTION: هِيَ
 OPTION: مُسۡلِمٌ
 RICHTIG: هُمۡ
-BEGRÜNDUNG: Bei mehreren Personen steht das Fürwort für die Mehrzahl.
+BEGRÜNDUNG: Die Gefährten sind mehrere.
 
 #### AUFGABE | LÜCKENSATZ | NW + QW
-FRAGE: Wer sich Allah hingibt und Ihm gehorcht, ist ein …
-TEXT: هُوَ ___
+FRAGE: Welches Wort passt in die Lücke?
+TEXT: ٱلرَّجُلُ ٱلطَّيِّبُ ___
 OPTION: مُسۡلِمٌ
 OPTION: يَوۡمٌ
 OPTION: بَيۡتٌ
 OPTION: عِلۡمٌ
 RICHTIG: مُسۡلِمٌ
-BEGRÜNDUNG: Wer sich hingibt, ist ein Muslim.
+BEGRÜNDUNG: Wer sich Allah hingibt, ist ein Muslim.
 
 #### AUFGABE | LÜCKENSATZ | NW + QW
-FRAGE: Wen ruft der Gesandte zum Glauben — alle Menschen.
-TEXT: هُمۡ ___
-OPTION: ٱلنَّاسُ
-OPTION: ٱلۡمَلَائِكَةُ
-OPTION: ٱلۡبَيۡتُ
-OPTION: ٱلۡيَوۡمُ
-RICHTIG: ٱلنَّاسُ
-BEGRÜNDUNG: Gerufen werden die Menschen. Die Engel brauchen keinen Ruf zum Glauben.
+FRAGE: Welches Wort passt in die Lücke?
+TEXT: ٱلرَّسُولُ إِلَى ٱلـ___
+OPTION: نَّاسِ
+OPTION: بَيۡتِ
+OPTION: يَوۡمِ
+OPTION: عِلۡمِ
+RICHTIG: نَّاسِ
+BEGRÜNDUNG: Gesandt wird er zu den Menschen.
 
 #### AUFGABE | LÜCKENSATZ | NW + QW
-FRAGE: Was verlässt den Körper, wenn der Mensch stirbt?
-TEXT: هِيَ ___
-OPTION: ٱلنَّفۡسُ
-OPTION: ٱلۡيَدُ
-OPTION: ٱلۡقَرۡيَةُ
-OPTION: ٱلسَّاعَةُ
-RICHTIG: ٱلنَّفۡسُ
-BEGRÜNDUNG: Beim Tod verlässt die Seele den Körper. Die Hand bleibt.
+FRAGE: Welches Wort passt in die Lücke?
+TEXT: ٱلۡـ___ طَيِّبَةٌ
+OPTION: نَفۡسُ
+OPTION: نَّارُ
+OPTION: جَهَنَّمُ
+OPTION: عَذَابُ
+RICHTIG: نَفۡسُ
+BEGRÜNDUNG: Rein sein kann die Seele. Feuer, Hölle und Strafe sind es nicht.
+
+======================================================================
