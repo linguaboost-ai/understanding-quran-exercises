@@ -252,3 +252,22 @@ export function buildCourse(order, files) {
   }
   return lessons;
 }
+
+/* Arabisch → Deutsch. Die Bedeutungen stehen schon in den Wortaufgaben:
+   QUIZ ordnet jedem Quizwort seine Bedeutung zu, und bei WER WIRD MILLIONÄR
+   ist die Frage die Bedeutung des richtigen Worts. Damit sind alle 66 Wörter
+   abgedeckt, ohne eine weitere Datei zu pflegen.
+   files: { [dateiname]: Ergebnis von parseExerciseFile } */
+export function buildGlossary(files) {
+  const map = new Map();
+  for (const parsed of Object.values(files)) {
+    for (const task of parsed.tasks) {
+      if (task.typ === 'QUIZ') {
+        for (const p of task.paare) if (!map.has(p.links)) map.set(p.links, p.rechts);
+      } else if (task.typ === 'WER WIRD MILLIONÄR' && task.richtig.length === 1 && task.frage) {
+        if (!map.has(task.richtig[0])) map.set(task.richtig[0], task.frage);
+      }
+    }
+  }
+  return map;
+}

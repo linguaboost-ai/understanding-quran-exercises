@@ -4,7 +4,7 @@
 import { readFileSync, readdirSync, writeFileSync } from 'node:fs';
 import { join, dirname } from 'node:path';
 import { fileURLToPath } from 'node:url';
-import { parseExerciseFile, parseOrder, matchesOrderEntry, buildCourse } from '../app/parser.js';
+import { parseExerciseFile, parseOrder, matchesOrderEntry, buildCourse, buildGlossary } from '../app/parser.js';
 import { RECITERS, clipFor } from '../app/audio.js';
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), '..');
@@ -40,10 +40,17 @@ const dupes = (arr) => [...new Set(arr.filter((x, i) => arr.indexOf(x) !== i))];
 
 for (const p of Object.values(files)) for (const i of p.issues) fehler.push(`${i.file}:${i.line} (L${i.lesson}) — ${i.msg}`);
 
-// Wörterbuch Arabisch → Deutsch aus „Wer wird Millionär" (Frage = Bedeutung, RICHTIG = Wort)
-const deOf = new Map();
-for (const t of files['Wortaufgaben-Lektion-01-11.txt'].tasks) {
-  if (t.typ === 'WER WIRD MILLIONÄR' && t.richtig.length === 1) deOf.set(t.richtig[0], t.frage);
+// Wörterbuch Arabisch → Deutsch aus Quiz und „Wer wird Millionär".
+// Dasselbe, das die Übersicht in der App benutzt.
+const deOf = buildGlossary(files);
+/* Die Übersicht schreibt hinter jedes arabische Wort seine Bedeutung. Fehlt
+   sie, bleibt dort eine Lücke — deshalb hier gemeldet. Grammatikformen mit
+   Endung (عَلِيمٌ statt عَلِيم) sind ausgenommen: dort geht es um die Form. */
+for (const p of Object.values(files)) {
+  for (const t of p.tasks) {
+    const woerter = t.typ === 'EINDRINGLING' ? t.options : t.kategorien.flatMap((k) => k.woerter);
+    for (const w of woerter) if (!deOf.has(w)) hinweise.push(`${where(t)} — keine Bedeutung für die Übersicht: ${w}`);
+  }
 }
 
 for (const p of Object.values(files)) {

@@ -1,6 +1,6 @@
 // Übungsseite „Quran verstehen lernen".
 // Alle Inhalte kommen zur Laufzeit aus den TXT-Dateien in Uebungen-Lektion-01-11/.
-import { parseExerciseFile, parseOrder, buildCourse } from './parser.js';
+import { parseExerciseFile, parseOrder, buildCourse, buildGlossary } from './parser.js';
 import { STRINGS } from './i18n.js';
 import { RECITERS, DEFAULT_AUDIO, reciterById, audioUrl, loadTimings, clipFor, playClip, playFile, stopAudio } from './audio.js';
 
@@ -111,6 +111,7 @@ const ICON = {
   video: '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M17 10.5V7c0-.55-.45-1-1-1H4c-.55 0-1 .45-1 1v10c0 .55.45 1 1 1h12c.55 0 1-.45 1-1v-3.5l4 4v-11l-4 4z"/></svg>',
   stepLeft: '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M15.41 7.41 14 6l-6 6 6 6 1.41-1.41L10.83 12z"/></svg>',
   stepRight: '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M8.59 16.59 10 18l6-6-6-6-1.41 1.41L13.17 12z"/></svg>',
+  list: '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M3 5h2v2H3zm4 0h14v2H7zM3 11h2v2H3zm4 0h14v2H7zM3 17h2v2H3zm4 0h14v2H7z"/></svg>',
 };
 
 // ---------- Laden ----------
@@ -130,6 +131,7 @@ async function load() {
       for (const issue of files[n].issues) console.warn(`[${n}:${issue.line}] ${issue.msg}`);
     });
     S.course = buildCourse(order, files);
+    S.glossar = buildGlossary(files);
   } catch (err) {
     console.error(err);
     S.error = String(err.message || err);
@@ -160,6 +162,8 @@ function applyRoute() {
       S.route = { name: 'run', lesson };
     } else if (h[2] === 'auswertung' && S.run?.lesson === lesson && S.run.finished) {
       S.route = { name: 'result', lesson };
+    } else if (h[2] === 'uebersicht') {
+      S.route = { name: 'overview', lesson };
     } else {
       S.route = { name: 'lesson', lesson };
     }
@@ -285,7 +289,11 @@ function next() {
 }
 
 // ---------- Darstellung ----------
-function isMobile() { return matchMedia('(max-width: 760px)').matches; }
+/* Handy heisst: schmales Fenster oder ein Geraet, das nur mit dem Finger
+   bedient wird. Dort gibt es nur die mobile Ansicht — kein abgebildetes
+   Handy, keine Desktopansicht, auch nicht quer gehalten. */
+const HANDY = '(max-width: 760px), (hover: none) and (pointer: coarse)';
+function isMobile() { return matchMedia(HANDY).matches; }
 function layoutName() { return isMobile() ? 'mobile' : S.settings.view === 'desktop' ? 'desktop' : 'phone'; }
 
 function render() {
@@ -301,6 +309,17 @@ function render() {
   document.getElementById('lektionen').innerHTML = amHandy ? '' : lektionenHtml();
   document.getElementById('einstellungen').innerHTML = amHandy ? '' : einstellungenHtml();
   document.getElementById('screen').innerHTML = screenHtml() + (S.settingsOpen ? settingsSheetHtml() : '');
+  mehrDarunter();
+}
+
+/* Steht unter dem sichtbaren Rand noch etwas — die letzte Antwortmoeglichkeit
+   zum Beispiel —, legt sich ein weicher Schatten ueber die Kante. Sonst ist
+   auf dem Handy nicht zu sehen, dass die Liste weitergeht. */
+function mehrDarunter() {
+  const sc = document.querySelector('#screen .scroll');
+  if (!sc) return;
+  const rest = sc.scrollHeight - sc.clientHeight - sc.scrollTop;
+  sc.classList.toggle('mehr-darunter', rest > 8);
 }
 
 function screenHtml() {
@@ -308,6 +327,7 @@ function screenHtml() {
   if (!S.course) return `<div class="screen center"><div class="spinner"></div><p class="muted">${esc(t().loading)}</p></div>`;
   switch (S.route.name) {
     case 'lesson': return lessonHtml(S.route.lesson);
+    case 'overview': return uebersichtHtml(S.route.lesson);
     case 'run': return runHtml();
     case 'result': return resultHtml();
     default: return homeHtml();
@@ -376,6 +396,86 @@ function lessonHtml(lesson) {
               <span class="section-go" aria-hidden="true">${ICON.stepRight}</span></button>`;
           }).join(''); })()}
       </div>
+    </main>
+    <footer class="footer two">
+      <button class="btn secondary" data-go="#/lektion/${lesson.nr}/uebersicht">${ICON.list}${esc(L.overview)}</button>
+      <button class="btn primary" data-go="#/lektion/${lesson.nr}/uebungen">${esc(L.toExercises)} ${ICON.arrow}</button>
+    </footer>
+  </div>`;
+}
+
+/* ---------- Übersicht: alle Aufgaben einer Lektion auf einer Seite ----------
+   Gezeigt wird jeweils nur, worum es geht, und die Lösung — kein Mischen,
+   keine Knöpfe. Arabische Wörter bekommen ihre Bedeutung in Klammern. */
+const uebersetzung = (w) => S.glossar?.get(w) || null;
+
+// Ein arabisches Wort mit seiner deutschen Bedeutung dahinter.
+function wortDe(s, mitDe = true) {
+  const de = mitDe && isArabic(s) ? uebersetzung(s) : null;
+  return `<span class="ue-wort">${word(s)}${de ? `<span class="ue-de">(${esc(de)})</span>` : ''}</span>`;
+}
+const wortListe = (ws, mitDe = true) => `<span class="ue-liste">${ws.map((w) => wortDe(w, mitDe)).join('')}</span>`;
+
+function ueZeile(links, rechts) {
+  return `<div class="ue-zeile"><div class="ue-links">${links}</div><div class="ue-rechts">${rechts}</div></div>`;
+}
+
+function uebersichtTaskHtml(task) {
+  // Kategorien: beide Kategorien nebeneinander, die Wörter darunter.
+  if (task.kategorien.length) {
+    return `<div class="ue-kats">${task.kategorien.map((k) => `
+      <div class="ue-kat">
+        <span class="ue-kat-name">${mixed(k.name)}</span>
+        <span class="ue-kat-erkl">${mixed(k.erklaerung)}</span>
+        <span class="ue-kat-woerter">${wortListe(k.woerter)}</span>
+      </div>`).join('')}</div>`;
+  }
+  // Zuordnen: links der Anstoß, rechts das Wort. Steht die Bedeutung schon
+  // auf der anderen Seite — beim Quiz etwa —, bleibt die Klammer weg.
+  if (task.paare.length) {
+    return `<div class="ue-paare">${task.paare.map((p) => {
+      const doppelt = uebersetzung(p.links) === p.rechts || uebersetzung(p.rechts) === p.links;
+      const seite = (s) => (doppelt ? `<span class="ue-wort">${word(s)}</span>` : wortDe(s));
+      return `<div class="ue-paar"><span class="ue-paar-links">${seite(p.links)}</span>
+      <span class="ue-paar-pfeil" aria-hidden="true">${ICON.arrow}</span>
+      <span class="ue-paar-rechts">${seite(p.rechts)}</span></div>`;
+    }).join('')}</div>`;
+  }
+  // Alles mit Antwortmöglichkeiten: die Aufgabe links, die Lösung rechts.
+  const teile = [];
+  if (task.muster) teile.push(`<span class="ue-muster">${word(task.muster)}</span>`);
+  if (task.stelle) teile.push(`<span class="chip">${esc(t().verse(task.stelle.sure, task.stelle.vers))}</span>`);
+  if (task.text) teile.push(`<span class="ue-text ${isArabic(task.text) ? 'ar' : ''}" ${isArabic(task.text) ? 'lang="ar" dir="rtl"' : ''}>${gaps(esc(task.text), null)}</span>`);
+  if (task.audioText) teile.push(`<span class="ue-text ar" lang="ar" dir="rtl">${esc(task.audioText)}</span>`);
+  /* Beim Eindringling sind die Mitbewerber die halbe Aufgabe: ohne sie ist
+     nicht zu sehen, wogegen das übrige Wort absticht. */
+  if (task.typ === 'EINDRINGLING') teile.push(wortListe(task.options.filter((o) => !task.richtig.includes(o))));
+  else if (!task.text && !task.audioText && task.frage) teile.push(`<span class="ue-frage">${mixed(task.frage)}</span>`);
+  else if (task.frage && /_{3,}/.test(task.frage)) teile.push(`<span class="ue-frage">${mixed(task.frage)}</span>`);
+  // Steht die Bedeutung schon als Frage da, wäre sie in Klammern doppelt.
+  const doppelt = task.richtig.length === 1 && uebersetzung(task.richtig[0]) === task.frage;
+  const loesung = task.richtig.length ? wortListe(task.richtig, !doppelt) : '<span class="muted">—</span>';
+  return ueZeile(teile.join('') || `<span class="ue-frage">${mixed(task.frage || '')}</span>`, loesung);
+}
+
+function uebersichtHtml(lesson) {
+  const L = t();
+  const bloecke = lesson.sections.filter((s) => s.tasks.length).map((s) => `
+    <section class="ue-block">
+      <h3 class="ue-head"><span class="label">${esc(s.entry.name)}</span><span class="muted small">${s.tasks.length}</span></h3>
+      <div class="ue-aufgaben">${s.tasks.map(uebersichtTaskHtml).join('')}</div>
+    </section>`).join('');
+  return `<div class="screen">
+    <header class="topbar">
+      <button class="icon-btn" data-go="#/lektion/${lesson.nr}" aria-label="${esc(L.back)}">${ICON.back}</button>
+      <h1 class="topbar-title">${esc(L.lesson)} ${lesson.nr} · ${esc(L.overview)}</h1>
+      <button class="icon-btn" data-act="settings" aria-label="${esc(L.settings)}">${ICON.gear}</button>
+    </header>
+    <main class="scroll uebersicht">
+      <h2 class="ue-titel">${esc(L.overviewTitle)}</h2>
+      <p class="ue-unter">${mixed(lesson.titel)} · ${esc(L.overviewHint)}</p>
+      ${lesson.meta.AW ? `<div class="ue-aw"><span class="label">AW</span>${wortListe(lesson.meta.AW)}</div>` : ''}
+      ${bloecke}
     </main>
     <footer class="footer">
       <button class="btn primary" data-go="#/lektion/${lesson.nr}/uebungen">${esc(L.toExercises)} ${ICON.arrow}</button>
@@ -858,7 +958,12 @@ document.addEventListener('error', (e) => {
   }
 }, true);
 
+document.addEventListener('scroll', (e) => {
+  if (e.target.classList?.contains('scroll')) mehrDarunter();
+}, true);
+window.addEventListener('resize', mehrDarunter);
+
 window.addEventListener('hashchange', applyRoute);
-matchMedia('(max-width: 760px)').addEventListener('change', render);
+matchMedia(HANDY).addEventListener('change', render);
 render();
 load();
