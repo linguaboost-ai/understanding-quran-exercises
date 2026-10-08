@@ -130,12 +130,30 @@ async function load() {
       for (const issue of files[n].issues) console.warn(`[${n}:${issue.line}] ${issue.msg}`);
     });
     S.course = buildCourse(order, files);
+    S.deutsch = bedeutungen(files);
   } catch (err) {
     console.error(err);
     S.error = String(err.message || err);
   }
   applyRoute();
 }
+
+/* Was heisst welches arabische Wort? Steht nirgends als Liste, laesst sich
+   aber aus den Wortaufgaben ablesen: das Quiz paart Wort und Bedeutung,
+   und bei „Wer wird Millionaer" ist die Frage die Bedeutung und die
+   richtige Antwort das Wort. Fuer die Uebersicht, die hinter jedes
+   arabische Wort seine Bedeutung setzt. */
+function bedeutungen(files) {
+  const karte = new Map();
+  for (const parsed of Object.values(files)) {
+    for (const t of parsed.tasks) {
+      if (t.typ === 'QUIZ') for (const p of t.paare) karte.set(p.links.trim(), p.rechts.trim());
+      if (t.typ === 'WER WIRD MILLIONÄR' && t.frage) for (const r of t.richtig) karte.set(r.trim(), t.frage.trim());
+    }
+  }
+  return karte;
+}
+const bedeutung = (s) => S.deutsch?.get(String(s).trim()) || '';
 
 // ---------- Navigation ----------
 function go(hash) {
@@ -158,6 +176,8 @@ function applyRoute() {
         history.replaceState(null, '', `#/lektion/${lesson.nr}/uebungen`);
       } else if (!S.run || S.run.lesson !== lesson || S.run.finished) startRun(lesson);
       S.route = { name: 'run', lesson };
+    } else if (h[2] === 'uebersicht') {
+      S.route = { name: 'overview', lesson };
     } else if (h[2] === 'auswertung' && S.run?.lesson === lesson && S.run.finished) {
       S.route = { name: 'result', lesson };
     } else {
@@ -308,6 +328,7 @@ function screenHtml() {
   if (!S.course) return `<div class="screen center"><div class="spinner"></div><p class="muted">${esc(t().loading)}</p></div>`;
   switch (S.route.name) {
     case 'lesson': return lessonHtml(S.route.lesson);
+    case 'overview': return uebersichtHtml(S.route.lesson);
     case 'run': return runHtml();
     case 'result': return resultHtml();
     default: return homeHtml();
@@ -377,9 +398,59 @@ function lessonHtml(lesson) {
           }).join(''); })()}
       </div>
     </main>
-    <footer class="footer">
+    <footer class="footer two">
+      <button class="btn ghost" data-go="#/lektion/${lesson.nr}/uebersicht">${esc(L.overview)}</button>
       <button class="btn primary" data-go="#/lektion/${lesson.nr}/uebungen">${esc(L.toExercises)} ${ICON.arrow}</button>
     </footer>
+  </div>`;
+}
+
+/* Ein arabisches Wort mit seiner Bedeutung dahinter, sofern bekannt. */
+function mitSinn(s) {
+  const de = bedeutung(s);
+  return `${word(s)}${de ? `<span class="sinn">(${esc(de)})</span>` : ''}`;
+}
+
+/* Alles, was in einer Lektion geuebt wird, auf einen Blick. Je Aufgabe nur
+   das Ergebnis, nicht der Weg dahin: die Paare, die Kategorien mit ihren
+   Woertern, die richtige Antwort. Arabische Woerter tragen ihre Bedeutung
+   in Klammern. */
+function aufgabeKurzHtml(task) {
+  if (task.paare.length)
+    return `<div class="k-paare">${task.paare.map((p) =>
+      `<div class="k-paar"><span>${mitSinn(p.links)}</span><span class="k-pfeil">–</span><span>${mitSinn(p.rechts)}</span></div>`).join('')}</div>`;
+
+  if (task.kategorien.length)
+    return `<div class="k-kats" style="--spalten:${task.kategorien.length}">${task.kategorien.map((k) =>
+      `<div class="k-kat"><div class="k-kat-name">${esc(k.name)}</div>
+        <div class="k-kat-woerter">${k.woerter.map((w) => `<div>${mitSinn(w)}</div>`).join('')}</div></div>`).join('')}</div>`;
+
+  if (task.options.length) {
+    const frage = task.frage ? `<div class="k-frage">${mixed(task.frage)}</div>` : '';
+    const satz = task.text && !task.audio ? `<div class="k-satz" lang="ar" dir="rtl">${esc(task.text)}</div>` : '';
+    const hoeren = task.audio ? `<div class="k-frage k-hoeren">${esc(t().listen)}${task.audioText ? ' · ' : ''}${task.audioText ? word(task.audioText) : ''}</div>` : '';
+    return `${frage}${satz}${hoeren}<div class="k-loesung">${task.richtig.map((r) => `<span class="k-treffer">${mitSinn(r)}</span>`).join('')}</div>`;
+  }
+  return task.text ? `<div class="k-satz" lang="ar" dir="rtl">${esc(task.text)}</div>` : '';
+}
+
+function uebersichtHtml(lesson) {
+  const L = t();
+  const teile = lesson.sections.filter((s) => s.tasks.length).map((s) => `
+    <section class="k-block">
+      <h3 class="k-titel">${esc(s.entry.name)}<span class="k-zahl">${s.tasks.length}</span></h3>
+      <div class="k-liste">${s.tasks.map((task) => `<div class="k-aufgabe">${aufgabeKurzHtml(task)}</div>`).join('')}</div>
+    </section>`).join('');
+  return `<div class="screen">
+    <header class="topbar">
+      <button class="icon-btn" data-go="#/lektion/${lesson.nr}" aria-label="${esc(L.back)}">${ICON.back}</button>
+      <h1 class="topbar-title">${esc(L.overview)}</h1>
+      <span class="topbar-side"></span>
+    </header>
+    <main class="scroll kompakt">
+      <h2 class="lesson-title">${esc(L.lesson)} ${lesson.nr} · ${mixed(lesson.titel)}</h2>
+      ${teile}
+    </main>
   </div>`;
 }
 
