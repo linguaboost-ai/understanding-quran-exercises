@@ -479,6 +479,14 @@ body.layout-mobile .progress { padding: 4px 14px 8px; }
 .mehr-btn:hover { background: var(--lav-2); }
 .mehr-btn svg { width: 16px; height: 16px; transform: rotate(90deg); }
 
+/* Im Browserfenster sitzen die Einstellungen schon als fester Knopf am
+   rechten Rand — das Zahnrad in der Kopfzeile waere dasselbe ein zweites
+   Mal. Es bleibt stehen, aber unsichtbar, damit der Titel in der Mitte
+   bleibt. Auf dem Handy gibt es den festen Knopf nicht, dort wird es
+   gebraucht. */
+body.layout-phone .topbar [data-act="settings"],
+body.layout-desktop .topbar [data-act="settings"] { visibility: hidden; pointer-events: none; }
+
 /* Auf dem Handy gibt es keine Leisten: dieselben beiden Knoepfe stehen dort
    oben in der Kopfzeile. */
 .nur-handy { display: none; }

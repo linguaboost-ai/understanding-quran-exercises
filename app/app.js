@@ -340,9 +340,12 @@ function mehrDarunter() {
   sc.classList.toggle('mehr-darunter', mehr);
   const alt = sc.querySelector('.mehr-knopf');
   if (!mehr) { alt?.remove(); return; }
+  /* Den Knopf gibt es nur fuer verdeckte Antwortmoeglichkeiten — die machen
+     eine Aufgabe unloesbar. Dass eine Liste weitergeht, zeigt der Schatten. */
   const kante = sc.getBoundingClientRect().bottom;
   const versteckt = [...sc.querySelectorAll('.option')].filter((o) => o.getBoundingClientRect().bottom > kante + 1).length;
-  const html = `<button class="mehr-btn" data-act="mehr">${esc(versteckt ? t().moreOptions(versteckt) : t().more)}${ICON.chevron}</button>`;
+  if (!versteckt) { alt?.remove(); return; }
+  const html = `<button class="mehr-btn" data-act="mehr">${esc(t().moreOptions(versteckt))}${ICON.chevron}</button>`;
   if (alt) { if (alt.innerHTML !== html) alt.innerHTML = html; return; }
   // Der Traeger ist hoehenlos, damit er den Inhalt nicht laenger macht.
   const knopf = document.createElement('div');
