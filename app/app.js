@@ -321,6 +321,31 @@ function render() {
   document.getElementById('lektionen').innerHTML = amHandy ? '' : lektionenHtml();
   document.getElementById('einstellungen').innerHTML = amHandy ? '' : einstellungenHtml();
   document.getElementById('screen').innerHTML = screenHtml() + (S.settingsOpen ? settingsSheetHtml() : '');
+  mehrDarunter();
+  requestAnimationFrame(mehrDarunter);
+}
+
+/* Steht unter dem sichtbaren Rand noch etwas, ist das auf dem Handy sonst
+   nicht zu sehen: der Schueler haelt die uebrigen Antwortmoeglichkeiten fuer
+   nicht vorhanden und bekommt die Aufgabe als falsch gewertet. Deshalb ein
+   Schatten ueber der Kante und darueber ein Knopf, der sagt, wie viele
+   Antworten noch darunter stehen, und auf Tippen dorthin rollt. */
+function mehrDarunter() {
+  const sc = document.querySelector('#screen .scroll');
+  if (!sc) return;
+  const mehr = sc.scrollHeight - sc.clientHeight - sc.scrollTop > 8;
+  sc.classList.toggle('mehr-darunter', mehr);
+  const alt = sc.querySelector('.mehr-knopf');
+  if (!mehr) { alt?.remove(); return; }
+  const kante = sc.getBoundingClientRect().bottom;
+  const versteckt = [...sc.querySelectorAll('.option')].filter((o) => o.getBoundingClientRect().bottom > kante + 1).length;
+  const html = `<button class="mehr-btn" data-act="mehr">${esc(versteckt ? t().moreOptions(versteckt) : t().more)}${ICON.chevron}</button>`;
+  if (alt) { if (alt.innerHTML !== html) alt.innerHTML = html; return; }
+  // Der Traeger ist hoehenlos, damit er den Inhalt nicht laenger macht.
+  const knopf = document.createElement('div');
+  knopf.className = 'mehr-knopf';
+  knopf.innerHTML = html;
+  sc.append(knopf);
 }
 
 function screenHtml() {
@@ -579,6 +604,13 @@ function choiceHtml(item) {
   const fill = st.checked && hasGap && task.richtig.length === 1 ? task.richtig[0] : null;
   const arabicOpts = task.options.every(isArabic);
   const satzOpts = arabicOpts && task.options.some(istSatz);
+  /* Kurze Antworten stehen zu zweit nebeneinander. Fuenf Woerter
+     untereinander sind 320 px hoch und rutschen in einem niedrigen Fenster
+     unter die Kante — dann sieht der Schueler nur drei davon und haelt die
+     uebrigen fuer nicht vorhanden. Die Grenze trennt sauber: die laengste
+     kurze Antwort ist „Barmherzigkeit" (14), der kuerzeste ganze Satz
+     „Das ist ein Ding." (17). Saetze bleiben untereinander. */
+  const kurzOpts = !arabicOpts && task.options.every((o) => o.trim().length <= 15);
   const opts = st.order.map((i) => {
     const o = task.options[i];
     const right = task.richtig.includes(o);
@@ -592,7 +624,7 @@ function choiceHtml(item) {
     return `<button class="${cls}" data-opt="${i}" ${st.checked ? 'disabled' : ''} role="${item.multi ? 'checkbox' : 'radio'}" aria-checked="${sel}">
       ${box}<span class="option-text">${word(o)}</span>${mark}</button>`;
   }).join('');
-  return `${promptHtml(task, fill)}<div class="options ${arabicOpts ? 'ar-options' : ''}${satzOpts ? ' satz-options' : ''}" role="${item.multi ? 'group' : 'radiogroup'}">${opts}</div>`;
+  return `${promptHtml(task, fill)}<div class="options ${arabicOpts ? 'ar-options' : ''}${satzOpts ? ' satz-options' : ''}${kurzOpts ? ' kurz-options' : ''}" role="${item.multi ? 'group' : 'radiogroup'}">${opts}</div>`;
 }
 
 function chipHtml(text, id, { selected = false, extra = '', status = '', hint = '' } = {}) {
@@ -800,6 +832,11 @@ document.addEventListener('click', (e) => {
   const act = el.dataset.act;
   if (act === 'lektionen') { S.lektionenOffen = !S.lektionenOffen; render(); return; }
   if (act === 'einstellungen') { S.einstellungenOffen = !S.einstellungenOffen; render(); return; }
+  if (act === 'mehr') {
+    const sc = document.querySelector('#screen .scroll');
+    sc?.scrollBy({ top: Math.round(sc.clientHeight * 0.8), behavior: 'smooth' });
+    return;
+  }
   if (act === 'settings') { S.settingsOpen = true; render(); return; }
   if (act === 'settings-close') { S.settingsOpen = false; render(); return; }
   if (act === 'check') { check(); return; }
@@ -928,6 +965,14 @@ document.addEventListener('error', (e) => {
     card?.querySelector('.video-error')?.removeAttribute('hidden');
   }
 }, true);
+
+document.addEventListener('scroll', (e) => {
+  if (e.target.classList?.contains('scroll')) mehrDarunter();
+}, true);
+window.addEventListener('resize', mehrDarunter);
+/* Die arabische Schrift wird nachgeladen. Bis sie da ist, stimmen die Hoehen
+   nicht — danach muss neu gezaehlt werden, wie viel unter der Kante steht. */
+document.fonts?.addEventListener('loadingdone', mehrDarunter);
 
 window.addEventListener('hashchange', applyRoute);
 matchMedia('(max-width: 760px)').addEventListener('change', render);

@@ -1,0 +1,3 @@
+# Nur zum Testen hier installiert (Playwright), gehoert nicht ins Repository.
+node_modules/
+package-lock.json
