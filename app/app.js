@@ -315,7 +315,8 @@ function render() {
   document.body.className = `layout-${layout}${S.settings.showAnswers ? ' answers-on' : ''}`
     + (S.lektionenOffen ? ' lektionen-offen' : '')
     + (S.einstellungenOffen ? ' einstellungen-offen' : '')
-    + (aktiveLektion() ? ' lektion-aktiv' : '');
+    + (aktiveLektion() ? ' lektion-aktiv' : '')
+    + (S.route.name === 'overview' ? ' uebersicht-offen' : '');
   document.getElementById('lektionen-knopf')?.setAttribute('aria-expanded', String(!!S.lektionenOffen));
   document.getElementById('einstellungen-knopf')?.setAttribute('aria-expanded', String(!!S.einstellungenOffen));
   document.documentElement.lang = S.settings.lang;

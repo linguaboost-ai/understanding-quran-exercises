@@ -422,11 +422,25 @@ body.layout-desktop .frage { font-size: 26px; margin: 22px 2px 14px; }
 .btn.ghost { background: #fff; color: var(--primary); border-color: var(--lav-3); }
 .btn.ghost:hover { border-color: var(--primary); }
 
-/* Am Schreibtisch ist Platz fuer zwei Spalten. Ein Block wird dabei nie
-   auseinandergerissen. */
-body.layout-desktop .scroll.kompakt { column-count: 2; column-gap: 20px; }
-body.layout-desktop .k-block { break-inside: avoid; margin-top: 0; margin-bottom: 14px; }
-body.layout-desktop .scroll.kompakt .lesson-title { column-span: all; }
+/* So viele Spalten, wie die Breite hergibt — auf dem Handy eine, am
+   Schreibtisch mehrere. Ein Block wird dabei nie auseinandergerissen. */
+.scroll.kompakt { column-width: 330px; column-gap: 20px; }
+.k-block { break-inside: avoid; }
+body.layout-desktop .k-block, body.layout-phone .k-block { margin-top: 0; margin-bottom: 14px; }
+.scroll.kompakt .lesson-title { column-span: all; }
+
+/* Die Uebersicht ist zum Lesen da, nicht zum Vorfuehren: im Browserfenster
+   faellt dafuer das abgebildete Handy weg und die Seite nimmt die Breite,
+   die zwischen den Leisten uebrig ist. */
+body.layout-phone.uebersicht-offen .stage { padding: 0; align-items: stretch; justify-content: stretch; }
+body.layout-phone.uebersicht-offen .device,
+body.layout-desktop.uebersicht-offen .device {
+  width: auto; height: 100vh; flex: 1; padding: 0;
+  background: none; border-radius: 0; box-shadow: none; }
+body.layout-phone.uebersicht-offen .screen-host { border-radius: 0; overflow: visible; }
+body.layout-desktop.uebersicht-offen .screen-host { max-width: none; }
+body.layout-phone.uebersicht-offen .scroll,
+body.layout-desktop.uebersicht-offen .scroll { padding-left: 28px; padding-right: 28px; }
 
 /* ---------- Handy: enger setzen ----------
    Auf schmalen Geraeten kostet jede Zeile Platz. Je weniger Frage und
@@ -513,7 +527,9 @@ body.layout-mobile .topbar .icon-btn { width: 34px; height: 34px; }
     border-radius: 0 !important; overflow: visible !important; }
   .scroll { overflow: visible !important; height: auto !important;
     max-height: none !important; padding: 0 !important; box-shadow: none !important; }
-  .scroll.kompakt { column-count: 2 !important; column-gap: 12mm; }
+  /* Auf A4 zwei feste Spalten. Die Spaltenbreite vom Bildschirm muss weg,
+     sonst passt neben ihr keine zweite Spalte mehr aufs Blatt. */
+  .scroll.kompakt { column-width: auto !important; column-count: 2 !important; column-gap: 10mm; }
   .k-block, .k-aufgabe { break-inside: avoid; }
   .lesson-title { column-span: all; margin-top: 0; }
 }
