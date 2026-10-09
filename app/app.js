@@ -608,6 +608,11 @@ function choiceHtml(item) {
   const fill = st.checked && hasGap && task.richtig.length === 1 ? task.richtig[0] : null;
   const arabicOpts = task.options.every(isArabic);
   const satzOpts = arabicOpts && task.options.some(istSatz);
+  /* Kurze Antworten aus einem Wort stehen zu zweit nebeneinander. Fuenf
+     Woerter untereinander sind 320 px hoch und rutschen in einem niedrigen
+     Fenster unter die Kante — dann sieht der Schueler nur drei davon und
+     haelt die uebrigen fuer nicht vorhanden. */
+  const kurzOpts = !arabicOpts && task.options.every((o) => !/\s/.test(o.trim()));
   const opts = st.order.map((i) => {
     const o = task.options[i];
     const right = task.richtig.includes(o);
@@ -621,7 +626,7 @@ function choiceHtml(item) {
     return `<button class="${cls}" data-opt="${i}" ${st.checked ? 'disabled' : ''} role="${item.multi ? 'checkbox' : 'radio'}" aria-checked="${sel}">
       ${box}<span class="option-text">${word(o)}</span>${mark}</button>`;
   }).join('');
-  return `${promptHtml(task, fill)}<div class="options ${arabicOpts ? 'ar-options' : ''}${satzOpts ? ' satz-options' : ''}" role="${item.multi ? 'group' : 'radiogroup'}">${opts}</div>`;
+  return `${promptHtml(task, fill)}<div class="options ${arabicOpts ? 'ar-options' : ''}${satzOpts ? ' satz-options' : ''}${kurzOpts ? ' kurz-options' : ''}" role="${item.multi ? 'group' : 'radiogroup'}">${opts}</div>`;
 }
 
 function chipHtml(text, id, { selected = false, extra = '', status = '', hint = '' } = {}) {
