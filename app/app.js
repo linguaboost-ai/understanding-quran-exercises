@@ -608,11 +608,13 @@ function choiceHtml(item) {
   const fill = st.checked && hasGap && task.richtig.length === 1 ? task.richtig[0] : null;
   const arabicOpts = task.options.every(isArabic);
   const satzOpts = arabicOpts && task.options.some(istSatz);
-  /* Kurze Antworten aus einem Wort stehen zu zweit nebeneinander. Fuenf
-     Woerter untereinander sind 320 px hoch und rutschen in einem niedrigen
-     Fenster unter die Kante — dann sieht der Schueler nur drei davon und
-     haelt die uebrigen fuer nicht vorhanden. */
-  const kurzOpts = !arabicOpts && task.options.every((o) => !/\s/.test(o.trim()));
+  /* Kurze Antworten stehen zu zweit nebeneinander. Fuenf Woerter
+     untereinander sind 320 px hoch und rutschen in einem niedrigen Fenster
+     unter die Kante — dann sieht der Schueler nur drei davon und haelt die
+     uebrigen fuer nicht vorhanden. Die Grenze trennt sauber: die laengste
+     kurze Antwort ist „Barmherzigkeit" (14), der kuerzeste ganze Satz
+     „Das ist ein Ding." (17). Saetze bleiben untereinander. */
+  const kurzOpts = !arabicOpts && task.options.every((o) => o.trim().length <= 15);
   const opts = st.order.map((i) => {
     const o = task.options[i];
     const right = task.richtig.includes(o);
