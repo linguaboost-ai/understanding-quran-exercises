@@ -134,7 +134,7 @@ body.layout-mobile .screen-host { background: var(--bg); }
 /* Auf schmalen Geraeten kostet jede Zeile Platz: etwas kleinere Schrift,
    engere Raender, und unter der letzten Zeile bleibt Luft fuer den Knopf. */
 body.layout-mobile .scroll { padding: 6px 14px 20px; }
-body.layout-mobile .frage { font-size: 20px; margin: 16px 2px 18px; }
+body.layout-mobile .frage { font-size: 20px; margin: 12px 2px 10px; }
 body.layout-mobile .hinweis { margin-bottom: 12px; }
 body.layout-mobile .ar-text { font-size: 27px; line-height: 1.9; }
 body.layout-mobile .text-card { padding: 12px 12px; margin: 4px 0 12px; }
@@ -269,9 +269,11 @@ body.layout-mobile .footer { padding-bottom: max(18px, env(safe-area-inset-botto
 .progress-score { display: flex; align-items: center; gap: 2px; font-size: 13px; font-weight: 700; color: var(--ok); font-variant-numeric: tabular-nums; }
 .section-label { font-size: 11px; font-weight: 700; letter-spacing: 0.8px; text-transform: uppercase; color: var(--primary-2); margin: 4px 2px 10px; }
 .section-label .multi { color: var(--muted); }
-.frage { font-size: 22px; font-weight: 700; line-height: 1.4; margin: 22px 2px 24px; color: var(--ink); text-align: center; }
+/* Der Hinweis gehoert zur Frage und rueckt dicht darunter. Jede Zeile, die
+   hier gespart wird, ist eine Zeile mehr fuer die Antwortmoeglichkeiten. */
+.frage { font-size: 22px; font-weight: 700; line-height: 1.4; margin: 18px 2px 12px; color: var(--ink); text-align: center; }
 .hinweis + .frage, .frage + .hinweis { margin-top: 0; }
-.hinweis { font-size: 14px; color: var(--muted); margin: 0 2px 16px; text-align: center; }
+.hinweis { font-size: 14px; color: var(--muted); margin: 0 2px 14px; text-align: center; }
 .gap { display: inline-block; min-width: 64px; height: 1.1em; border-bottom: 2px solid var(--primary); vertical-align: -0.15em; margin: 0 4px; }
 .gap.filled { height: auto; min-width: 0; border-bottom-color: var(--ok-line); color: var(--ok); font-weight: 700; padding: 0 2px; }
 .text-card { background: #fff; border: 1px solid var(--line); border-radius: 20px; padding: 14px 16px; margin: 6px 0 14px; display: flex; flex-direction: column; align-items: center; gap: 4px; }
@@ -387,7 +389,7 @@ body.layout-desktop .progress { padding: 6px 32px 12px; }
 body.layout-desktop .footer, body.layout-desktop .feedback { padding-left: 32px; padding-right: 32px; }
 body.layout-desktop .options.ar-options { grid-template-columns: repeat(4, 1fr); }
 body.layout-desktop .options.ar-options.satz-options { grid-template-columns: 1fr; }
-body.layout-desktop .frage { font-size: 26px; margin: 26px 2px 28px; }
+body.layout-desktop .frage { font-size: 26px; margin: 22px 2px 14px; }
 
 :focus-visible { outline: 2px solid var(--primary); outline-offset: 2px; }
 @media (prefers-reduced-motion: reduce) { * { animation: none !important; transition: none !important; } }
@@ -466,7 +468,7 @@ body.layout-mobile .ue-text.ar { font-size: 19px; }
    Kante, und der Schueler haelt sie fuer nicht vorhanden. Muss nach den
    Regeln der Desktopansicht stehen, um sie zu ueberschreiben. */
 @media (max-height: 820px) {
-  body.layout-phone .frage, body.layout-desktop .frage { font-size: 20px; margin: 12px 2px 14px; }
+  body.layout-phone .frage, body.layout-desktop .frage { font-size: 20px; margin: 12px 2px 8px; }
   body.layout-phone .hinweis, body.layout-desktop .hinweis { margin-bottom: 10px; }
   body.layout-phone .ar-text, body.layout-desktop .ar-text { font-size: 28px; line-height: 1.8; }
   body.layout-phone .text-card, body.layout-desktop .text-card { margin: 4px 0 10px; padding: 10px 14px; }
@@ -474,7 +476,20 @@ body.layout-mobile .ue-text.ar { font-size: 19px; }
   body.layout-phone .ar-options .option, body.layout-desktop .ar-options .option { min-height: 62px; }
 }
 @media (max-height: 680px) {
-  body.layout-mobile .frage { font-size: 18px; margin: 10px 2px 12px; }
+  body.layout-mobile .frage { font-size: 18px; margin: 10px 2px 8px; }
   body.layout-mobile .ar-text { font-size: 23px; line-height: 1.7; }
   body.layout-mobile .option { min-height: 46px; }
 }
+
+/* ---------- „Darunter geht es weiter" ----------
+   Haengt am unteren Rand des Rollbereichs, nennt die Zahl der verdeckten
+   Antwortmoeglichkeiten und rollt auf Tippen dorthin. Der Traeger ist
+   hoehenlos, damit er den Inhalt nicht laenger macht. */
+.mehr-knopf { position: sticky; bottom: 0; height: 0; display: flex; justify-content: center; pointer-events: none; }
+.mehr-btn { pointer-events: auto; position: relative; bottom: 6px;
+  display: inline-flex; align-items: center; gap: 6px; padding: 8px 14px;
+  border: 1px solid var(--lav-3); border-radius: 100px; background: #fff; color: var(--primary);
+  font-size: 13px; font-weight: 700; cursor: pointer; white-space: nowrap;
+  box-shadow: 0 6px 20px rgba(38, 36, 123, .22); }
+.mehr-btn:hover { background: var(--lav-2); }
+.mehr-btn svg { width: 16px; height: 16px; transform: rotate(90deg); }

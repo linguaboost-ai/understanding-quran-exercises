@@ -310,16 +310,33 @@ function render() {
   document.getElementById('einstellungen').innerHTML = amHandy ? '' : einstellungenHtml();
   document.getElementById('screen').innerHTML = screenHtml() + (S.settingsOpen ? settingsSheetHtml() : '');
   mehrDarunter();
+  // Noch einmal, sobald die Schriften sitzen: vorher stimmen die Hoehen nicht.
+  requestAnimationFrame(mehrDarunter);
 }
 
-/* Steht unter dem sichtbaren Rand noch etwas — die letzte Antwortmoeglichkeit
-   zum Beispiel —, legt sich ein weicher Schatten ueber die Kante. Sonst ist
-   auf dem Handy nicht zu sehen, dass die Liste weitergeht. */
+/* Steht unter dem sichtbaren Rand noch etwas, ist das auf dem Handy sonst
+   nicht zu sehen: der Schueler haelt die uebrigen Antwortmoeglichkeiten fuer
+   nicht vorhanden und bekommt die Aufgabe als falsch gewertet. Deshalb ein
+   Schatten ueber der Kante und darueber ein Knopf, der sagt, wie viele
+   Antworten noch darunter stehen, und auf Tippen dorthin rollt. */
 function mehrDarunter() {
   const sc = document.querySelector('#screen .scroll');
   if (!sc) return;
   const rest = sc.scrollHeight - sc.clientHeight - sc.scrollTop;
-  sc.classList.toggle('mehr-darunter', rest > 8);
+  const mehr = rest > 8;
+  sc.classList.toggle('mehr-darunter', mehr);
+  const alt = sc.querySelector('.mehr-knopf');
+  if (!mehr) { alt?.remove(); return; }
+  const kante = sc.getBoundingClientRect().bottom;
+  const versteckt = [...sc.querySelectorAll('.option')].filter((o) => o.getBoundingClientRect().bottom > kante + 1).length;
+  const text = versteckt ? t().moreOptions(versteckt) : t().more;
+  // Der Knopf selbst ist hoehenlos, damit er den Inhalt nicht laenger macht.
+  const html = `<button class="mehr-btn" data-act="mehr">${esc(text)}${ICON.chevron}</button>`;
+  if (alt) { if (alt.innerHTML !== html) alt.innerHTML = html; return; }
+  const knopf = document.createElement('div');
+  knopf.className = 'mehr-knopf';
+  knopf.innerHTML = html;
+  sc.append(knopf);
 }
 
 function screenHtml() {
@@ -836,6 +853,11 @@ document.addEventListener('click', (e) => {
   const act = el.dataset.act;
   if (act === 'lektionen') { S.lektionenOffen = !S.lektionenOffen; render(); return; }
   if (act === 'einstellungen') { S.einstellungenOffen = !S.einstellungenOffen; render(); return; }
+  if (act === 'mehr') {
+    const sc = document.querySelector('#screen .scroll');
+    sc?.scrollBy({ top: Math.round(sc.clientHeight * 0.8), behavior: 'smooth' });
+    return;
+  }
   if (act === 'settings') { S.settingsOpen = true; render(); return; }
   if (act === 'settings-close') { S.settingsOpen = false; render(); return; }
   if (act === 'check') { check(); return; }
@@ -969,6 +991,9 @@ document.addEventListener('scroll', (e) => {
   if (e.target.classList?.contains('scroll')) mehrDarunter();
 }, true);
 window.addEventListener('resize', mehrDarunter);
+/* Die arabische Schrift wird nachgeladen. Bis sie da ist, stimmen die Hoehen
+   nicht — danach muss neu gezaehlt werden, wie viel unter der Kante steht. */
+document.fonts?.addEventListener('loadingdone', mehrDarunter);
 
 window.addEventListener('hashchange', applyRoute);
 matchMedia(HANDY).addEventListener('change', render);
