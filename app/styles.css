@@ -107,6 +107,11 @@ body.layout-desktop.einstellungen-offen .stage { margin-right: 300px; }
 .side-toggle.links { left: 16px; }
 .side-toggle.rechts { right: 16px; }
 body.layout-phone .side-toggle, body.layout-desktop .side-toggle { display: flex; }
+/* Zwei weitere Knoepfe unter den Einstellungen, nur solange eine Lektion
+   im Blick ist — auch waehrend der Uebungen. */
+.side-toggle.zweiter { top: 68px; }
+.side-toggle.dritter { top: 120px; }
+body:not(.lektion-aktiv) .side-toggle.fuer-lektion { display: none; }
 body.lektionen-offen .side-toggle.links { left: 316px; }
 body.einstellungen-offen .side-toggle.rechts { right: 316px; }
 
@@ -473,3 +478,34 @@ body.layout-mobile .progress { padding: 4px 14px 8px; }
   box-shadow: 0 6px 20px rgba(38, 36, 123, .22); }
 .mehr-btn:hover { background: var(--lav-2); }
 .mehr-btn svg { width: 16px; height: 16px; transform: rotate(90deg); }
+
+/* Auf dem Handy gibt es keine Leisten: dieselben beiden Knoepfe stehen dort
+   oben in der Kopfzeile. */
+.nur-handy { display: none; }
+body.layout-mobile .topbar-lektion.nur-handy { display: flex; gap: 2px; flex-shrink: 0; }
+body.layout-mobile .topbar { gap: 6px; }
+body.layout-mobile .topbar .icon-btn { width: 34px; height: 34px; }
+
+/* ---------- Drucken: daraus macht der Browser das PDF ----------
+   Die Seite steht sonst in einem abgebildeten Geraet mit eigenem
+   Rollbereich — gedruckt kaeme davon nur der sichtbare Ausschnitt. Hier
+   wird daraus ein fortlaufendes Dokument. Die Regeln der Geraeteansichten
+   sind spezifischer als diese, deshalb „!important". */
+@media print {
+  @page { margin: 14mm; }
+  html, body { height: auto !important; background: #fff !important; }
+  .sidebar, .side-toggle, .topbar, .footer, .sheet, .sheet-backdrop,
+  .mehr-knopf, .video-card, .progress { display: none !important; }
+  .layout, .stage, .device, .screen-host, .screen {
+    display: block !important; position: static !important;
+    width: auto !important; max-width: none !important;
+    height: auto !important; min-height: 0 !important;
+    margin: 0 !important; padding: 0 !important;
+    background: #fff !important; box-shadow: none !important;
+    border-radius: 0 !important; overflow: visible !important; }
+  .scroll { overflow: visible !important; height: auto !important;
+    max-height: none !important; padding: 0 !important; box-shadow: none !important; }
+  .scroll.kompakt { column-count: 2 !important; column-gap: 12mm; }
+  .k-block, .k-aufgabe { break-inside: avoid; }
+  .lesson-title { column-span: all; margin-top: 0; }
+}

@@ -103,6 +103,8 @@ const ICON = {
   back: '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M20 11H7.83l5.59-5.59L12 4l-8 8 8 8 1.41-1.41L7.83 13H20z"/></svg>',
   arrow: '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 4l-1.41 1.41L16.17 11H4v2h12.17l-5.58 5.59L12 20l8-8z"/></svg>',
   chevron: '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M10 6 8.59 7.41 13.17 12l-4.58 4.59L10 18l6-6z"/></svg>',
+  list: '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M3 5h2v2H3zm4 0h14v2H7zM3 11h2v2H3zm4 0h14v2H7zM3 17h2v2H3zm4 0h14v2H7z"/></svg>',
+  download: '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3v9.59l3.3-3.3 1.4 1.42L12 15.41l-4.7-4.7 1.4-1.42 3.3 3.3V3zM5 18h14v2H5z"/></svg>',
   check: '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M9 16.17 4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z"/></svg>',
   cross: '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>',
   gear: '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M19.14 12.94c.04-.3.06-.61.06-.94 0-.32-.02-.64-.07-.94l2.03-1.58a.49.49 0 0 0 .12-.61l-1.92-3.32a.49.49 0 0 0-.59-.22l-2.39.96c-.5-.38-1.03-.7-1.62-.94l-.36-2.54a.48.48 0 0 0-.48-.41h-3.84c-.24 0-.43.17-.47.41l-.36 2.54c-.59.24-1.13.57-1.62.94l-2.39-.96a.48.48 0 0 0-.59.22L2.74 8.87a.47.47 0 0 0 .12.61l2.03 1.58c-.05.3-.09.63-.09.94s.02.64.07.94l-2.03 1.58a.49.49 0 0 0-.12.61l1.92 3.32c.12.22.37.29.59.22l2.39-.96c.5.38 1.03.7 1.62.94l.36 2.54c.05.24.24.41.48.41h3.84c.24 0 .44-.17.47-.41l.36-2.54c.59-.24 1.13-.56 1.62-.94l2.39.96c.22.08.47 0 .59-.22l1.92-3.32a.46.46 0 0 0-.12-.61l-2.01-1.58zM12 15.6A3.6 3.6 0 1 1 12 8.4a3.6 3.6 0 0 1 0 7.2z"/></svg>',
@@ -312,7 +314,8 @@ function render() {
   const layout = layoutName();
   document.body.className = `layout-${layout}${S.settings.showAnswers ? ' answers-on' : ''}`
     + (S.lektionenOffen ? ' lektionen-offen' : '')
-    + (S.einstellungenOffen ? ' einstellungen-offen' : '');
+    + (S.einstellungenOffen ? ' einstellungen-offen' : '')
+    + (aktiveLektion() ? ' lektion-aktiv' : '');
   document.getElementById('lektionen-knopf')?.setAttribute('aria-expanded', String(!!S.lektionenOffen));
   document.getElementById('einstellungen-knopf')?.setAttribute('aria-expanded', String(!!S.einstellungenOffen));
   document.documentElement.lang = S.settings.lang;
@@ -346,6 +349,40 @@ function mehrDarunter() {
   knopf.className = 'mehr-knopf';
   knopf.innerHTML = html;
   sc.append(knopf);
+}
+
+/* Solange eine Lektion im Blick ist — auf ihrer Seite, waehrend der Uebungen,
+   in der Auswertung —, gehoeren „Auf einen Blick" und der PDF-Knopf dazu. */
+function aktiveLektion() {
+  return S.route.lesson || S.run?.lesson || null;
+}
+
+/* Auf dem Handy gibt es die Leisten nicht; dort stehen die beiden Knoepfe
+   oben in der Kopfzeile. */
+function lektionKnoepfeHtml({ ohneUebersicht = false } = {}) {
+  const L = t();
+  return `<span class="topbar-lektion nur-handy">
+    ${ohneUebersicht ? '' : `<button class="icon-btn" data-act="uebersicht" aria-label="${esc(L.overview)}">${ICON.list}</button>`}
+    <button class="icon-btn" data-act="pdf" aria-label="${esc(L.pdf)}">${ICON.download}</button>
+  </span>`;
+}
+
+/* „Als PDF sichern" laeuft ueber den Druckdialog des Browsers — dort heisst
+   es „Als PDF sichern" bzw. „Save as PDF". Ein eigener PDF-Erzeuger waere
+   eine grosse Bibliothek, und die arabische Schrift kaeme darin schlecht
+   heraus. So wird dieselbe Seite mit denselben Schriften gedruckt. */
+function alsPdf() {
+  const l = aktiveLektion();
+  if (!l) return;
+  if (S.route.name !== 'overview' || S.route.lesson !== l) go(`#/lektion/${l.nr}/uebersicht`);
+  /* Der Wechsel der Adresse wirkt erst im naechsten Durchlauf. Gedruckt wird
+     deshalb erst, wenn die Uebersicht wirklich steht. */
+  let versuche = 60;
+  const wenn_bereit = () => {
+    if (document.querySelector('.scroll.kompakt')) window.print();
+    else if (versuche-- > 0) requestAnimationFrame(wenn_bereit);
+  };
+  requestAnimationFrame(wenn_bereit);
 }
 
 function screenHtml() {
@@ -401,6 +438,7 @@ function lessonHtml(lesson) {
   return `<div class="screen">
     <header class="topbar">
       <button class="icon-btn" data-go="#/" aria-label="${esc(L.back)}">${ICON.back}</button>
+      ${lektionKnoepfeHtml()}
       <h1 class="topbar-title">${esc(L.lesson)} ${lesson.nr}</h1>
       <button class="icon-btn" data-act="settings" aria-label="${esc(L.settings)}">${ICON.gear}</button>
     </header>
@@ -423,8 +461,7 @@ function lessonHtml(lesson) {
           }).join(''); })()}
       </div>
     </main>
-    <footer class="footer two">
-      <button class="btn ghost" data-go="#/lektion/${lesson.nr}/uebersicht">${esc(L.overview)}</button>
+    <footer class="footer">
       <button class="btn primary" data-go="#/lektion/${lesson.nr}/uebungen">${esc(L.toExercises)} ${ICON.arrow}</button>
     </footer>
   </div>`;
@@ -469,6 +506,7 @@ function uebersichtHtml(lesson) {
   return `<div class="screen">
     <header class="topbar">
       <button class="icon-btn" data-go="#/lektion/${lesson.nr}" aria-label="${esc(L.back)}">${ICON.back}</button>
+      ${lektionKnoepfeHtml({ ohneUebersicht: true })}
       <h1 class="topbar-title">${esc(L.overview)}</h1>
       <span class="topbar-side"></span>
     </header>
@@ -489,6 +527,7 @@ function runHtml() {
   return `<div class="screen run">
     <header class="topbar">
       <button class="icon-btn" data-act="leave" aria-label="${esc(L.close)}">${ICON.close}</button>
+      ${lektionKnoepfeHtml()}
       <h1 class="topbar-title">${esc(L.lesson)} ${run.lesson.nr}</h1>
       <span class="topbar-side nav">
         <button class="step-btn" data-act="prev" ${run.idx === 0 ? 'disabled' : ''} aria-label="${esc(L.prevTask)}">${ICON.stepLeft}</button>
@@ -716,6 +755,7 @@ function resultHtml() {
   return `<div class="screen">
     <header class="topbar">
       <button class="icon-btn" data-go="#/" aria-label="${esc(L.close)}">${ICON.close}</button>
+      ${lektionKnoepfeHtml()}
       <h1 class="topbar-title">${esc(L.lesson)} ${run.lesson.nr}</h1>
       <span class="topbar-side"></span>
     </header>
@@ -837,6 +877,12 @@ document.addEventListener('click', (e) => {
     sc?.scrollBy({ top: Math.round(sc.clientHeight * 0.8), behavior: 'smooth' });
     return;
   }
+  if (act === 'uebersicht') {
+    const l = aktiveLektion();
+    if (l) go(`#/lektion/${l.nr}/uebersicht`);
+    return;
+  }
+  if (act === 'pdf') { alsPdf(); return; }
   if (act === 'settings') { S.settingsOpen = true; render(); return; }
   if (act === 'settings-close') { S.settingsOpen = false; render(); return; }
   if (act === 'check') { check(); return; }
