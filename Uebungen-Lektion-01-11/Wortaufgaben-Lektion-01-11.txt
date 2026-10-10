@@ -33,6 +33,12 @@ PAAR: مَسۡجِد = Moschee
 PAAR: كِتَاب = Buch
 PAAR: مَاء = Wasser
 
+#### AUFGABE | EMOJIS ZUORDNEN | QW
+FRAGE: Welches Wort gehört zu welchem Bild?
+PAAR: 🕌️ = مَسۡجِد
+PAAR: 📖️ = كِتَاب
+PAAR: 💧️ = مَاء
+
 #### AUFGABE | WER WIRD MILLIONÄR | NW + QW
 FRAGE: dies
 OPTION: هٰذَا
@@ -98,6 +104,12 @@ FRAGE: Was bedeutet welches Wort?
 PAAR: رَسُول = Gesandter
 PAAR: عَبۡد = Diener
 PAAR: نَبِيّ = Prophet
+
+#### AUFGABE | EMOJIS ZUORDNEN | QW
+FRAGE: Welches Wort gehört zu welchem Bild?
+PAAR: ✉️ = رَسُول
+PAAR: 🙇️ = عَبۡد
+PAAR: 🕯️ = نَبِيّ
 
 #### AUFGABE | WER WIRD MILLIONÄR | NW + QW
 FRAGE: was
@@ -165,6 +177,12 @@ PAAR: صَلَاة = Gebet
 PAAR: رَحۡمَة = Barmherzigkeit
 PAAR: آيَة = Zeichen
 
+#### AUFGABE | EMOJIS ZUORDNEN | QW
+FRAGE: Welches Wort gehört zu welchem Bild?
+PAAR: 🤲️ = صَلَاة
+PAAR: 💗️ = رَحۡمَة
+PAAR: 🪧️ = آيَة
+
 #### AUFGABE | WER WIRD MILLIONÄR | NW + QW
 FRAGE: diese
 OPTION: هٰذِهِ
@@ -230,6 +248,12 @@ FRAGE: Was bedeutet welches Wort?
 PAAR: جَهَنَّم = Hölle
 PAAR: سَمَاء = Himmel
 PAAR: أَرۡض = Erde
+
+#### AUFGABE | EMOJIS ZUORDNEN | QW
+FRAGE: Welches Wort gehört zu welchem Bild?
+PAAR: 🕳️ = جَهَنَّم
+PAAR: 🌌️ = سَمَاء
+PAAR: 🌍️ = أَرۡض
 
 #### AUFGABE | WER WIRD MILLIONÄR | NW + QW
 FRAGE: Sonne
@@ -297,6 +321,12 @@ PAAR: إِلٰه = Gott
 PAAR: مُسۡتَقِيم = gerade
 PAAR: حَكِيم = weise
 
+#### AUFGABE | EMOJIS ZUORDNEN | QW
+FRAGE: Welches Wort gehört zu welchem Bild?
+PAAR: ☝️ = إِلٰه
+PAAR: 📏️ = مُسۡتَقِيم
+PAAR: 🦉️ = حَكِيم
+
 #### AUFGABE | WER WIRD MILLIONÄR | NW + QW
 FRAGE: wissend
 OPTION: عَلِيم
@@ -362,6 +392,12 @@ FRAGE: Was bedeutet welches Wort?
 PAAR: دُنۡيَا = Diesseits
 PAAR: صِرَاط = Pfad
 PAAR: عَذَاب = Strafe
+
+#### AUFGABE | EMOJIS ZUORDNEN | QW
+FRAGE: Welches Wort gehört zu welchem Bild?
+PAAR: 🏙️ = دُنۡيَا
+PAAR: 🛣️ = صِرَاط
+PAAR: ⚡️ = عَذَاب
 
 #### AUFGABE | WER WIRD MILLIONÄR | NW + QW
 FRAGE: Leben
@@ -429,6 +465,12 @@ PAAR: مَلَائِكَة = Engel
 PAAR: قَلۡب = Herz
 PAAR: نَار = Feuer
 
+#### AUFGABE | EMOJIS ZUORDNEN | QW
+FRAGE: Welches Wort gehört zu welchem Bild?
+PAAR: 👼️ = مَلَائِكَة
+PAAR: ❤️ = قَلۡب
+PAAR: 🔥️ = نَار
+
 #### AUFGABE | WER WIRD MILLIONÄR | NW + QW
 FRAGE: jenes
 OPTION: ذٰلِكَ
@@ -494,6 +536,12 @@ FRAGE: Was bedeutet welches Wort?
 PAAR: رَبّ = Herr
 PAAR: يَوۡم = Tag
 PAAR: مُبِين = deutlich
+
+#### AUFGABE | EMOJIS ZUORDNEN | QW
+FRAGE: Welches Wort gehört zu welchem Bild?
+PAAR: 👑️ = رَبّ
+PAAR: 📅️ = يَوۡم
+PAAR: 🔍️ = مُبِين
 
 #### AUFGABE | WER WIRD MILLIONÄR | NW + QW
 FRAGE: Gefährten
@@ -561,6 +609,12 @@ PAAR: حَمۡد = Lob
 PAAR: عِلۡم = Wissen
 PAAR: حَقّ = Wahrheit
 
+#### AUFGABE | EMOJIS ZUORDNEN | QW
+FRAGE: Welches Wort gehört zu welchem Bild?
+PAAR: 🙌️ = حَمۡد
+PAAR: 🎓️ = عِلۡم
+PAAR: ✅️ = حَقّ
+
 #### AUFGABE | WER WIRD MILLIONÄR | NW + QW
 FRAGE: in
 OPTION: فِي
@@ -627,6 +681,12 @@ PAAR: جَنَّة = Paradies
 PAAR: أَحَد = einer
 PAAR: قَدِير = mächtig
 
+#### AUFGABE | EMOJIS ZUORDNEN | QW
+FRAGE: Welches Wort gehört zu welchem Bild?
+PAAR: 🌳️ = جَنَّة
+PAAR: 1️⃣ = أَحَد
+PAAR: 💪️ = قَدِير
+
 #### AUFGABE | WER WIRD MILLIONÄR | NW + QW
 FRAGE: mit
 OPTION: بِـ
@@ -692,6 +752,12 @@ FRAGE: Was bedeutet welches Wort?
 PAAR: مُسۡلِم = Muslim
 PAAR: نَاس = Menschen
 PAAR: نَفۡس = Seele
+
+#### AUFGABE | EMOJIS ZUORDNEN | QW
+FRAGE: Welches Wort gehört zu welchem Bild?
+PAAR: 🧎️ = مُسۡلِم
+PAAR: 👪️ = نَاس
+PAAR: 💫️ = نَفۡس
 
 #### AUFGABE | WER WIRD MILLIONÄR | NW + QW
 FRAGE: er

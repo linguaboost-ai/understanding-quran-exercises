@@ -1,21 +1,22 @@
 QURAN VERSTEHEN LERNEN — REIHENFOLGE DER ÜBUNGEN IN EINER LEKTION
 
- 1  EMOJIS ZUORDNEN        Wortaufgaben-Lektion-01-11.txt
+ 1  EMOJIS ZUORDNEN | NW   Wortaufgaben-Lektion-01-11.txt
  2  DEFINITIONEN | NW      Definitionen-Lektion-01-11.txt
  3  QUIZ                   Wortaufgaben-Lektion-01-11.txt
- 4  DEFINITIONEN | QW      Definitionen-Lektion-01-11.txt
- 5  WER WIRD MILLIONÄR     Wortaufgaben-Lektion-01-11.txt
- 6  LÜCKENSATZ             Lueckensaetze-Lektion-01-11.txt
- 7  GRAMMATIK Teil 1       Grammatik-Lektion-01-11.txt   (nur richtige Formen)
- 8  GRAMMATIK Teil 2       Grammatik-Lektion-01-11.txt   (auswählen)
- 9  KATEGORIEN             Kategorien-Lektion-01-11.txt
-10  EINDRINGLING           Eindringling-Lektion-01-11.txt
-11  QURAN FRAGMENTE 1      Quranfragmente-Lektion-01-11.txt   (lesen, Wörter)
-12  QURAN FRAGMENTE 2      Quranfragmente-Lektion-01-11.txt   (hören, Wörter)
-13  QURAN FRAGMENTE 3      Quranfragmente-Lektion-01-11.txt   (lesen, Übersetzung)
-14  QURAN FRAGMENTE 4      Quranfragmente-Lektion-01-11.txt   (hören, Übersetzung)
-15  AUZAN 1                Auzan-Lektion-01-11.txt   (lesen)
-16  AUZAN 2                Auzan-Lektion-01-11.txt   (hören, Audio aus Text-to-Speech)
+ 4  EMOJIS ZUORDNEN | QW   Wortaufgaben-Lektion-01-11.txt
+ 5  DEFINITIONEN | QW      Definitionen-Lektion-01-11.txt
+ 6  WER WIRD MILLIONÄR     Wortaufgaben-Lektion-01-11.txt
+ 7  LÜCKENSATZ             Lueckensaetze-Lektion-01-11.txt
+ 8  GRAMMATIK Teil 1       Grammatik-Lektion-01-11.txt   (nur richtige Formen)
+ 9  GRAMMATIK Teil 2       Grammatik-Lektion-01-11.txt   (auswählen)
+10  KATEGORIEN             Kategorien-Lektion-01-11.txt
+11  EINDRINGLING           Eindringling-Lektion-01-11.txt
+12  QURAN FRAGMENTE 1      Quranfragmente-Lektion-01-11.txt   (lesen, Wörter)
+13  QURAN FRAGMENTE 2      Quranfragmente-Lektion-01-11.txt   (hören, Wörter)
+14  QURAN FRAGMENTE 3      Quranfragmente-Lektion-01-11.txt   (lesen, Übersetzung)
+15  QURAN FRAGMENTE 4      Quranfragmente-Lektion-01-11.txt   (hören, Übersetzung)
+16  AUZAN 1                Auzan-Lektion-01-11.txt   (lesen)
+17  AUZAN 2                Auzan-Lektion-01-11.txt   (hören, Audio aus Text-to-Speech)
 
 Innerhalb einer Aufgabenart gilt die Reihenfolge der Datei.
 Die Musteraufgaben stehen immer ganz am Schluss.

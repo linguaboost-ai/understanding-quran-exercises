@@ -111,6 +111,7 @@ body.layout-phone .side-toggle, body.layout-desktop .side-toggle { display: flex
    im Blick ist — auch waehrend der Uebungen. */
 .side-toggle.zweiter { top: 68px; }
 .side-toggle.dritter { top: 120px; }
+.side-toggle.vierter { top: 172px; }
 body:not(.lektion-aktiv) .side-toggle.fuer-lektion { display: none; }
 body.lektionen-offen .side-toggle.links { left: 316px; }
 body.einstellungen-offen .side-toggle.rechts { right: 316px; }
@@ -314,6 +315,11 @@ body.layout-mobile .footer { padding-bottom: max(18px, env(safe-area-inset-botto
 .chip-word:disabled { cursor: default; color: inherit; }
 .pair-slot .chip-word { width: 100%; box-shadow: none; }
 .hint-tag { font-size: 10px; font-weight: 700; color: var(--ok); line-height: 1.2; }
+/* Das Bild zum Wort: beim Quiz traegt es das deutsche Wort von Anfang an,
+   das arabische bekommt es, sobald die Zuordnung sitzt. */
+.chip-bild { font-size: 20px; line-height: 1; }
+.paar-bild { font-size: 22px; line-height: 1; margin-inline-end: 8px; }
+.sol.bad { color: var(--bad); }
 .chip-word.bad .hint-tag { color: var(--bad); }
 .ghost { position: fixed; left: 0; top: 0; z-index: 100; pointer-events: none; opacity: .95; box-shadow: 0 10px 24px rgba(38,36,123,.25); border-color: var(--primary); }
 
@@ -538,3 +544,16 @@ body.layout-mobile .topbar .icon-btn { width: 34px; height: 34px; }
   .k-block, .k-aufgabe { break-inside: avoid; }
   .lesson-title { column-span: all; margin-top: 0; }
 }
+
+/* Der grammatische Ausschlag in der richtigen arabischen Antwort. */
+.ausschlag { background: rgba(16, 185, 129, .28); color: inherit; border-radius: 5px;
+  padding: .02em .06em; box-decoration-break: clone; -webkit-box-decoration-break: clone; }
+
+/* Kategorien und Eindringling ueber alle Lektionen */
+.wf-woerter .k-liste { gap: 5px; }
+.wf-lektion { background: #fff; border: 1px solid var(--line); border-radius: 12px; padding: 7px 10px;
+  display: flex; flex-direction: column; gap: 3px; break-inside: avoid; }
+.wf-nr { font-size: 11px; font-weight: 700; letter-spacing: .5px; text-transform: uppercase; color: var(--primary-2); }
+.wf-lektion .k-treffer { color: var(--ink); font-weight: 600; }
+.k-lektion { display: block; font-size: 10px; font-weight: 700; letter-spacing: .5px;
+  text-transform: uppercase; color: var(--lav-3); margin-bottom: 2px; }

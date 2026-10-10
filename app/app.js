@@ -104,6 +104,7 @@ const ICON = {
   arrow: '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 4l-1.41 1.41L16.17 11H4v2h12.17l-5.58 5.59L12 20l8-8z"/></svg>',
   chevron: '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M10 6 8.59 7.41 13.17 12l-4.58 4.59L10 18l6-6z"/></svg>',
   list: '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M3 5h2v2H3zm4 0h14v2H7zM3 11h2v2H3zm4 0h14v2H7zM3 17h2v2H3zm4 0h14v2H7z"/></svg>',
+  grid: '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M3 3h8v8H3zm10 0h8v8h-8zM3 13h8v8H3zm10 0h8v8h-8z"/></svg>',
   download: '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3v9.59l3.3-3.3 1.4 1.42L12 15.41l-4.7-4.7 1.4-1.42 3.3 3.3V3zM5 18h14v2H5z"/></svg>',
   check: '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M9 16.17 4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z"/></svg>',
   cross: '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>',
@@ -133,6 +134,7 @@ async function load() {
     });
     S.course = buildCourse(order, files);
     S.deutsch = bedeutungen(files);
+    S.bilder = bilder(files);
   } catch (err) {
     console.error(err);
     S.error = String(err.message || err);
@@ -156,6 +158,19 @@ function bedeutungen(files) {
   return karte;
 }
 const bedeutung = (s) => S.deutsch?.get(String(s).trim()) || '';
+
+/* Arabisch → Bild. Die Zuordnungen stehen schon in „Emojis zuordnen", fuer
+   die neuen Woerter wie fuer die Quizwoerter. */
+function bilder(files) {
+  const karte = new Map();
+  for (const parsed of Object.values(files)) {
+    for (const t of parsed.tasks) {
+      if (t.typ === 'EMOJIS ZUORDNEN') for (const p of t.paare) karte.set(p.rechts.trim(), p.links.trim());
+    }
+  }
+  return karte;
+}
+const bild = (s) => S.bilder?.get(String(s).trim()) || '';
 
 // ---------- Navigation ----------
 function go(hash) {
@@ -185,6 +200,8 @@ function applyRoute() {
     } else {
       S.route = { name: 'lesson', lesson };
     }
+  } else if (h[0] === 'wortfelder') {
+    S.route = { name: 'fields' };
   } else {
     S.route = { name: 'home' };
   }
@@ -276,10 +293,20 @@ function check() {
   item.state.correct = evaluate(item);
   S.run.results[S.run.idx] = item.state.correct;
   render();
-  // Ohne Begründung geht es direkt weiter.
-  if (!cleanReason(item.task.begruendung)) {
+  // Ohne Begründung geht es direkt weiter — nur nicht, wenn die Aufgabe
+  // wiederholt wird: dort wartet die Meldung auf „Nochmal".
+  if (!cleanReason(item.task.begruendung) && (item.state.correct || !wirdWiederholt(item.task))) {
     S.autoTimer = setTimeout(next, item.state.correct ? 1300 : 2600);
   }
+}
+
+/* Dieselbe Aufgabe noch einmal, neu gemischt und leer. */
+function nochmal() {
+  clearTimeout(S.autoTimer);
+  if (!S.run) return;
+  enterItem();
+  render();
+  document.querySelector('#screen .scroll')?.scrollTo(0, 0);
 }
 function next() {
   clearTimeout(S.autoTimer);
@@ -363,13 +390,16 @@ function aktiveLektion() {
 
 /* Auf dem Handy gibt es die Leisten nicht; dort stehen die beiden Knoepfe
    oben in der Kopfzeile. */
-function lektionKnoepfeHtml({ ohneUebersicht = false } = {}) {
+function lektionKnoepfeHtml({ ohneUebersicht = false, ohneLektion = false, ohneFelder = false } = {}) {
   const L = t();
+  const knopf = (act, label, icon) => `<button class="icon-btn" data-act="${act}" aria-label="${esc(label)}">${icon}</button>`;
   return `<span class="topbar-lektion nur-handy">
-    ${ohneUebersicht ? '' : `<button class="icon-btn" data-act="uebersicht" aria-label="${esc(L.overview)}">${ICON.list}</button>`}
-    <button class="icon-btn" data-act="pdf" aria-label="${esc(L.pdf)}">${ICON.download}</button>
+    ${ohneFelder ? '' : knopf('wortfelder', L.fields, ICON.grid)}
+    ${ohneLektion || ohneUebersicht ? '' : knopf('uebersicht', L.overview, ICON.list)}
+    ${ohneLektion ? '' : knopf('pdf', L.pdf, ICON.download)}
   </span>`;
 }
+const wortfelderKnopfHtml = (aus) => lektionKnoepfeHtml({ ohneLektion: true, ohneFelder: aus });
 
 /* „Als PDF sichern" laeuft ueber den Druckdialog des Browsers — dort heisst
    es „Als PDF sichern" bzw. „Save as PDF". Ein eigener PDF-Erzeuger waere
@@ -395,6 +425,7 @@ function screenHtml() {
   switch (S.route.name) {
     case 'lesson': return lessonHtml(S.route.lesson);
     case 'overview': return uebersichtHtml(S.route.lesson);
+    case 'fields': return wortfelderHtml();
     case 'run': return runHtml();
     case 'result': return resultHtml();
     default: return homeHtml();
@@ -417,6 +448,7 @@ function homeHtml() {
   return `<div class="screen">
     <header class="topbar">
       <span class="topbar-side"></span>
+      ${wortfelderKnopfHtml(false)}
       <h1 class="topbar-title">${esc(L.appTitle)}</h1>
       <button class="icon-btn" data-act="settings" aria-label="${esc(L.settings)}">${ICON.gear}</button>
     </header>
@@ -493,7 +525,9 @@ function aufgabeKurzHtml(task) {
 
   if (task.options.length) {
     const frage = task.frage ? `<div class="k-frage">${mixed(task.frage)}</div>` : '';
-    const satz = task.text && !task.audio ? `<div class="k-satz" lang="ar" dir="rtl">${esc(task.text)}</div>` : '';
+    // Auch bei Hoeraufgaben steht hier, was zu hoeren ist — der Hinweis „zum
+    // Hoeren" bleibt daneben stehen.
+    const satz = task.text ? `<div class="k-satz" lang="ar" dir="rtl">${esc(task.text)}</div>` : '';
     const hoeren = task.audio ? `<div class="k-frage k-hoeren">${esc(t().listen)}${task.audioText ? ' · ' : ''}${task.audioText ? word(task.audioText) : ''}</div>` : '';
     /* Alle Antwortmoeglichkeiten, nicht nur die richtigen: erst daneben
        ist zu sehen, wogegen die richtige steht. Die richtigen gruen und
@@ -503,6 +537,57 @@ function aufgabeKurzHtml(task) {
     return `${frage}${satz}${hoeren}<div class="k-loesung">${antworten}</div>`;
   }
   return task.text ? `<div class="k-satz" lang="ar" dir="rtl">${esc(task.text)}</div>` : '';
+}
+
+/* Die Woerter einer Lektion: die drei neuen aus „Emojis zuordnen", die drei
+   Quizwoerter aus dem Quiz. */
+function woerterDerLektion(lesson) {
+  const aus = [];
+  for (const abschnitt of lesson.sections) {
+    const e = abschnitt.entry;
+    // „Emojis zuordnen | NW": Bild = Wort. „Quiz": Wort = Bedeutung.
+    const seite = e.typ === 'EMOJIS ZUORDNEN' && e.gruppe === 'NW' ? 'rechts'
+      : e.typ === 'QUIZ' ? 'links' : null;
+    if (!seite) continue;
+    for (const task of abschnitt.tasks) for (const p of task.paare) aus.push(p[seite]);
+  }
+  return [...new Set(aus)];
+}
+
+/* Kategorien und Eindringling ueber alle Lektionen, davor der ganze
+   Wortschatz. Beide Aufgabenarten fragen dasselbe: wohin ein Wort der
+   Bedeutung nach gehoert — deshalb stehen sie hier beisammen. */
+function wortfelderHtml() {
+  const L = t();
+  const woerter = S.course.map((l) => `
+    <div class="wf-lektion"><span class="wf-nr">${esc(L.lesson)} ${l.nr}</span>
+      <span class="k-loesung">${woerterDerLektion(l).map((w) => `<span class="k-treffer">${mitSinn(w)}</span>`).join('')}</span></div>`).join('');
+  const bloecke = ['KATEGORIEN', 'EINDRINGLING'].map((art) => {
+    const zeilen = S.course.flatMap((l) => l.sections
+      .filter((s) => s.entry.typ === art)
+      .flatMap((s) => s.tasks.map((task) => `<div class="k-aufgabe"><span class="k-lektion">${esc(L.lesson)} ${l.nr}</span>${aufgabeKurzHtml(task)}</div>`)));
+    if (!zeilen.length) return '';
+    return `<section class="k-block">
+      <h3 class="k-titel">${esc(art)}<span class="k-zahl">${zeilen.length}</span></h3>
+      <div class="k-liste">${zeilen.join('')}</div>
+    </section>`;
+  }).join('');
+  return `<div class="screen">
+    <header class="topbar">
+      <button class="icon-btn" data-go="#/" aria-label="${esc(L.back)}">${ICON.back}</button>
+      ${wortfelderKnopfHtml(true)}
+      <h1 class="topbar-title">${esc(L.fields)}</h1>
+      <span class="topbar-side"></span>
+    </header>
+    <main class="scroll kompakt">
+      <h2 class="lesson-title">${esc(L.fields)}</h2>
+      <section class="k-block wf-woerter">
+        <h3 class="k-titel">${esc(L.allWords)}</h3>
+        <div class="k-liste">${woerter}</div>
+      </section>
+      ${bloecke}
+    </main>
+  </div>`;
 }
 
 function uebersichtHtml(lesson) {
@@ -646,6 +731,40 @@ function taskBodyHtml(item) {
   return promptHtml(task);
 }
 
+/* Mehrere arabische Antworten unterscheiden sich oft nur in einer Endung —
+   dem -un in schai'un etwa. Verglichen wird die richtige Antwort mit jeder
+   falschen; der kleinste Unterschied gibt den Ausschlag. Reicht er ueber den
+   halben Wortkoerper, unterscheiden sich die Antworten ueberall und es gibt
+   nichts hervorzuheben. In deutschen Antworten wird nichts markiert. */
+const VOKALZEICHEN = /[\u064B-\u0652\u0670\u06D6-\u06ED]/;
+function unterschied(a, b) {
+  const kurz = Math.min(a.length, b.length);
+  let vorn = 0;
+  while (vorn < kurz && a[vorn] === b[vorn]) vorn++;
+  let hinten = 0;
+  while (hinten < kurz - vorn && a[a.length - 1 - hinten] === b[b.length - 1 - hinten]) hinten++;
+  return { vorn, hinten, laenge: a.length - vorn - hinten };
+}
+function ausschlag(richtig, optionen) {
+  if (optionen.length < 2 || !optionen.every(isArabic)) return null;
+  let kleinster = null;
+  for (const o of optionen) {
+    if (o === richtig) continue;
+    const u = unterschied(richtig, o);
+    if (u.laenge > 0 && (!kleinster || u.laenge < kleinster.laenge)) kleinster = u;
+  }
+  if (!kleinster || kleinster.laenge > richtig.length * 0.6) return null;
+  /* Ein Vokalzeichen steht ueber seinem Buchstaben und hat selbst keine
+     Breite — allein markiert waere es ein Strich neben dem Wort. Der
+     Traegerbuchstabe kommt deshalb mit hinein. */
+  while (kleinster.vorn > 0 && VOKALZEICHEN.test(richtig[kleinster.vorn])) kleinster.vorn--;
+  return kleinster;
+}
+function wortMitAusschlag(o, teil) {
+  const mitte = o.slice(teil.vorn, o.length - teil.hinten);
+  return `<bdi class="ar-word" lang="ar" dir="rtl">${esc(o.slice(0, teil.vorn))}<mark class="ausschlag">${esc(mitte)}</mark>${esc(o.slice(o.length - teil.hinten))}</bdi>`;
+}
+
 function choiceHtml(item) {
   const { task, state: st } = item;
   const hasGap = /_{3,}/.test(task.frage || '') || /_{3,}/.test(task.text || '');
@@ -659,6 +778,8 @@ function choiceHtml(item) {
      kurze Antwort ist „Barmherzigkeit" (14), der kuerzeste ganze Satz
      „Das ist ein Ding." (17). Saetze bleiben untereinander. */
   const kurzOpts = !arabicOpts && task.options.every((o) => o.trim().length <= 15);
+  // Nach dem Pruefen zeigt die richtige Antwort, woran die Grammatik haengt.
+  const teil = st.checked && task.typ === 'GRAMMATIK' ? ausschlag(task.richtig[0], task.options) : null;
   const opts = st.order.map((i) => {
     const o = task.options[i];
     const right = task.richtig.includes(o);
@@ -669,38 +790,56 @@ function choiceHtml(item) {
     else if (S.settings.showAnswers && right) cls += ' hint';
     const mark = st.checked && (right || sel) ? `<span class="mark">${right ? ICON.check : ICON.cross}</span>` : '';
     const box = item.multi ? `<span class="box" aria-hidden="true">${sel ? ICON.check : ''}</span>` : '';
+    const text = teil && right ? wortMitAusschlag(o, teil) : word(o);
     return `<button class="${cls}" data-opt="${i}" ${st.checked ? 'disabled' : ''} role="${item.multi ? 'checkbox' : 'radio'}" aria-checked="${sel}">
-      ${box}<span class="option-text">${word(o)}</span>${mark}</button>`;
+      ${box}<span class="option-text">${text}</span>${mark}</button>`;
   }).join('');
   return `${promptHtml(task, fill)}<div class="options ${arabicOpts ? 'ar-options' : ''}${satzOpts ? ' satz-options' : ''}${kurzOpts ? ' kurz-options' : ''}" role="${item.multi ? 'group' : 'radiogroup'}">${opts}</div>`;
 }
 
-function chipHtml(text, id, { selected = false, extra = '', status = '', hint = '' } = {}) {
+function chipHtml(text, id, { selected = false, extra = '', status = '', hint = '', bild = '' } = {}) {
   return `<button class="chip-word ${selected ? 'selected' : ''} ${status}" data-drag="${id}" ${extra}>
+    ${bild ? `<span class="chip-bild" aria-hidden="true">${esc(bild)}</span>` : ''}
     ${word(text)}${hint ? `<span class="hint-tag">${hint}</span>` : ''}</button>`;
+}
+
+/* Das Quiz wird wiederholt, bis alles sitzt: nach dem Pruefen wird nicht
+   verbessert, es wird nur gesagt, welche Woerter falsch liegen. */
+const wirdWiederholt = (task) => task.typ === 'QUIZ';
+// Welche Zeilen sind falsch zugeordnet? Gibt die arabischen Woerter zurueck.
+function falschZugeordnet(item) {
+  const { task, state: st } = item;
+  return task.paare.map((p, li) => (task.paare[st.assign[li]]?.rechts === p.rechts ? null : p.links)).filter(Boolean);
 }
 
 function pairsHtml(item) {
   const { task, state: st } = item;
   const L = t();
   const used = new Set(Object.values(st.assign));
+  /* Beim Quiz traegt das deutsche Wort sein Bild von Anfang an. Sitzt die
+     Zuordnung, bekommt es das arabische Wort dazu. */
+  const mitBild = task.typ === 'QUIZ';
+  const bildZu = (ri) => (mitBild ? bild(task.paare[ri].links) : '');
   const rows = st.leftOrder.map((li) => {
     const left = task.paare[li].links;
     const ri = st.assign[li];
     let status = '';
     if (st.checked) status = task.paare[ri]?.rechts === task.paare[li].rechts ? 'ok' : 'bad';
     const slot = ri !== undefined
-      ? chipHtml(task.paare[ri].rechts, `r${ri}`, { status, extra: st.checked ? 'disabled' : '' })
+      ? chipHtml(task.paare[ri].rechts, `r${ri}`, { status, bild: bildZu(ri), extra: st.checked ? 'disabled' : '' })
       : (S.settings.showAnswers ? `<span class="slot-hint">${word(task.paare[li].rechts)}</span>` : '');
-    const fix = st.checked && status === 'bad' ? `<div class="fix">${ICON.arrow}${word(task.paare[li].rechts)}</div>` : '';
+    // Verbessert wird nur, wo die Aufgabe nicht ohnehin wiederholt wird.
+    const fix = st.checked && status === 'bad' && !wirdWiederholt(task)
+      ? `<div class="fix">${ICON.arrow}${word(task.paare[li].rechts)}</div>` : '';
+    const lohn = mitBild && status === 'ok' ? `<span class="paar-bild" aria-hidden="true">${esc(bild(left))}</span>` : '';
     return `<div class="pair-row ${status}" data-drop="l${li}">
-      <div class="pair-left ${/\p{Extended_Pictographic}/u.test(left) ? 'emoji' : ''}">${word(left)}</div>
+      <div class="pair-left ${/\p{Extended_Pictographic}/u.test(left) ? 'emoji' : ''}">${lohn}${word(left)}</div>
       <div class="pair-slot">${slot}</div>
       ${fix}
     </div>`;
   }).join('');
   const pool = st.poolOrder.filter((ri) => !used.has(ri))
-    .map((ri) => chipHtml(task.paare[ri].rechts, `r${ri}`, { selected: st.picked === `r${ri}` })).join('');
+    .map((ri) => chipHtml(task.paare[ri].rechts, `r${ri}`, { selected: st.picked === `r${ri}`, bild: bildZu(ri) })).join('');
   return `<div class="pairs">${rows}</div>
     ${st.checked ? '' : `<div class="pool" data-drop="pool">${pool}</div><p class="how">${esc(L.tapToPair)}</p>`}`;
 }
@@ -734,16 +873,24 @@ function feedbackHtml(item) {
   const { task, state: st } = item;
   const reason = cleanReason(task.begruendung);
   const last = S.run.idx === S.run.items.length - 1;
+  const wieder = !st.correct && wirdWiederholt(task);
   let solution = '';
   if (!st.correct && st.kind === 'choice') {
     solution = `<div class="solution"><span class="label">${esc(L.solution)}</span>
       <div class="solution-list">${task.richtig.map((r) => `<span class="sol">${word(r)}</span>`).join('')}</div></div>`;
   }
+  /* Beim Quiz steht hier nicht die Loesung, sondern nur, welche Woerter
+     noch nicht sitzen — danach geht dieselbe Aufgabe von vorn los. */
+  if (wieder) {
+    const falsch = falschZugeordnet(item);
+    solution = `<div class="solution"><span class="label">${esc(L.stillWrong)}</span>
+      <div class="solution-list">${falsch.map((w) => `<span class="sol bad">${word(w)}</span>`).join('')}</div></div>`;
+  }
   return `<div class="feedback ${st.correct ? 'ok' : 'bad'}" role="status">
     <div class="feedback-head"><span class="feedback-icon">${st.correct ? ICON.check : ICON.cross}</span>${esc(st.correct ? L.correct : L.wrong)}</div>
     ${solution}
-    ${reason ? `<p class="reason">${mixed(reason)}</p>` : '<div class="auto-bar"><span></span></div>'}
-    <button class="btn ${st.correct ? 'ok' : 'bad'}" data-act="next">${esc(last ? L.finish : L.next)}</button>
+    ${reason && !wieder ? `<p class="reason">${mixed(reason)}</p>` : (wieder ? '' : '<div class="auto-bar"><span></span></div>')}
+    <button class="btn ${st.correct ? 'ok' : 'bad'}" data-act="${wieder ? 'nochmal' : 'next'}">${esc(wieder ? L.again : last ? L.finish : L.next)}</button>
   </div>`;
 }
 
@@ -886,6 +1033,7 @@ document.addEventListener('click', (e) => {
     sc?.scrollBy({ top: Math.round(sc.clientHeight * 0.8), behavior: 'smooth' });
     return;
   }
+  if (act === 'wortfelder') { go('#/wortfelder'); return; }
   if (act === 'uebersicht') {
     const l = aktiveLektion();
     if (l) go(`#/lektion/${l.nr}/uebersicht`);
@@ -897,6 +1045,7 @@ document.addEventListener('click', (e) => {
   if (act === 'check') { check(); return; }
   if (act === 'play') { playCurrent(); return; }
   if (act === 'next') { next(); return; }
+  if (act === 'nochmal') { nochmal(); return; }
   if (act === 'prev') { jump(-1); return; }
   if (act === 'skip') { jump(1); return; }
   if (act === 'restart') { startRun(S.run.lesson); go(`#/lektion/${S.run.lesson.nr}/uebungen`); return; }
