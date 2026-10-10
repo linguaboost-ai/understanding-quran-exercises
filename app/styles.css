@@ -404,7 +404,8 @@ body.layout-desktop .frage { font-size: 26px; margin: 22px 2px 14px; }
 .k-hoeren { font-style: italic; }
 .k-satz { font-family: var(--ar); font-size: 19px; line-height: 1.55; margin: 1px 0; }
 .k-loesung { display: flex; flex-wrap: wrap; gap: 4px 12px; align-items: baseline; }
-.k-treffer { font-weight: 600; }
+.k-treffer { font-weight: 700; color: var(--ok); }
+.k-daneben { color: var(--muted); }
 .sinn { font-size: 12px; font-weight: 400; color: var(--muted); margin-inline-start: 5px; }
 
 .k-paare { display: flex; flex-direction: column; gap: 2px; }
@@ -419,15 +420,20 @@ body.layout-desktop .frage { font-size: 26px; margin: 22px 2px 14px; }
 .k-kat-woerter { display: flex; flex-direction: column; gap: 1px; }
 .k-kats .ar-word, .k-paar .ar-word, .k-loesung .ar-word { font-size: 18px; line-height: 1.35; }
 
-.btn.ghost { background: #fff; color: var(--primary); border-color: var(--lav-3); }
-.btn.ghost:hover { border-color: var(--primary); }
-
 /* So viele Spalten, wie die Breite hergibt — auf dem Handy eine, am
-   Schreibtisch mehrere. Ein Block wird dabei nie auseinandergerissen. */
-.scroll.kompakt { column-width: 330px; column-gap: 20px; }
-.k-block { break-inside: avoid; }
-body.layout-desktop .k-block, body.layout-phone .k-block { margin-top: 0; margin-bottom: 14px; }
-.scroll.kompakt .lesson-title { column-span: all; }
+   Schreibtisch mehrere. Ein Raster, keine Zeitungsspalten: gelesen wird
+   von links nach rechts und am Rand weiter nach unten, nicht erst eine
+   Spalte ganz hinunter.
+   Im Raster liegen die einzelnen Aufgaben, nicht die Bloecke — sonst
+   richtet sich jede Zeile nach dem hoechsten Block und darunter bleibt
+   eine halbe Bildschirmhoehe leer. Block und Liste reichen ihre Kinder
+   deshalb ans Raster durch, die Ueberschrift nimmt eine ganze Zeile. */
+.scroll.kompakt { display: grid; grid-template-columns: repeat(auto-fill, minmax(330px, 1fr));
+  gap: 5px 20px; align-content: start; align-items: start; }
+.scroll.kompakt .lesson-title { grid-column: 1 / -1; }
+.scroll.kompakt .k-block, .scroll.kompakt .k-liste { display: contents; }
+.scroll.kompakt .k-titel { grid-column: 1 / -1; margin: 14px 0 2px; }
+.k-aufgabe { break-inside: avoid; }
 
 /* Die Uebersicht ist zum Lesen da, nicht zum Vorfuehren: im Browserfenster
    faellt dafuer das abgebildete Handy weg und die Seite nimmt die Breite,
@@ -527,9 +533,8 @@ body.layout-mobile .topbar .icon-btn { width: 34px; height: 34px; }
     border-radius: 0 !important; overflow: visible !important; }
   .scroll { overflow: visible !important; height: auto !important;
     max-height: none !important; padding: 0 !important; box-shadow: none !important; }
-  /* Auf A4 zwei feste Spalten. Die Spaltenbreite vom Bildschirm muss weg,
-     sonst passt neben ihr keine zweite Spalte mehr aufs Blatt. */
-  .scroll.kompakt { column-width: auto !important; column-count: 2 !important; column-gap: 10mm; }
+  /* Auf A4 zwei feste Spalten, in derselben Leserichtung wie am Schirm. */
+  .scroll.kompakt { grid-template-columns: 1fr 1fr !important; gap: 0 10mm !important; }
   .k-block, .k-aufgabe { break-inside: avoid; }
   .lesson-title { column-span: all; margin-top: 0; }
 }

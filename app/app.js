@@ -495,7 +495,12 @@ function aufgabeKurzHtml(task) {
     const frage = task.frage ? `<div class="k-frage">${mixed(task.frage)}</div>` : '';
     const satz = task.text && !task.audio ? `<div class="k-satz" lang="ar" dir="rtl">${esc(task.text)}</div>` : '';
     const hoeren = task.audio ? `<div class="k-frage k-hoeren">${esc(t().listen)}${task.audioText ? ' · ' : ''}${task.audioText ? word(task.audioText) : ''}</div>` : '';
-    return `${frage}${satz}${hoeren}<div class="k-loesung">${task.richtig.map((r) => `<span class="k-treffer">${mitSinn(r)}</span>`).join('')}</div>`;
+    /* Alle Antwortmoeglichkeiten, nicht nur die richtigen: erst daneben
+       ist zu sehen, wogegen die richtige steht. Die richtigen gruen und
+       fett, die uebrigen blass. */
+    const antworten = task.options.map((o) =>
+      `<span class="${task.richtig.includes(o) ? 'k-treffer' : 'k-daneben'}">${mitSinn(o)}</span>`).join('');
+    return `${frage}${satz}${hoeren}<div class="k-loesung">${antworten}</div>`;
   }
   return task.text ? `<div class="k-satz" lang="ar" dir="rtl">${esc(task.text)}</div>` : '';
 }
